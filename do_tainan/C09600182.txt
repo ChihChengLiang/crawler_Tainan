@@ -1,0 +1,207 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   261
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09600182
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加2006年吉隆坡第九屆遠東暨南太平洋區身心障礙運動會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加2006年吉隆坡第九屆遠東暨南太平洋區身心障礙運動會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09600182&amp;fileNo=1" title="另開視窗">
+    C09600182_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      任芝蓉
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      話務中心
+     </td>
+     <td>
+      約用人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   馬來西亞
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   台南市政府等
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(運動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年11月21日 至 民國95年12月02日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國96年01月19日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   全民運動規劃與推動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   2006年第九屆遠東暨南太平洋區身心障礙運動會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   依據遠東暨南太平洋區殘障運動會會章，會員國應善盡會員之權利與義務，在精簡周密之編組下，由中華民國殘障體育運動總會，組團帶領我們參加了2006年馬來西亞吉隆坡第九屆遠東暨南太平洋區身心障礙運動會，增加我們參加國際賽會經驗，爭取佳績，得以有為國爭光的機會。
+   <br/>
+   此次保齡球比賽為遠東暨南太平洋區殘障運動會首次將之列入競賽項目，除讓我們可以達到體育交流、以球會友的目的外，更是我國殘障體育推展成果的展現。本次在比賽過程中，我們幾個選手於參賽之餘，並以不流利的英語與來自各國的殘障選手建立友誼，結交許多異國好友，也成功的將我們台灣之美介紹給他們瞭解，亦是一大收穫。
+  </td>
+ </tr>
+</table>

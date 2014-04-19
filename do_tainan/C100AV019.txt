@@ -1,0 +1,289 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   103
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV019
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2011臺南愛文芒果日本推廣活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「2011臺南愛文芒果日本推廣活動」出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV019&amp;fileNo=1" title="另開視窗">
+    C100AV019_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府農業局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/agron" target="_blank">
+    http://www.tainan.gov.tw/agron
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      顏純左
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭伊彬
+     </td>
+     <td>
+      臺南市政府農業局
+     </td>
+     <td>
+     </td>
+     <td>
+      代理局長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳威達
+     </td>
+     <td>
+      臺南市政府農業局
+     </td>
+     <td>
+     </td>
+     <td>
+      代理主秘
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許文耀
+     </td>
+     <td>
+      臺南市政府農業局
+     </td>
+     <td>
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃瓊瑩
+     </td>
+     <td>
+      臺南市政府農業局
+     </td>
+     <td>
+     </td>
+     <td>
+      約聘
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張淑娥
+     </td>
+     <td>
+      臺南市政府農業局
+     </td>
+     <td>
+     </td>
+     <td>
+      約聘
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   無
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(農產推廣)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年06月24日 至 民國100年06月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年10月18日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業環保
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   芒果，外銷，日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   25頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   芒果為台南市最具代表性的農特產品，其中又以有著紅澄澄外表、日本稱之為「Apple mango」的愛文芒果最受歡迎，甜美多汁的風味，細緻的口感，總吸引許多國內外消費者的青睞，近年來嚴格管控果品品質，口感香氣已可媲美日本等級，歷年來更多次前往日本辦理臺南愛文芒果拓銷活動，並建立「盛夏的紅寶石」品牌，台南芒果的美味，已漸漸擄獲日本消費者的味蕾。｢2011台南愛文芒果日本拓銷團」由顏副市純左長率團，於25日、26日兩日密集的拓銷活動，受到當地消費者熱烈的回應。二日共辦理3場活動，在駐日代表及外貿協會東京辦事處等大力協助促銷，透過統一速達公司及日本東京新宿丸正超市、冰冰花公司及東京御毛屋調布仙川店等三個通路點，以芒果鮮果試吃、試售、及芒果冰品三種形式，成功推銷台南愛文芒果！
+  </td>
+ </tr>
+</table>

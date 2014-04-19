@@ -1,0 +1,206 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   76
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C103AV004
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2013 20th ITS World Congress TOKYO （2013年日本東京第20屆智慧型運輸系統世界大會)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2013 20th ITS World Congress TOKYO（2013年日本東京第20屆智慧型運輸系統世界大會)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C103AV004&amp;fileNo=1" title="另開視窗">
+    C103AV004_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      李光益
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      交通局
+     </td>
+     <td>
+      主任秘書
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本東京第20屆智慧型運輸系統世界大會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(出席國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年10月13日 至 民國102年10月19日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國103年01月17日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   交通運輸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   交通控制系統
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   智慧型運輸系統
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   54頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   繼「世界智慧型運輸系統年會(19th ITS World Congress)」2012年於奧地利舉辦後，此世界各國針對智慧型運輸系統發展所舉辦之年度盛會，2013 年於亞洲日本之東京舉行。會議涵蓋產、官、學、研各界，交換世界最近的ITS技術與研究，2012 年由交通局林副局長炎成率交通局同仁共同前往考察，以吸取國外政策之特長，並在國內獲致實用。交通局並依據會議之相關技術與概念，研議後辦理「102 年度安平觀光地區行車監控疏導與停車導引系統建置計畫」，目前已完成評選作業，正積極展開建置中，已將考察結果實際落實於本市實際建設中。
+   <br/>
+   本次會議於2013年10月14日至10月18日於日本東京舉行。本屆大會主題為「Open ITS to the next」，意為開啟ITS 的發展潛力、滿足運輸基礎需求、促成緊密的連結、創造合作機會，為ITS 發展開啟一個新的紀元。交通局並於會議中發表”Development History of Tainan City Dynamic Bus Information System”
+   <br/>
+   論文一篇，介紹本市公車動態系統發展的歷程。本報告將介紹 ITS 年會之概要，參加會議歷程與議程內容進行說明，並將實地考察東京都內之交通設施及公共運輸進行介紹。最後，本報告亦就整考察心得提出建議，期為日後政策之參考。
+  </td>
+ </tr>
+</table>

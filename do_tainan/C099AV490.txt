@@ -1,0 +1,224 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   185
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV490
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府參加新加坡中秋節燈節臺灣美食展出
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加2010年新加坡華族文化節暨月圓河畔慶中秋-台灣美食街出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AV490&amp;fileNo=1" title="另開視窗">
+    C099AV490_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林惠美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃盈琇
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   新加坡
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   新加坡克拉克碼頭
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參加台灣美食街)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年09月06日 至 民國99年09月09日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年12月01日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   其他
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   其他
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   新加坡，美食
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   14頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   新加坡政府近年來積極推動華族文化，每年重大節慶均透過民間組織舉辦大型文化活動慶祝，駐新加坡代表處鑒於台灣美食深受星國民眾喜愛，為推展台灣美食文化並促進星國人民來台觀光，特別邀請有美食博物館之稱的台南市10家美食業者組隊參加。由新加坡報業控股華文報集團（SPH）於9月8日至22日籌辦之2010年新加坡「華族文化節」之「月圓河畔慶中秋—台灣美食街」活動，活動規劃主要以國內20家及新加坡當地4家共24個台灣美食攤位方式辦理，塑造台灣美食區整體環境及意象。因新加坡政府特別規定，肉類食品不能自行進口，各家業者無不想盡各種方法端出不失原味之拿手好菜，讓新加坡民眾、遊客體驗台灣各式著名小吃，共同行銷台灣在地美食特色。
+  </td>
+ </tr>
+</table>

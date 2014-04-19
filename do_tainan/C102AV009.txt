@@ -1,0 +1,221 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   165
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV009
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   「2013年7月19-20日辦理香港醫療美容、觀光旅遊、美食及農產品推廣活動」展覽場地勘查評估
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「2013年7月19-20日辦理香港 醫療美容、觀光旅遊、美食及農產品推廣活動」展覽場地勘查評估出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C102AV009&amp;fileNo=1" title="另開視窗">
+    C102AV009_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許漢卿
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      農業局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳俊傑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      農業局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   無
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年05月31日 至 民國102年05月31日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年06月19日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農產貿易
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   農產行銷，香港貿易
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   13頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南機場自7月18日起，每週二、四、日，將有定期班機直飛香港，透過這條航線，更方便雲嘉南旅客出入香港及澳門，亦能將台南市觀光產業進一步躍向國際，預料帶來兩地新一波旅遊觀光熱潮。臺南市政府決定在7月18日當天，由賴市長帶領市府團隊前往香港，預計將在商場舉辦為期兩天的展售活動，屆時將由文化局、衛生局、觀光旅遊局、經濟發展局、農業局等單位邀請業者前往設攤，主要行銷內容包含台南市的觀光旅遊套裝行程、醫療美容行程、文化創意商品、芒果、鳳梨酥、蘭花等農特產品。為先瞭解各展覽場地之環境及是否有檔期可提供本市辦理行銷活動，由農業局在5月31日前往香港勘查3處展場，分別為新界區：荃灣悅來坊商場。中環區：中環天星碼頭。九龍區：深水埗西九龍中心。就所勘查場地進行評估分析優劣勢，提出建議適合地點。經分析結果建議，以荃灣悅來坊商場作為本市7月19-20日活動之展覽場地。
+  </td>
+ </tr>
+</table>

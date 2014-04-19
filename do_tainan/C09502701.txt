@@ -1,0 +1,208 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   221
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09502701
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2006年日本仙台市常盤木學園音樂交流參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2006年日本仙台市常盤木學園音樂交流參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09502701&amp;fileNo=1" title="另開視窗">
+    C09502701_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳坤松
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市立大成國中
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本仙台市常盤木學園
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(交流參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年07月06日 至 民國95年07月12日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年10月12日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   2006年日本仙台市常盤木學園音樂交流參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   0頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市大成國中交響樂團，是由大成國中音樂班的同學們所組成，於西元1981年成立，迄今已有25年歷史。在台南市府的全力支持與歷任校長、師長們辛勤的耕耘之下，終得以茁壯成長，除了為府城培育出無數傑出的音樂人才；更多次獲得教育部主辦的音樂班評鑑優等的肯定, 應屆畢業生參加甄試升學也都有相當優異的成績表現，多年來, 管絃樂團也多次獲得全國音樂比賽優等,特優的佳績, 是全國數一數二的一個音樂團體, 並曾多次受邀前往日本、中國大陸、東南亞等地從事演出，從中獲得許多寶貴的演奏經驗。
+   <br/>
+   音樂的展現, 是美感的經驗, 心靈的感動, 為了追求這份美感與感動, 同學們行前的集訓或行前演出莫不卯足全力求精進 ｡ 音樂更是表演藝術 ,透過美好經驗的累積,音樂園地的經營才能更紮實｡ 本次參訪由本校陳校長坤松率領管絃樂團師生,於95年7月6日前往日本仙台市,進行為期7日的音樂交流盛會,除了讓管絃樂團全體師生們觀摩日本優良文化, 促進中日青少年音樂文化交流,參與國民外交外, 更藉此活動激勵磨練同學們演奏技巧,強化團隊精神,且提升音樂水準。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,177 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   122
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702631
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   赴義大利蘇連多市參加2008年第22屆國際春天藝術節
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市北區大光國民小學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳東陽
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      顏琪芳
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳美珍
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      高素貞
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      臺南市北區大光國民小學
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   義大利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(表演參觀)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年06月04日 至 民國97年06月13日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+</table>

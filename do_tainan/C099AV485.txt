@@ -1,0 +1,261 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   126
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV485
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市南英棒球隊赴帛琉體育交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市南英棒球隊赴帛琉體育交流返國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AV485&amp;fileNo=1" title="另開視窗">
+    C099AV485_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王水文
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊明達
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      南英棒球隊20人
+     </td>
+     <td>
+      私立南英商工
+     </td>
+     <td>
+     </td>
+     <td>
+      教練、選手
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   帛琉群島
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   棒球比賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(體育交流)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年07月19日 至 民國99年07月24日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年10月25日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   體育交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   帛琉共和國視棒球為「國球」。該國為備戰本（99）年八月一日舉行之密克羅尼西亞運動會，其參議院議長莫圖(Mlib Tmetuchl)特來函邀請台南市許市長率領所屬私立南英商工棒球隊前往與其國家隊進行體育交流，增進其國家棒球隊相關知能與實戰經驗外並增進兩國邦誼。雙方進行5場賽事，我國4勝1和全場不敗。
+  </td>
+ </tr>
+</table>

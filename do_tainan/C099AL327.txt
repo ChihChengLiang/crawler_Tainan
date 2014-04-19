@@ -1,0 +1,230 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   9
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AL327
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   瑞士荷蘭文化歷史考察暨參加聯合國會議案
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   瑞士荷蘭文化歷史考察暨參加聯合國會議案
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AL327&amp;fileNo=1" title="另開視窗">
+    C099AL327_01.doc
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL327&amp;fileNo=2" title="另開視窗">
+    C099AL327_02.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL327&amp;fileNo=3" title="另開視窗">
+    C099AL327_03.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL327&amp;fileNo=4" title="另開視窗">
+    C099AL327_04.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL327&amp;fileNo=5" title="另開視窗">
+    C099AL327_05.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL327&amp;fileNo=6" title="另開視窗">
+    C099AL327_06.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      萬淑娟
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府文化處
+     </td>
+     <td>
+      約
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   荷蘭
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   瑞士日內瓦聯合國人權理事會等
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年07月12日 至 民國99年07月21日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年10月15日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   30頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   參訪者有幸進入位在瑞士日內瓦的聯合國總部參加人權理事會ＥMRIP「原住民權利專家機制」會議，見識到國際會議的大場面，親自目睹來自世界各地的原住民代表齊聚一堂，以獨特多采的服飾，多元的語言呈現萬族萬邦的美麗畫面，並以國際視野來看待台灣原住民及世界各地原住民族群共同的處境及在不同國情中所衍生不同的問題及尋求解決的途徑。台灣並非聯合國的會員國，參訪者此次得以進入人權理事會參加會議，實非容易之舉，但也在在顯示透過世界原住民族的交流活動，更有助於提升台灣的國際形象，並進而有機會參與聯合國的各項事務。
+  </td>
+ </tr>
+</table>

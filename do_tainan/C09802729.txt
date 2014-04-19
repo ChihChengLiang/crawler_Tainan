@@ -1,0 +1,287 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   78
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09802729
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參訪日本松本市及日光市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參訪日本松本市及日光市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09802729&amp;fileNo=1" title="另開視窗">
+    C09802729_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇恩恩
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王嘉琳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳建儀
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      專員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳冠億
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   社團法人松本青年會議所,松本市民藝術館,松本市役所,
+ 松本市美術館,日光市役所及日光市市議會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年08月23日 至 民國98年08月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年10月02日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本松本市及日光市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   20頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市與日光市同樣是以觀光與文化資產聞名的城市，此次台南市府團隊來到日光市參訪，除了交流聯誼之外，更是要觀摩學習日光市對於觀光行銷的作法。
+   <br/>
+   今天除台南市府團隊來參與盛會外，還有台南女國際青商會，台南女國際青商會與松本青年會議所於1990年締結為姊妹會，每年都有互訪的活動，藉由訪問交流也促進了台南市與松本市人民間相互的了解與合作。
+   <br/>
+   台南市是一座近400年歷史的古城，是台灣的文化首都，有豐富的歷史古蹟、先進的科技園區、環保的生態環境、文明的都市景觀，是一座智慧型的國際新都市；且2010年12月25日台南市將與台南縣合併升格為直轄市，屆時擁有更雄厚的經濟與觀光資源，所以台南市府團隊歡迎日光市與松本市之民間團體到台南市觀光與投資，以促進雙方經貿與文化觀光之交流與發展。
+   <br/>
+  </td>
+ </tr>
+</table>

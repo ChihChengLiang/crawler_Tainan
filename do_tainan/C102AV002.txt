@@ -1,0 +1,264 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   149
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV002
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「第19屆智慧型運輸系統世界大會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「第19屆智慧型運輸系統世界大會」 出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C102AV002&amp;fileNo=1" title="另開視窗">
+    C102AV002_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林炎成
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府交通局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡琮宇
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府交通局
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王國明
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府交通局
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳俁之
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府交通局
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   奧地利、捷克
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   第19屆智慧型運輸系統世界大會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年10月18日 至 民國101年10月27日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年01月23日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   交通運輸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   交通控制系統
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   智慧型交通運輸系統，交通工程，交通控制，停車管理，運輸規劃，ITS
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   64頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   智慧型運輸系統 (Intelligent Transportation System, ITS) 係利用先進之電子、通信、電腦、控制及感測等技術於各種運輸系統（尤指陸上運輸），透過即時資訊傳輸，以增進安全、效率與服務，改善交通問題。其目標在於增進行車安全、降低交通壅塞、提昇運輸效率、降低環境衝擊、提高能源使用效率、促進相關產業發展。此乃世界各國在均致力發展的交通政策。
+   <br/>
+   本次「世界智慧型運輸系統年會 (19th ITS World Congress)」係世界各國針對智慧型運輸系統所舉辦之年度盛會，本年會由歐亞美各分區輪流主辦，歷年會議涵蓋產、官、學、研各界，交換世界最近的ITS技術與研究，非常值得我國前往學習、交流。爰本次由交通局林副局長炎成率交通局同仁蔡技士琮宇、王技士國明、吳技士俁之等人員前往考察，期能吸取國外政策之特長，並在國內獲致實用。
+   <br/>
+   本報告首先介紹ITS年會之概要，並分就其中與本市政策較為相關之三種議題，分別彙整研討會之相關議程、文獻、研究等內容。此外，透過赴國外之機會，亦一併實地考察沿途各地之交通設施及公共運輸。最後，本報告亦就整考察心得提出建議，期為日後政策之參考。
+   <br/>
+  </td>
+ </tr>
+</table>

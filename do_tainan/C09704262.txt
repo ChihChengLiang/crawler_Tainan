@@ -1,0 +1,222 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   16
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09704262
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   促進兩岸文化交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   考察及觀摩大陸地方觀光建設及文化古蹟
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09704262&amp;fileNo=1" title="另開視窗">
+    C09704262_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣關廟鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      楊文瑞
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李宗榮
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      組員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年10月05日 至 民國97年10月12日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年12月23日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   在一個共產國家，封閉、生活水平落後台灣30年的現今，只短短開放十年，又如何將內地貴州省開發建設。又由亞洲第一大瀑布黃果樹瀑布及世界一大奇觀萬峰林峽谷屯堡、古鎮天然形成奇石景觀，雄偉壯觀秀麗，大陸方面除極力保護該自然景觀外並配合整體建設，吸取無數的觀光遊客前去。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   3頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   大陸之大，自然環境奇景如何保存維護推展觀光，台灣之小又如何面對瞬息萬變的社會、經濟、文化、政治、建設，考察增進國際觀、培養宏觀問政理念、提昇為民服務品質、監督鄉政績效是本次考察主要目的。
+   <br/>
+   在一個共產國家，封閉、生活水平落後台灣30年的現今，只短短開放十年，又如何將內地貴州省開發建設。又由亞洲第一大瀑布黃果樹瀑布及世界一大奇觀萬峰林峽谷屯堡、古鎮天然形成奇石景觀，雄偉壯觀秀麗，大陸方面除極力保護該自然景觀外並配合整體建設，吸取無數的觀光遊客前去。
+   <br/>
+   台灣雖小但也有各地方文化特色，生活品質更能與世界接軌，如政府能重點加強輔導區域文化特色觀光，在台灣優勢行銷廣告下定能吸引更多的外國觀光客前來台灣了解我們的文化，認識這塊美麗島，讓台灣美譽立足世界。
+  </td>
+ </tr>
+</table>

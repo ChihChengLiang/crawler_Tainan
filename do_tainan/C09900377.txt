@@ -1,0 +1,204 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   27
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09900377
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   98學年度選派國中小校長赴美促進教育交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   98學年度選派國中小校長赴美促進教育交流返國心得報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09900377&amp;fileNo=1" title="另開視窗">
+    C09900377_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣立佳里國民中學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      王沐錱
+     </td>
+     <td>
+      臺南縣立佳里國民中學
+     </td>
+     <td>
+      臺南縣立佳里國民中學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   伊利諾州s.d.54 的Robert Frost Junior High，印地安納州I.P.S的Willard J.Gambold Middle School，Indianapolis Public School (IPS)學區中的Rousseau McClellan School
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年09月15日 至 民國98年09月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年01月12日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   98學年度選派國中小校長赴美促進教育交流返國心得報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   5頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   此行交流訪問的地區，係以Indiana、Michgan及Illinois三個州為主，參訪的學校涵蓋了K（kindergarten）到12（包含了國小、國中及高中）的學校類型（如下圖所示），對於美國學制下的學校類型，有了相當深入及豐富的體認，也能夠充分瞭解各學制在相互銜接時所遭遇到的困境及其所擬定的解決策略，這些經驗，相對於我國現行幼小及中小學銜接，都是相當具體且值得借鏡的經驗。
+   <br/>
+   國際化一直是當前的潮流趨勢，政治、經濟、文化與教育則因具有密不可分的關係，而在這股潮流引領前進，不僅台灣使然，連美國亦同。近二十年來，中華經濟圈對世界經濟的影響力增大，華語漸受全球重視，加上中華文化博大精深的豐富性，讓十八世紀後即被西方歧視至今的黃種人又再度成為世界的學習目標。台灣具有豐富且多元的中華文化資源，加上擁有較高水準的教育環境，讓我們能夠具有與他國進行文化與教育交流的籌碼，成為我們最大的優勢條件。未來，我們應該勇於跨出國際，主動提供我們所具備的優勢條件，鼓勵甚至贊助已經準備好的學校對外拓展國際教育與文化交流活動，甚至建立姊妹校等實質關係，讓雙方教育與文化的交流能夠成為隱性的外交關係，或許能夠避開敏感的政治議題，讓教育與文化更加單純。
+  </td>
+ </tr>
+</table>

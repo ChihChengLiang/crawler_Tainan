@@ -1,0 +1,237 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   126
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV031
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台灣健康城市聯盟
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台灣健康城市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV031&amp;fileNo=1" title="另開視窗">
+    C100AV031_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林聖哲
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      韓佩軒
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   香港樂施會，靈實護養院，卡樂B四洲有限公司，靈石百普里寶林社區健康發展中心，藍田匯景花園
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年07月20日 至 民國100年07月22日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年09月20日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   衛生福利勞動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   衛生及社會安全
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   健康城市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   32頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   為呼應世界衛生組織（WHO）健康城市理念，臺南市於94年獲得世界衛生組織WHO 西太平洋區「健康城市」認證，為台灣第一個正式取得國際認可健康城市。94 年參與聯合國「2005 世界環境日」大會，簽署「都市環境議定書」，將與世界重要城市競爭「綠色城市」，一路辛苦走來，成果輝煌。
+   <br/>
+   臺南市更於95年2月24日承辦「台灣健康城市聯盟」高峰會議，全台23縣市在台南市召開「台灣健康城市聯盟高峰會」，各縣市共同簽署「承諾推動健康城市」議定書，議定每年至少開會1 次，台灣健康城市聯盟已然成形。健康城市成為各縣市未來將共同推動健康的重要公共政策。
+   <br/>
+   台灣健康城市聯盟近年來致力於台灣健康城市之發展，並結合相關部會、縣市政府、學者專家、民間團體、社區組織及城市居民，共同建立高品質的健康城市。
+   <br/>
+   本次參訪目的為：
+   <br/>
+   一、針對香港西貢區健康城市之推廣經驗、計畫執行及健康城市的趨勢與策略等議題進行實務交流。
+   <br/>
+   二、與國內與國際健康城市接軌，形成城市交流之平台。
+   <br/>
+   學習與建議
+   <br/>
+   一、共同建立「台灣健康城市聯盟」之有效平台，加強各城市間的合作與交流
+   <br/>
+   二、加強國際健康城市間的交流
+   <br/>
+   三、持續推動健康城市，建立跨專業模式，加強社區夥伴關係
+   <br/>
+  </td>
+ </tr>
+</table>

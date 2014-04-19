@@ -1,0 +1,225 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   107
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09701128
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「2008旅行台灣年─台灣夜市節」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「2008旅行台灣年─台灣夜市節」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許耿修
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林惠美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   交通部觀光局香港辦事處
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參加美食展)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年04月10日 至 民國97年04月13日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年05月05日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   推廣活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   2008旅行台灣年-台灣夜市節，來自台灣的美食小吃於香港將軍澳東港城展出。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   22頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   交通部觀光局香港辦事處有鑒於台灣是香港、澳門觀光人士旅遊熱點，因此籌畫辦理『2008旅行台灣年-台灣夜市節』活動，自4月10日至13日於香港將軍澳東港城辦理，邀請10家來自台灣的美食小吃名店到現場，讓香港民眾體驗台灣各式著名小吃。
+   <br/>
+   規劃有台灣旅遊博覽區、台灣食品廣場區、台灣夜市街等，台灣夜市街邀請10家來自台灣的美食小吃名店，其中9家-有周氏蝦捲、度小月擔仔麵、阿輝炒鱔魚、楊哥楊嫂肉粽、吉利號烏魚子、松稜糖燻滷味、體育公園杏仁豆腐、不老莊藥膳香腸、安平貴記美食館是來自台南的美食小吃名店。
+   <br/>
+   本活動結合台灣美食、旅遊、食品、表演、旅遊講座及抽獎活動，邀請2位台灣觀光代言人蔡依林小姐、吳念真導演親臨會場行銷，積極向香港消費者推薦台灣觀光，讓所有旅客充分感受到台灣的熱情，好吃、好玩、買的美食盡在台灣，展現台灣為亞洲重要旅遊景點之一。本活動整合政府與民間資源並結合公益活動，營造友善旅遊環境，讓府城每位參展美食業者肩負著觀光大使責任，行銷台灣與台南觀光。
+   <br/>
+  </td>
+ </tr>
+</table>

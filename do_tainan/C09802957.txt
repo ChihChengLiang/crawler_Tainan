@@ -1,0 +1,338 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   46
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09802957
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   中國東北三省考察報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   中國東北三省考察報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09802957&amp;fileNo=1" title="另開視窗">
+    C09802957_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣佳里鎮民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      黃明德
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      曾明興
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      組員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭重雄
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃春龍
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      姚志峰
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林佩玲
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林振毅
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳邱素惠
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      臺南縣佳里鎮民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   中國遼寧省出入境檢驗檢疫局-輕紡檢驗處
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年08月22日 至 民國98年09月01日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年09月30日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   其他
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   經濟貿易
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   中國東北三省考察報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   9頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   曾經有人說「中國很像20年前的台灣」，我真的不曉得當初說這句話的人已經是幾年以前了！眼前沿海地區經過經濟大躍進20年後，很多都會區早已經凌駕台灣的大都市，只是內地還有非常廣大的地方還保留著千百年前的樣貌，這當然是無法客觀來作比較的。
+   <br/>
+   但是中國擁有渾然天成的山川水景、悠久的歷史古蹟，和急欲迎頭趕上的各項工程建設，以及擁有佔全世界總人口數約五分之一的國民，以上的總總都是我們所不容忽視的。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,202 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   84
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09701386
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2008東京國際食品展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2008東京國際食品展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      鄭榮基
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   南縣區漁會鯤鯓產銷班,南瀛國際農產行銷公司,豐喜食品股份有限公司，翔美食品股份有限公司，善都實業有限公司，遠東科技大學生物科技中心，新化鎮農會甘藷產銷班「瓜瓜園」，東山菁企業有限公司，啟銘實業(股)公司,白河荷鄉香蓮園
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(業務視察)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年03月10日 至 民國97年03月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年05月29日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業環保
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   農業食品
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   2008東京國際食品展，有62個國家、地區的2300家企業、社團的食品供應商參展，主要參觀者為日本當地食品、飲料的商業買主，在展場內以商業洽談、交流、試吃、發表活動為主，並規劃有國內新產品展示區與國外新產品展示區，使商業買主瞭解新產品的發展趨勢。本次參展台灣館以芒果、香蕉、毛豆強調台灣食品－安全、美味、健康為主題，由81家農產、食品廠商、農會團體，設91個攤位，展出具有外銷潛力之農產、食品、飲料等產品，並規劃產品發表活動與試吃活動，本縣由縣府率團，承租三個攤位供12個單位廠商共同參展，以本縣農特產推廣行銷為主軸，搭配試吃發表活動，把產品介紹給商業買主，於試吃品嚐交流活動，瞭解商業買主對產品的需求與評價。
+   <br/>
+  </td>
+ </tr>
+</table>

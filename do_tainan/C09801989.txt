@@ -1,0 +1,230 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   57
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09801989
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「2009旅行台灣年來台灣呷美食辦桌活動及台南市港澳專案觀光護照推廣記者會」出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2009旅行台灣年來台灣呷美食辦桌活動及台南市港澳專案觀光護照推廣記者會」出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09801989&amp;fileNo=1" title="另開視窗">
+    C09801989_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許耿修
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林惠美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   交通部觀光局香港辨事處
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(觀光護照記者會)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年06月29日 至 民國98年06月30日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年07月21日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   推廣活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   藉著於台南市舉行之「來台灣呷美食-千人辦桌活動」，於台南市安平古堡席開100桌，招待1000位觀光客，以傳統辦桌文化，行銷府城觀光及推廣台南在地美食文化。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   7頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   爲招徠港澳觀光客參加交通部觀光局於台南市安平古堡舉行之「來台灣呷美食-千人辦桌活動」，受交通部觀光局香港辦事處邀請，前往香港行銷台灣辦桌美食文化，爭取更多觀光客到台灣旅遊品嚐美食，體驗古早味辦桌文化。
+   <br/>
+   台南市於今年初針對香港、澳門觀光客取得入台簽證即贈送觀光護照，內有近5000元優惠專案，期限至今年6月30日止，獲得好評，特重新印製發行觀光護照贈送港澳觀光客，行銷台南市觀光及美食文化。
+   <br/>
+   交通部觀光局香港辦事處將於11月下旬於香港舉辦「溫泉美食節」，將邀請台南市美食與伴手禮業者前往參展行銷，特前往勘查展覽場地。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

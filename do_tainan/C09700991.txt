@@ -1,0 +1,327 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   227
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09700991
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   老人社區照顧及長期照顧業務日本參訪
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「老人社區照顧及長期照顧業務日本參訪」報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09700991&amp;fileNo=1" title="另開視窗">
+    C09700991_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      顏純左
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣副縣長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳榮枝
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府社會處
+     </td>
+     <td>
+      臺南縣政府社會處長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林哲弘
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府社會處
+     </td>
+     <td>
+      臺南縣政府社會處身心障礙福利課長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張瓊月
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府社會處
+     </td>
+     <td>
+      臺南縣政府社會處社會福利課長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王美珠
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府社會處
+     </td>
+     <td>
+      臺南縣政府社會處村里關懷中心專案辦公室專員
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      沈怡君
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府社會處
+     </td>
+     <td>
+      臺南縣政府社會處村里關懷中心專案辦公室社工員
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   一、滋賀縣縣廳健康福祉部，
+二、桐生園～特別養護老人之家、桐生園～團體家屋(Group Home)，
+三、大石福祉會～新型特別養護老人之家，
+四、神戶幸福村，
+五、リバ神戶～介護老人保健設施，
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年10月07日 至 民國96年10月13日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年01月02日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   社會福利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   老人福利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   介護保險，老人福利，團體家屋，幸福村，特別養護老人之家
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   30頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   （一）研習範圍：
+   <br/>
+   1.參訪滋賀縣健康福祉部
+   <br/>
+   2.了解日本介護保險制度
+   <br/>
+   3.實地參訪老人福利機構
+   <br/>
+   （二）內容重點：
+   <br/>
+   1.日本介護保險制度
+   <br/>
+   2.團體家屋Group Home（認知症対応型共同生活介護）
+   <br/>
+   3.新型特別養護老人之家
+   <br/>
+   4.介護老人保健設施
+   <br/>
+   5.神戶幸福村
+   <br/>
+   （三）主要心得：
+   <br/>
+   1.房間規劃為單人房、二人房及四人房，而非國內早期規定的八人房，或現今規定的六人房，由於房間收容人數少，可使居住長者較能保有個人隱私與空間，提供較舒適環境。國內養護中心原規定每間寢室最多可住八人房，96年老人機構設置標準修改為六人房，雖已減少每間可住人數，但要參照日本水準，仍有很大的努力空間。
+   <br/>
+   2.建築物採光明亮，用色溫暖，佈置家居化，降低機構僵化冰冷氣氛；反觀國內養護機構以利於工作人員照顧，節省照顧成本考量的設計空間為主，為利於管理，床單統一規格，設計單調顏色並偏於冰泠，養護機構佈置的猶如醫院，少了家居溫暖的氣氛。
+   <br/>
+   3.養護機構平面化設計，無障礙設施完善，利於老人行動，公共空間設計以利於長者使用考量，所以機構隨處可見利用角落佈置空間，長者可隨處使用公共空間，如聊天，運動、彈琴、復健等等。
+   <br/>
+   4.福祉協會除以機構照顧長者外，並提供多元化的服務，如利用二樓辦理日間托老服務，另外提供居家服務、諮詢及暫托服務。以機構及福祉協會資源，提供多元化的服務，發揮機構最大功能。國內養護機構偏屬小型機構，人力資源有限，較少做外展工作；而財團法人機構雖有較多人力力及資源，提供多元化服務之概念仍需再宣導。以台南縣為例，小型機構只有1家參與老人送餐，財團法人養護機構亦只有1家參與老人送餐服務；鼓勵機構參與多元化之服務，尚待努力。
+  </td>
+ </tr>
+</table>

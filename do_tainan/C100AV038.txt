@@ -1,0 +1,220 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   148
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV038
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「2011東京世界旅遊博覽會及觀光推廣活動」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加「2011東京世界旅遊博覽會及觀光推廣活動」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV038&amp;fileNo=1" title="另開視窗">
+    C100AV038_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      張淵柏
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      觀光行銷科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張淑卿
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      府城觀光科
+     </td>
+     <td>
+      專員
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年09月27日 至 民國100年09月29日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年12月02日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   2011東京世界旅遊博覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   2011年東京世界旅遊博覽會(JATA)於2011年9月27日至10月3日假上野、橫濱車站、東京帝國飯店及東京國際展示場舉行，台灣組團成員共有124人參展，本局出國參展日期為9月27-29日僅3日行程；日本是台灣旅遊最大輸出國，鑑於今(2011)年日本311大地震，造成日本經濟觀光極大衝擊，惟據交通部觀光局統計今(2011)年1─8月日本來台人數卻呈現微幅成長，對於東北亞的旅遊市場穩定成長及持續開發，是本次觀光行銷最重要的目標；本次參加JATA，除掌握日本最新的旅遊市場，觀察觀光需求，強化城市行銷，並於9月28日參加上野車站之東京街頭展演，東京帝國飯店之臺灣觀光商談會、臺灣觀光說明會及臺灣觀光懇親會，透過各種方式行銷臺南觀光，提供最新旅遊資訊，讓日本民眾、媒體及旅遊業者對於臺南能有更深層的認識。
+  </td>
+ </tr>
+</table>

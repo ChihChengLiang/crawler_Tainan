@@ -1,0 +1,262 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   181
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV022
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2013年9月5-8日臺南在地媒體港澳參訪團
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   本市在地媒體港澳參訪團出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV022&amp;fileNo=1" title="另開視窗">
+    C102AV022_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      趙卿惠
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳宜君
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉冠伶
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳瑋琳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港、澳門
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   香港九龍貝爾特酒店，澳門turbojet，澳門維景酒店，澳門大三巴，澳門君悅酒店，澳門水舞間，香港天際100，香港迪士尼，香港1881Heritage
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年09月05日 至 民國102年09月08日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年11月26日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交及國防
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   媒體，港澳，直航
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   13頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   102年7月18日起臺南機場每週二、四、日華航定期班機直飛香港，吸引許多港澳地區居民來臺南觀光旅遊，前來臺南的班機乘客數高達八成，而臺南前往港澳的人數乘客數僅有六成。基於友好互惠立場，新聞及國際關係處組成臺南媒體參訪團，前往參訪並報導介紹港澳旅遊資訊供臺南地區民眾了解週知，期能有效帶動臺南香港直飛航班搭乘率，朝向年底每天一班航班的目標邁進。
+   <br/>
+   <br/>
+   香港是國際化的貿易平台，來自世界各地的產品、美食、商務金融在香港交會，每年香港舉辦超過30個世界級國際貿易展覽會，國際化程度極高，是重要的國際金融、服務業及航運中心。香港面積是臺南的二分之一，人口數卻達臺南的四倍之多，生活步調繁忙；澳門是座經濟發達的城市，主要收入來自博彩業和旅遊業，澳門的人均國內生產總值名列亞洲第一、世界第二，僅次於盧森堡。以經濟發展為主之兩地，各因之前分受英國及葡萄牙統治，兩地均帶有濃濃的異國風，又是臺灣人熟知的旅遊觀光景點，此次媒體參訪除介紹兩地新興景點、以報導提昇臺南民眾對港澳之認識，更著重於增加臺南、香港、澳門三地之間的交流往來。
+  </td>
+ </tr>
+</table>

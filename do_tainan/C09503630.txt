@@ -1,0 +1,205 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   214
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09503630
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   觀摩「日本京都乞巧奠」出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   觀摩「日本京都乞巧奠」出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09503630&amp;fileNo=1" title="另開視窗">
+    C09503630_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      楊孝文
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   財團法人冷泉家時雨亭文庫理事長冷泉為人之住宅
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(觀摩)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年08月27日 至 民國95年08月30日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年12月21日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化傳播
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   京都乞巧奠儀式
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   3頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市政府民國94至95年假國立文化資產保存研究中心籌備處辦理「府城七夕16歲藝術節」─「日本京都乞巧奠特展」、「京都‧台南‧仙台七夕交流展」。為了實地體驗日本自平安時代傳自中國的七夕乞巧風俗，因此隨台南市國際文化交流促進會共赴位於京都的財團法人冷泉家時雨亭文庫理事長冷泉為人住家觀摩「乞巧奠」儀式。儀式進行內容分為「星之座」、「批講」與「流之座」三個部份。「星之座」為靜態展示，簡單的說是以各式供物及五色布、五色線、和歌紙條、琵琶、古琴‧‧‧等擺設品祭拜牽牛星與織女星，用意在於向織女乞求能有精巧的手藝。「批講」即朗誦和歌，主題與「七夕」有關；「流之座」則以五組男女進行。由同組男生先抽題後，同組之男生與女生各自寫在自己的宣紙上，然後置於攤開之褶扇上，再隔著象徵銀河的白布兩端，相戶遞交給對方，再彼此回應對方的詩句。如此算是一個回合，儀式中共進行兩個回合，在古老的傳統中則要一直進行到隔天天亮才會結束。
+  </td>
+ </tr>
+</table>

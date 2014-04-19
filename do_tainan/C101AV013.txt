@@ -1,0 +1,243 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   153
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV013
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   赴廈門辦理「臺南市推介會」出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   赴廈門辦理「臺南市推介會」出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C101AV013&amp;fileNo=1" title="另開視窗">
+    C101AV013_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林國華
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      副局長室
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林惠美
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      府城觀光科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      汪恆斌
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      府城觀光科
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年06月14日 至 民國101年06月17日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+   赴廈門參加「廟會小吃開幕式」及辦理「臺南市推介會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年08月17日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   旅遊推介會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本（101）年6月14日至6月17日赴廈門出席臺灣特色廟會小吃開幕式及辦理臺南市推介會暨交流餐會，使陸客對於臺南美食及旅遊環境有深層認識。
+   <br/>
+   因應100年6月28日陸客自由行政策開放，主動辦理旅遊推介會之機會，深入瞭解與掌握整體大陸旅遊市場之現況與變化，進而有效地整合與推動本市豐富的旅遊資訊及觀光旅遊活動，並邁向國際化觀光，希冀吸引東南沿海地區大陸觀光客至本市從事觀光旅遊活動，以振興本市觀光產業之發展。此次赴廈門之際，結合臺南在地美食業者共同參加「臺灣特色廟會」中山路之特產、小吃展售活動，並於6月15日參加「臺灣特色廟會」開幕式，6月16日舉辦臺南市推介會暨交流餐會，特邀請福建省台辦、福建省旅遊局、廈門市旅遊局以及兩岸媒體參加臺南市推介會暨交流餐會，把握本次大陸官方、媒體曝光機會，於推介會場展示本市景點看板廣告以及本市特色伴手禮，藉以增加本市觀光能見度，讓廈門地區民眾、媒體及旅遊業者多層次的認識臺南，進而達到兩岸觀光交流之效。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,254 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   10
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV027
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加2011 學習夥伴全球論壇(Partners in Learning Global Forum 2011)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加2011 學習夥伴全球論壇(Partners in Learning Global Forum 2011)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV027&amp;fileNo=1" title="另開視窗">
+    C101AV027_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      洪駿命
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      海東國小
+     </td>
+     <td>
+      主任
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳瑞梅
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      海東國小
+     </td>
+     <td>
+      組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇慧貞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      海東國小
+     </td>
+     <td>
+      老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   2011 學習夥伴全球論壇
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參加論壇)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年11月06日 至 民國100年11月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年12月20日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   21世紀關鍵能力，學習夥伴全球論壇，資訊科技融入教學
+   <br/>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   31頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   在過去的一年，海東國小與國外顧問團隊以及全球Pathfinder school學校團隊每月
+   <br/>
+   至少一次共同討論及發展適合培育孩子21世紀關鍵能力的教學方法。而「2011學習
+   <br/>
+   夥伴全球論壇」是Pathfinder school年度活動，也是全世界所有Pathfinder school
+   <br/>
+   共同面對面的交流平台，除了可以瞭解目前世界各國資訊科技融入教學應用情況，
+   <br/>
+   也可以思考未來學校資訊科技融入教學的創新發展方向。
+   <br/>
+   透過教育論壇，除了了解世界ICT在教學的應用情況外，亦作為本校e化創新課程的發展的參考，以更精緻本校發展多元的創新教學模式，在產、官及學界合作下培養學生問題解決的能力。使學校發展的PBL的課程能與世界接軌，同時激發學生的學習潛力，進而培養學生團隊合作、主動解決問題的能力。透過此世界性的資訊交換平台，除了交換心得之外，也以更宏觀的角度從世界各國實施創新教學的經驗，思考本市實施ICT創新教學的發展方向。
+   <br/>
+   教育要改變就是要改變教學、改變教師的教學方式。我國卻常受限於或僅提供團體式研習，缺乏教師個別專業的成長計畫。從論壇中，講者提出多種方式：不管是同儕視導、良師益友式(mentor)的訓練、專業的學習團隊、專業的閱讀、行動研究、個人的專業成長計劃..等，都是教師專業成長、提升教師能力的方式，也能幫助教師依據個人的時間和需求，進行多元的學習。
+   <br/>
+  </td>
+ </tr>
+</table>

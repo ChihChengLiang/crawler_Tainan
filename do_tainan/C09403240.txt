@@ -1,0 +1,273 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   59
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09403240
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   日本九州地區地方建設觀摩設施及市街、交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   日本九州地區地方建設觀摩設施及市街、交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09403240&amp;fileNo=1" title="另開視窗">
+    C09403240_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣歸仁鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      楊水池
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張慶安
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊淑芬
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳樹隆
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳雀卿
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      組員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   熊本，宫崎，福岡等
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年08月17日 至 民國94年08月21日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年08月29日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   觀光旅遊服務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   地方建設觀摩設施及市街、交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   19頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   九州位於日本南方的邊陲，地緣位置的特色，在歷史上是日本與國際交流的重要據點，交通以JR及私鐵為大宗，山陽新幹線只到達九州北部的大城博多(博多和福岡為"雙子城"，其實為同一城市，古稱福岡博多)為止，九州共有六個國立公園和八個國定公園，一般將福岡、佐賀、長崎、大分四縣稱為北九州；熊本、宮崎、鹿兒島三縣稱為南九州；鹿兒島以下島嶼稱為薩南諸島、奄美諸島及琉球群島，而國人最熟知的沖繩島亦屬於九州的觀光圈內，境內有多座活火山，因此擁有二百處以上的溫泉，九州除了是溫泉天堂外，也是美食天堂，各縣市有其地道食品，語言方面，各縣市各有方言，尤其宮崎、鹿兒島地區有其當地獨特的方言，不過近年來年輕人傾向使用接近標準口語。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,246 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   143
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV487
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市民德國中出國報告書──「國際教育交流與語文學習」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「國際教育交流與語文學習」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AV487&amp;fileNo=1" title="另開視窗">
+    C099AV487_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      蔡美燕
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      薛英斌
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      教學組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   澳大利亞
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   Melrose High School, Canberra
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(國際交流與語文學習)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年08月03日 至 民國99年08月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年11月16日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際文化交流及合作
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   國際教育交流, 語文學習
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   在教育部駐澳經濟文化代表處文化組遲耀宗組長團隊居中牽線，台南市民德國
+   <br/>
+   中蔡校長於2010年8月率領師生23人赴澳遊學參訪。坎培拉Melrose中學提供精
+   <br/>
+   彩課程，內容包含SOSE(社會環境)、ESL英語課程、原住民文化、烹飪、體育、語
+   <br/>
+   言交換、戶外旅行、混班課程，更與本校簽署交流備忘錄，締結為友好關係姊妹校。
+   <br/>
+   本校校長、組長並與Melrose中學校長George Palavestra暨外語部教師團隊針對
+   <br/>
+   國際交流與語言學習進行對話。在造訪雪梨著名建築(如歌劇院、2000年奧運公園)，
+   <br/>
+   更感受澳洲人的遠見、智慧與毅力。
+   <br/>
+   Melrose中學學風聲譽首屈一指，校長卓越領導與社區共同經營共生共榮共贏共享，學生充滿自信，自由開放卻不失自持自律，慢活樂活的休閒教育與著重生活技能的啟迪培育皆為學校特色。而澳洲人對於星期六(Sports Day)的堅持，更突顯他們對運動與休閒的重視，頗值得忙碌的台灣人民學習與思考。
+   <br/>
+   Melrose中學推動國際交流不遺餘力，乃源於校長對於外國語言學習(該校提供日文、印尼語、中文與德文的課程)的重視與到國外實際浸潤式文化與語言學習的堅持。Melrose校長特別提到校長的投入與使命感(commitment)是學校推動國際教育交流最關鍵的因素，而外語部專案負責的老師更是交流成功與否的重要推手。
+   <br/>
+   透過校園觀察與戶外參訪，本校師生見識到澳洲社會對於多元種族與文化的尊重、欣賞、關懷、與包容，因而擴展了視野與襟懷！在參觀雪梨著名建築時更感受到澳洲對於國家重要規畫或文化建築的遠見、智慧與堅持。
+   <br/>
+   本校蔡校長堅定地表示，此次國際教育交流對師生對產生不小的正面衝擊，收穫頗為豐碩，因此將更進一步推動國際教育交流，盼在台灣被壓縮的國際外交困境下，貢獻一番心力。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

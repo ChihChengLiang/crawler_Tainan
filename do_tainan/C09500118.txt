@@ -1,0 +1,201 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   222
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09500118
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   廈門、泉州、武夷山地區地方建設觀摩設施及市街交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   廈門、泉州、武夷山地區地方建設觀摩設施及市街交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09500118&amp;fileNo=1" title="另開視窗">
+    C09500118_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣歸仁鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      王進喜
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   廈門市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年12月29日 至 民國95年01月04日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年01月05日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   環境保護
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   環境資源
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   地方建設觀摩設施及市街交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   福建省位於我國華東地區南部，丘陵占全省面積80%以上，山脈走向多與海岸平行，水系呈網格狀，河流沿岸谷地和盆地交錯分布、曲折、多天然良港。礦物主要有煤、鐵、鉬、石墨等，森林資源居東南各省首位。福州是福建省省會，有機械製造、化工、造紙等工業，傳統手工藝品脫胎漆器有名。廈門位於福建省東南部，相傳古時有白鷺棲息、故又有鷺島之稱，東南瀕臨東海與臺灣澎湖一水之隔，西與漳州接壤，北與泉州相連，是福建省第二大城市，寓祖國大廈之門的意思，素有海上花園，海上明珠的美稱，是中國最早設立的五個經濟特區之一。武夷山位於福建武夷山市南15千米處，方圓60多千米，這裡峰岩峭拔，曲水多姿，風景奇特，素有“福建第一名山”，俗稱有36峰、99岩、72洞、108景。峰岩爭奇斗异，岩洞境异形奇。九曲河隨著奇峰盤旋；虎嘯峰獨如孟虎下山，大王峰巍峨威武，似乎不可一世；玉女峰嬌嬈娟秀，美如仙女嬌姿。古人曾用“武夷山水天下無，層巒疊嶂皆畫圖”的詩名來描繪武夷山的奇秀風光。
+  </td>
+ </tr>
+</table>

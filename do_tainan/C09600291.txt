@@ -1,0 +1,267 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   185
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09600291
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參訪日本仙台市芬蘭健康福祉中心考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參訪日本仙台市芬蘭健康福祉中心考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09600291&amp;fileNo=1" title="另開視窗">
+    C09600291_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林暉月
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      本府
+     </td>
+     <td>
+      參議
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃淑靖
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      地政局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳建德
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都發局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黎燕玉
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      社會局
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年10月19日 至 民國95年10月22日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國96年01月17日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   內政及國土
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   社政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   考察日本仙台市芬蘭健康福祉中心
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   20頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   高齡化社會是20世紀下半葉的產物，也是形塑21世紀消費與生產面貌的主要力量之一，我國因人口結構變化與醫療衛生進步，使平均餘命不斷延長，老年人口占總人口比率逐年提升，於民國82年9月達百分之7，已達聯合國世界衛生組織所訂的高齡化社會指標。民國94年底人口老化指數（65歲以上人口數除以0至14歲以下人口數乘以100）為52.05％，老年人口依賴比（65歲以上人口數除以15至64歲人口數乘以100）為13.6％，均呈逐年上升現象。
+   <br/>
+   日本老年人口已逾20％，老化指數達142.9％，居世界第二位（僅次於摩納哥169.2％），我國人口老化的程度約晚日本20年，鑑於我國與日本同屬亞洲國家，國情相似，而日本老人福利制度健全，其經驗足供世界其他國家借鏡，故為擷取先進福利國家就老人福利政策及機構經營管理之經驗與實務作為，由本市示範銀髮村召集人組團前往日本考察其融入社區生活之小型老人安養護機構。
+   <br/>
+   最後，有關本次考察之心得與建議，藉由他國之石，足以攻錯之理念，反思本市在各項老人福利政策與作法，對照其實務經驗，提出服務措施引入使用者付費之觀念、社會服務與健康服務應整合、應提供預防措施服務及服務品質管理應明確與透明等具體建議，作為日後規劃示範銀髮村方案與老人福利政策之參考，全面提升以顧客為導向之服務品質，促進本市之老人福祉。
+   <br/>
+  </td>
+ </tr>
+</table>

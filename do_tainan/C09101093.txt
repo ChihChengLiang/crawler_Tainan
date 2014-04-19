@@ -1,0 +1,315 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   6
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09101093
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   鄉民代表赴中國大陸長江三峽考察及觀摩地方觀光建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   鄉民代表赴中國大陸長江三峽考察及觀摩地方觀光建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09101093&amp;fileNo=1" title="另開視窗">
+    C09101093_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣龍崎鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳石森
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      余文前
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王慶仁
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      曾朝義
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      侯正成
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林誌誠
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林傳
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+      龍崎鄉民代表會
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國91年03月28日 至 民國91年04月03日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國91年06月05日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   行政管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   輔助事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   鄉民代表
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   12頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   自從中國大陸與台灣隔絕五十年，對於其封閉的社會真相，一般民眾可說一無所知，尤其渡海而來的大陸人，更是夢??縈懷，朝思暮想故鄉的種種往事；及至中國大陸改革開放以來，兩岸不管是明的或暗的往來，可說是絡繹不絕蓬勃發展；而1997年及1999年香港與澳門陸續回歸；盛況更達空前，隨著兩岸經貿的發展，証明台灣與中國大陸是臍帶相連互相依存而不可分離；有相同的歷史、文化、血緣及僅隔一線之水的地理位置，如何尋求相處之道，實考驗兩岸當政者的政治智慧。大陸幅員廣大，資源豐富、人口十二億，要列入富強且先進的國家應是水到渠成，然已五十年了，外表看似強盛，但可議之處尚多，共產制度的堅持阻礙了國家的進步，開放以後，如何建立一套可行的制度，影響百姓的思想觀念、舉止，應為中共當局劍及履及的課題。而我台灣與大陸本是同根生，雙方政治人物應放棄意識形態及敵意的對峙，謀求和平相處之道，為兩岸人民帶來幸福及希望的將來。
+  </td>
+ </tr>
+</table>

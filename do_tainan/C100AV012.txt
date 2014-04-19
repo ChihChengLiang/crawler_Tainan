@@ -1,0 +1,264 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   189
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV012
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南縣國教輔導團參加兩岸四地國語文學術研討會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南縣國教輔導團參加兩岸四地國語文學術研討會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV012&amp;fileNo=1" title="另開視窗">
+    C100AV012_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許玉蘭
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣下營國小
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃惠美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣五甲國小
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      沈珍貝
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣新進國小
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳惠芬
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣文化國小
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   香港保良局蔡繼有小學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年12月03日 至 民國99年12月04日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年03月10日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國民小學及國民中學教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   兩岸四地，國語文學術研討會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   20頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   兩岸四地第九屆的國語文學術研討會2010年12月3、4日在香港舉行，兩岸四地共有600多人參加，台灣應邀參加交流者70餘人，本縣市國教輔導團4人應邀參加，本次相當難得有黃惠美老師親上火線擔任教學者，與其他四地教師交流。
+   <br/>
+   本縣市國教輔導團參加的團員包括下營國小許玉蘭校長、文化國小陳惠芬老師、五甲國小黃惠美老師、新進國小沈珍貝老師，各有參與心得表達。
+   <br/>
+   兩岸四地第九屆的國語文學術研討會，除了語文教學有不同區域性的特色之外，更有同課異構的教學演示，提供與會教師進行比較，並有綜合性討論，場面熱烈、面向多元、收穫豐富。
+   <br/>
+  </td>
+ </tr>
+</table>

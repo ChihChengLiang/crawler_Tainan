@@ -1,0 +1,284 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   169
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702368
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團赴美國密蘇里州堪薩斯姊妹市參加國際姊妹市年會及締盟30週年慶活動參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團赴美國密蘇里州堪薩斯姊妹市參加國際姊妹市年會及締盟30週年慶活動參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702368&amp;fileNo=1" title="另開視窗">
+    C09702368_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳啟松
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      建設及產業管理處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林詮力
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      建設及產業管理處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王嘉琳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      莊佳瑋
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   美國密蘇里州堪薩斯市政府、市議會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年07月15日 至 民國97年08月20日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年08月28日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   輔助事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   美國密蘇里州堪薩斯市參加2008國際姊妹市年會及締盟30週年慶，並進行經貿、文化、觀光交流參訪。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   許市長率團於7月15日啟程前往美國密蘇里州堪薩斯市參加2008國際姊妹市年會及締盟30週年慶，並進行經貿、文化、觀光交流參訪。市長此行最重大的意義有三：第一：接受堪薩斯市議會通過「友好決議案」並在堪市市議會發表致詞；第二：與堪市市長范豪舍（Mr. Mark Funkhouser）簽署「慶祝兩市締盟30週年之友好宣言」，繼續增進兩市交流與合作；第三：在「國際姊妹市年會」向來自全球的與會來賓介紹，臺南市既重傳統文化復發展科技工業，且重視環境保護的現況與發展。
+   <br/>
+   市長此行還拜訪高民環博士任董事長的「台灣國際航電股份有限公司」（Garmin International）及「頂上創新股份有限公司」（Top Innovations），透過拜訪世界知名廠商及台僑，表達國內同胞對海外僑民的關懷與敬意；期間參觀堪薩斯市國際會議廳及文娛設施、會晤堪薩斯市公園休閒管理處副處長Mr. Steve Lampone，參觀該市Swope Park，會晤主持堪薩斯市經濟發展之市政經理人Mr. Wayne Cauthen、都市計劃發展處副處長Mr. Bob Langenkamp，經由簡報與座談，瞭解堪市如何從進行城市改造以達進步繁榮的建設經驗，達成他山之石可以攻錯，為臺南市政的建設與推動，增添新的助力。
+   <br/>
+  </td>
+ </tr>
+</table>

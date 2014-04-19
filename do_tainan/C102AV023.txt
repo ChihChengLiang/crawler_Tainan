@@ -1,0 +1,228 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   152
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV023
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   第六屆亞太城市旅遊振興機構(TPO)年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   赴韓國大田參加 「第六屆亞太城市旅遊振興機構（TPO）年會(General Assembly)」 出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C102AV023&amp;fileNo=1" title="另開視窗">
+    C102AV023_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      詹家銓
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      風景區管理科
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳俊安
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   韓國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   韓國大田市，亞太城市旅遊振興機構(TPO)第六屆年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年09月04日 至 民國102年09月07日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年11月29日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際會展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   TPO，年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   22頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本市於去（101）年3月29日經亞太城市旅遊振興機構(Tourism Promotion Organization for Asia-Pacific Cities，TPO，以下簡稱TPO）第20屆執行委員會議通過正式成為TPO組織會員城市之一，更於當年度12月舉辦了「2012亞洲城市觀光高峰會論壇」來自5國14城市的參與，不僅讓國際城市認識台南這片充滿人文、歷史、自然等多樣性觀光資源的土地，更提升了本市的國際形象與知名度。
+   <br/>
+   今年本市再次受邀參加TPO第六屆年會，整體內容涵括地區會議、國際研討會、執行委員會、大田旅遊展、城市行銷推廣活動、第六屆年會以及年度最佳獎項頒獎典禮等項目，其中地區會議為整合各國代表透過會議方式進行理念上的交換以及針對TPO組織的發展方向尋求共識，而國際研討會議內容更是針對了觀光產業、觀光組織等多面向進行研討，透過學界、產界以及官界之討論，期能共同提升觀光產業之價值。
+   <br/>
+   此次會議計有6國、32個城市與會，包括日本福岡、韓國釜山、印尼雅加達等重要城市皆參與其中，本市由觀光旅遊局局長陳俊安率隊參加，期透過國際會議的參與，除提升本市國際知名度、推廣本市國際觀光外，更重要的是汲取更多的國際會議籌辦經驗，尤其21世紀的國家經濟發展策略中，MICE產業即為其一，透夠本次年會的參與將可有助於本市未來在國際旅展、會議、展覽等相關活動的舉辦。
+   <br/>
+   除此之外，本市觀光旅遊局(以下簡稱觀旅局)局長更獲邀擔任國際研討會與談人以及在城市行銷推廣活動中，擔任本市觀光大使推廣本市觀光，更於年度頒獎典禮中獲得年度最佳營銷運動獎項之殊榮，由此可見本市觀光推動，足有成效。
+   <br/>
+  </td>
+ </tr>
+</table>

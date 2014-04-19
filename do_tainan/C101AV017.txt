@@ -1,0 +1,244 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   107
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV017
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2012臺南市觀光醫療服務業赴中國大陸訪問團參展活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2012臺南市觀光醫療服務業赴中國大陸訪問團參展活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C101AV017&amp;fileNo=1" title="另開視窗">
+    C101AV017_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      顏純左
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林聖哲
+     </td>
+     <td>
+      臺南市政府衛生局
+     </td>
+     <td>
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳俊安
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      局長室
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   浙江省立同德醫院，浙江大學醫學院附屬第二醫院，浙江省人民醫院，伽美醫療美容醫院，武漢華中科技大學附屬同濟醫院，慈銘健康體檢中心
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(訪問團參展活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年07月08日 至 民國101年07月14日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+   本訪問團由顏副市長純左帶隊，率衛生局局長及觀光旅遊局長隨行出訪參展。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年08月15日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   交通建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   觀光醫療
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   18頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   為開拓臺南觀光醫療市場，於101年7月8日至7月14日舉辦大陸杭州、武漢進行觀光醫療推介與參訪行程，前往宣傳大臺南優質醫療及觀光資源，吸引大陸旅客來臺南從事醫療行為並帶動觀光，及提高臺南醫療服務知名度與能見度，期待掀起未來陸客來臺南觀光醫療的熱潮，並擴大本市觀光醫療市場客源。
+   <br/>
+   其中在杭州辦理「健康美麗自由行說明會」，會中相關產業重要單位代表均到場，現場並提供大臺南觀光醫療宣傳手冊及DVD影片，文宣內容強調臺南擁有優質醫療環境，絕對是最佳的觀光醫療城市，不僅讓與會人員留下深刻印象，更成功將臺南觀光醫療之優質資源行銷至廣大的陸客旅遊市場。會後安排參訪當地醫療院所並進行交流及合作洽談，作為臺南參訪醫療院所之團員後續經營與服務當地客群之參考。
+   <br/>
+   目前武漢到臺灣每週有14班直航班次，顯見臺灣與武漢間互動之密切。在武漢辦理的「臺灣醫療服務說明會暨漢臺合作交流會」中，也透過說明及本市製作之文宣，將臺南優質的醫療服務、高階健檢與醫療美容服務介紹給當地民眾，獲得熱烈迴響。會後亦安排參訪武漢醫療院所行程，以增進雙方合作交流之可能。
+   <br/>
+  </td>
+ </tr>
+</table>

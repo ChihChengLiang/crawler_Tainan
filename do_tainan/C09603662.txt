@@ -1,0 +1,326 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   84
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09603662
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市立民德國民中學棒球隊參加JBL世界青少棒錦標賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南市立民德國民中學棒球隊參加JBL世界青少棒錦標賽出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09603662&amp;fileNo=1" title="另開視窗">
+    C09603662_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      張俊欽
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡明昌
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳慶堂
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      體育組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇景星
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      兼任運動教練
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊家慧
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      體育教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡清濬
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      專任教練
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      洪茂展
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      臺南市立民德國民中學
+     </td>
+     <td>
+      專任教練
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   墨西哥
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺灣南緯集團墨西哥針織廠
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(比賽)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年08月05日 至 民國96年08月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國96年10月16日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   台南市，棒球隊，墨西哥，民德國中，JBL，青少棒錦標賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   14頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本校棒球隊榮獲96年協會盃全國青少年棒球錦標賽冠軍，取得代表國家參加於墨西哥庫里阿剛（CULIACAN）舉行之2007 JBL 世界盃青少年錦標賽資格。在因出國經費短缺煩惱之際，承蒙各界大力資助下，得以成行。
+   <br/>
+   2007年8月5日，滿載著各界協助及關懷，本校球員懷著爭取最高榮譽並為國爭光的奮戰的心情，踏上遙遠的征戰路途，大約花了24小時的時間才抵達和臺灣時差14小時的比賽城市庫里阿剛，隨即展開8月7日～11日的比賽。
+   <br/>
+   此次比賽共七國十隊參加，分成A、B兩組採循環賽進行比賽，2007年8月7日19：00（當地時間）舉行開幕並迎戰地主隊墨西哥綠隊，因球員路途勞累及尚未適應當地高溫，再加上地主隊於三千餘人觀眾的加油下，球員倍感壓力，終場墨西哥綠隊以4：3險勝，中華代表隊以一分飲恨，這也是本次比賽唯一落敗的比賽；8月8日，以5：1擊敗韓國隊，2：2與美國Alameda握手言和；8月9日以4：3力克澳洲隊；8月10日在三、四名之爭中以10：2輕取美國聖地牙哥隊，榮獲第三名。
+   <br/>
+   此次比賽球員奮戰的精神值得嘉許，比賽過程也吸取不少經驗，藉此著實讓球員成長茁壯。
+   <br/>
+  </td>
+ </tr>
+</table>

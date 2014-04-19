@@ -1,0 +1,234 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   191
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV027
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   赴日本日光市友誼市親善交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   市長揪團赴日光市觀光，提振日本觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV027&amp;fileNo=1" title="另開視窗">
+    C100AV027_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      賴清德
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      鄭國忠
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      新聞處長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉奕菁
+     </td>
+     <td>
+      工策會
+     </td>
+     <td>
+     </td>
+     <td>
+      專員
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日光市役所，日光市議會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(交流)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年06月11日 至 民國100年06月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年08月15日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交及國防
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日光市，提振觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   日本東北地區於3月11日發生規模9級之大地震，隨後並受到海嘯侵襲，使東北各地區災情慘重。由於台灣與日本兩國關係密切，無論在經濟、文化、民間活動交流各方面皆十分頻繁。因此在災害發生的第一時間，賴市長即透過電話關心災情，並派出經驗豐富的5名救難人員前往日本參與地震海嘯災區的救災行列，並於4月21日親赴日本宮城縣仙台市，代表台南市民致贈日幣1億7百多萬元的慈善救災捐款。除此之外，因受到311東日本大地震和褔島核災的影響，日本關東地區的觀光產業受到很大的衝擊。台南市的友誼市-日光市，雖然沒有嚴重的災情傳出，但卻受到輻射謠言的影響，觀光客銳減，觀光產業陷入了十分嚴重的狀況。在5月2日，日光市市長齋藤文夫率領日光市觀光部部長上原成美先生等一行4人，來到台南拜訪賴清德市長。與賴市長的會談中，齋藤市長除了向台灣民眾表達對日本震災大力捐款的感謝之意，並發表了「日光市觀光安全宣言」，強調日光市的生活環境、水質、空氣和食物等，皆無受到污染，希望破除核災謠言對日本觀光的影響，十分期待、歡迎台灣民眾來到安全如昔、美景依舊的日光市旅遊。賴市長表示以實際行動是打破謠言最有效的方式，允諾將組成約200人之親善旅遊團至日本日光市參觀旅遊，協助台南市的友誼市–日本日光市重振觀光。
+  </td>
+ </tr>
+</table>

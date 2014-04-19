@@ -1,0 +1,220 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   23
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09400375
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   鄉民代表赴美國、加拿大東部考察觀摩地方建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   鄉民代表赴美國、加拿大東部考察觀摩地方建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09400375&amp;fileNo=1" title="另開視窗">
+    C09400375_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣龍崎鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳石森
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林福堂
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   加拿大、美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國93年10月15日 至 民國93年10月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年01月25日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   行政管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   輔助事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   際此世界科學昌明的時代，航空、電信及資訊等通路快速發展，昔日認為遙不可及的地方，現看起來算是近在咫尺，給人們的感覺世界版圖好似正縮小之中，國際間互動頻仍，全球化列車已不得不發，欲追求開展的人類想跳脫域外，另覓天地似乎難度很高，因此，為能博取新知與增長閱歷，除了需廣覽群書外，更需要周遊覽訪，去見識方外一些成效與經驗，裨能在知識爆炸的時代站有一席之地。素仰美國、加拿大為民主國家之先驅且為已開發成熟之泱泱大國，向來在處理國際事務上均居於主導的地位，尤其各該國之東部交界鄰近州區城鎮，是為兩國之首善之區，人文薈萃，工商業發達，頗有取經學習價值；併可參覽當地古蹟勝景旖旎風光，有助於調劑身心紓解壓力，儲備足夠能量再出發，繼續為地方來打拚。
+   <br/>
+   綜觀美加兩國不論在人文素養、交通秩序、環境景觀等各方面，有很多值得國人學習參考與借鏡的地方。
+  </td>
+ </tr>
+</table>

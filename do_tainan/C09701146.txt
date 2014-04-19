@@ -1,0 +1,286 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   120
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09701146
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團赴菲律賓姊妹市大谷地市、卡格楊迪歐市參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團赴菲律賓姊妹市大谷地市、卡格楊迪歐市參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林河松
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      行政管理及法務處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      施宏志
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      行政管理及法務處
+     </td>
+     <td>
+      管理師
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃淑敏
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      代理科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蕭泰華
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   菲律賓
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   大谷地市Francisco Tolentino,卡格楊迪歐市,馬尼拉
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年03月30日 至 民國97年04月02日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年05月16日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   其他政務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   此行除與大谷地市、卡格楊迪歐市接續姊妹市友好情誼，並藉由此參訪交流活動行銷本市讓國際城市認識台南市，進而促進本市觀光業務推展並增進本市國際能見度。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   20頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   許市長一行於3月30日晚間抵達馬尼拉，隨即在吳新興代表的陪同下來到大谷地市，並受到大谷地市政府官員盛情的迎接。
+   <br/>
+   31日上午在代表處吳新興代表等駐外官員的陪同下，到大谷地市Francisco Tolentino紀念中學大廳參加電腦捐贈移交典禮。該市在1980年8月16日由大谷地市前市長馬蓋貝與台南市前市長蘇南成於大谷地市締盟；該市係菲律賓避暑與渡假勝地，為一發展觀光與旅遊的都市；此行除
+   <br/>
+   參加電腦捐贈儀式外另對於大谷地市的觀光旅遊發展進行市政考察外，另外赴姊妹市卡格楊迪歐市，該市於2005年9月9日由前市長Vicente  Y Emano與許市長於台南市締盟，該市為一海港城市，可停泊遠洋船舶該市為民答那峨北方治安最良好的城市之一，藉由此次取經參訪規劃本市港濱
+   <br/>
+   設施，以發展本市觀光產業。
+   <br/>
+   此行除重申與姊妹市友好關係外並進行城市交流，在未來經濟產業與文化觀光事業發展與國際城市一同發展策略，朝健康城市邁進藉由雙方交流彼此資源互通，拓展城市外交視野而邁向國際化，希望藉由此次的參訪尋求城市合作及整合文化、觀光、教育、經貿增進兩國合作。
+   <br/>
+  </td>
+ </tr>
+</table>

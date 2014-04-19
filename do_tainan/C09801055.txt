@@ -1,0 +1,236 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   40
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09801055
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   東歐、環保文化及地方建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   東歐、環保文化及地方建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09801055&amp;fileNo=1" title="另開視窗">
+    C09801055_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣永康市民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳麗娟
+     </td>
+     <td>
+      臺南縣永康市民代表會
+     </td>
+     <td>
+      永康市民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃素卿
+     </td>
+     <td>
+      臺南縣永康市民代表會
+     </td>
+     <td>
+      秘書室
+     </td>
+     <td>
+      組員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   奧地利、捷克、德國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   無
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年03月14日 至 民國98年03月23日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年05月01日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   交通及建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   德國，捷克，奧地利，東歐，環保，文化，地方建設，考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   9頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   一、德國、捷克、奧地利等歐洲建築風貌及生態環保、文化遺產的致力維護，足堪
+   <br/>
+   本國參考借鏡學習。
+   <br/>
+   二、歐洲建築非常重視一體呈現之風貌，都經過整體規劃，保存舊有建築外觀，只可整修內部，形成外舊內新，使整個城市能保留古代歐洲的建築風貌，歐風建築的典雅及古色古香之文化遺產，令觀光客流連忘返。
+   <br/>
+   三、德國是個非常注重環保生態之國家，在這個重工業極發達的國家，能積極為綠能減碳盡心盡力實在難得。人民也都自動致力於保護文化遺產，因為在他們心目中，認為文化遺產就是他們的寶。
+   <br/>
+   四、歐洲聯盟是可促進歐洲團結及便利的政策，貨幣統一、各國間進出通行無阻，形成一個大的商業貿易市場。
+   <br/>
+   五、捷克下水道有二項功能，1.排水功能；2.是排垃圾功能：將街道的垃圾用水沖入下水道，下水道用網擋住垃圾，定時清理。
+   <br/>
+   六、捷克溫泉區卡羅維瓦利利用石頭裁成小方塊舖路，街道既堅固又能排水，是不錯的施工法，水可順利排掉或滲入地下，街道不會損壞又不易積水，也可免去常常修路，交通順暢又節省公帑。
+   <br/>
+   七、捷克商店廁所及公廁都使用感應式燈泡，節省能源又方便。並實施高油價政策，以價制量，鼓勵民眾搭乘公車及電車，節省能源且交通順暢。
+   <br/>
+  </td>
+ </tr>
+</table>

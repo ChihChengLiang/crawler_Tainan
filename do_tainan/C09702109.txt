@@ -1,0 +1,257 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   285
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702109
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「2007年恭祝泰皇八十聖誕慢速壘球邀請賽」暨赴英參選「2007世界領導獎」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加「2007年恭祝泰皇八十聖誕慢速壘球邀請賽」暨赴英參選「2007世界領導獎」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702109&amp;fileNo=1" title="另開視窗">
+    C09702109_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      胡兌昀
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃玉鳳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞室
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   泰國、英國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(邀請賽及參選)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年12月02日 至 民國96年12月08日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年08月08日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   其他政務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   「2007年恭祝泰皇八十聖誕慢速壘球邀請賽」暨赴英參選「2007世界領導獎」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   4頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   應泰國慢速壘球聯盟邀請參加「2007年恭祝泰皇八十聖誕慢速壘球邀請賽」，及應「世界領導獎」主辦單位之邀請，本市以「打造綠色城市」(Reconstruct Green City)為專題，參選「環境類」評選。
+   <br/>
+   第一天中午抵達曼谷，受到駐泰國代表處烏代表元彥及「泰國台商慢速壘球聯盟」陳主席水龍等之熱烈歡迎。下午許市長伉儷赴「泰國台商慢速壘球聯盟」練習場地參觀，為正在加緊練球之曼谷台商隊加油打氣，並預祝該隊勇奪佳績。
+   <br/>
+   第二天上午拜會泰國台灣商會聯合總會，並與鄭伯卿總會長、呂生意副總會長等台商領袖舉行座談，交換彼此對世界經濟情勢的心得與看法。另拜會歷史悠久之泰國台灣會館，並與黃信雄主席等幹部暢談我先民胼手胝足、在泰打拚之歷程。
+   <br/>
+   第三天赴曼谷國際機場，搭機轉赴英國倫敦。
+   <br/>
+   第四天早上在飯店預演簡報及參賽過程。午餐後，赴參賽地點比賽。
+   <br/>
+   第五天抵參賽會場，觀摩其他組別入圍城市之簡報會，晚上赴洲際飯店參加頒獎典禮。
+   <br/>
+   第六天由駐館人員陪同至抵達Dockland船塢新興區(倫敦新金融中心)參觀。下午參觀泰德畫廊現代館、泰晤士河南岸。
+   <br/>
+   第七天返抵台灣。
+  </td>
+ </tr>
+</table>

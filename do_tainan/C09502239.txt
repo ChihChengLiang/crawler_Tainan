@@ -1,0 +1,286 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   268
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09502239
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市政府代表團參加蒙古成吉思汗建國800週年活動暨以色列姊妹市那那市參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南市政府代表團參加蒙古成吉思汗建國800週年活動暨以色列姊妹市那那市參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09502239&amp;fileNo=1" title="另開視窗">
+    C09502239_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      謝振益
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      北區區公所
+     </td>
+     <td>
+      區長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      劉秋玲
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳秀琍
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞室
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳孟岑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      永華國小
+     </td>
+     <td>
+      老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   以色列、蒙古
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   蒙古國國會大廈，蒙古烏蘭巴托市，以色列若那那市，以色列耶路撒冷市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年07月06日 至 民國95年07月13日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年09月12日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   內政及國土
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   內政及國土安全
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   許市長乃應外蒙古副總理恩赫賽汗（Mendsaikhan Enkhsaikhan）邀請參加蒙古建國八百年的慶祝活動，受到官方高規格的禮遇接待。市府參訪團，於7月9日應邀搭機前往以色列若那那市，此行除重申姊妹市友好關係並參觀中華文物展與台灣照片展及社會福利機構。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   22頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   市長許添財今（2006）年7/6-7/13號接連出訪外蒙古和以色列姊妹市若那那市。其中外蒙古的行程，許市長乃應外蒙古副總理恩赫賽汗（Mendsaikhan Enkhsaikhan）邀請參加蒙古建國八百年的慶祝活動，受到官方高規格的禮遇接待。此次出訪外蒙古，承蒙台南市國民外交協會大力促成。國民外交協會（PTPI — People to People International）是屬於國際性組織，在1956年由美國總統艾森豪創立，至今已經50週年了，目前世界上107個國家都有分支。國民外交協會台南市會蒙古委員會主委卓永崇在2002年擔任會長時，參加在美國舉辦的「世界聯會」時與國民外交協會蒙古烏蘭巴托會有了交流。此次到蒙古訪問，也是因為國民外交協會台南分會與烏蘭巴托分會兩會居中安排，才能促成。
+   <br/>
+   市府參訪團，於7月9日應邀搭機前往以色列若那那市，該市在1999年10月26日由該市前市長Bielski具爾斯基市長與前市長張燦鍙先生於台南市簽約締盟，此行除重申姊妹市友好關係並參觀中華文物展與台灣照片展及社會福利機構。該市近來致力於藝術展覽、表演活動及體育競技，且經常安排聲譽好的藝術團體赴國外演出，文化及運動十分蓬勃。
+   <br/>
+   此行除與重申姊妹市友好關係外將對兩市在未來經濟產業與文化觀光事業發展一同發展策略，朝健康城市邁進藉由雙方交流彼此資源互通，拓展城市外交視野而邁向國際化，希望藉由此次的參訪尋求城市合作及整合文化、觀光、教育、經貿增進兩國合作。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

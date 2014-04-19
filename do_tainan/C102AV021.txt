@@ -1,0 +1,226 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   152
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV021
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   奉派赴日本東京參訪下水道展覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   奉派赴日本東京參訪下水道展覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV021&amp;fileNo=1" title="另開視窗">
+    C102AV021_01.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV021&amp;fileNo=2" title="另開視窗">
+    C102AV021_02.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      葉俊良
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      水利局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林明勳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      水利局
+     </td>
+     <td>
+      助理工程員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   東京下水道展覽，下水道研究發展會Asia Session亞洲論壇，葛西水再生中心，首都圈外廓放水路，積水東京工廠
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年07月30日 至 民國102年08月03日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年10月31日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   水利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   水利與水資源
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本，東京，水技術，水資源，污水處理，回收再利用
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   42頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市現正積極推動污水下水道系統之建設及污水回收再利用之技術，經參加 2013 年日本東京下水道展覽與實地參訪後，東京都水再生中心因應都市發展的方向，所產生的水再生之放流水大部分都流回河川，提供都市地表蒸發量之補助及提供民眾親水的空間，讓東京都都市有豐富的自然生態；都京都水再生中心所產生的放流水較少有再進行高級處理(臭氧程序及薄膜過濾程序)，其因素為東京都原本就有豐沛的河川水源可提供自來水廠使用，高級處理需較高處理成本，且東京都的工廠尚無需用到大量的水源，故東京都下水道局僅在教育方面來積極推廣污水下水道的好觀念。然而，本次藉由東京下水道展覽及實地參訪瞭解日本在下水道施工或水回收再利用已有成熟技術與設備，可將下水道工程技術的提升及趨勢的認知、水回收再利用觀念的強化及水中能資源回收的新觀念等提供給水資源回收中心之操作管理維護使用。
+  </td>
+ </tr>
+</table>

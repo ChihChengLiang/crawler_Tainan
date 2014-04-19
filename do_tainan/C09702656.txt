@@ -1,0 +1,266 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   71
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702656
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市北區大光國小參加2008年義大利蘇連多國際春天藝術節活動成果報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   赴義大利蘇連多市參加2008年第22屆國際春天藝術節
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702656&amp;fileNo=1" title="另開視窗">
+    C09702656_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳東陽
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      大光國小
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      高素貞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      大光國小
+     </td>
+     <td>
+      指導老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      顏琪芳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      大光國小
+     </td>
+     <td>
+      指導老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳美珍
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      大光國小
+     </td>
+     <td>
+      指導老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   義大利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   義大利蘇連多市
+駐義大利代表處
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參加活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年06月04日 至 民國97年06月13日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年09月12日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   義大利蘇連多國際春天藝術節
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   13頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本次出國為代表中華民國參加義大利蘇連多市2008年第22屆國際春天藝術節。此次節慶共有義大利、中華民國、巴勒斯坦、德國、塞內加爾、英國…等十個國家的青少年參加。此節慶為一個歷史悠久的國際性活動由義大利ASSOCIAZIONE  CULTURALE  CYPRAEA 基金會所主辦，該基金會的宗旨為追求人類的和平、愛與希望。每壹年皆有一主題，今年的主題為「糖」，探討糖的文化與對青少年的影響。本校以「甜蜜台灣情---糖的濃情密意」為主題的企劃案，參加外交部駐義大利代表處的徵選而獲選。
+   <br/>
+   為了完美的演出，除以絲竹樂演出融合中西的樂曲為主軸外，並以最具代表台灣的原住民舞蹈以及民俗技藝扯鈴做為搭配演出。在節慶期間演出多場，獲得主辦單位的好評，同時在閉幕遊行時高舉國旗載歌載舞遊行蘇連多市區獲得高度關注與喝采；返國前原本應邀至羅馬駐義大利代表處展演宣慰僑胞，但因美國總統布希訪問義大利，代表處附近交通管制無法進入而作罷，為一大遺憾。此行的表現除獲得主辦蛋位的讚揚外也獲得我國駐義大利代表處高度的肯定。
+   <br/>
+  </td>
+ </tr>
+</table>

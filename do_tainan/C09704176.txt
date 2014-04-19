@@ -1,0 +1,264 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   82
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09704176
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南縣政府暨議會、媒體記者赴日觀摩
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南縣政府暨議會、媒體記者赴日觀摩出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09704176&amp;fileNo=1" title="另開視窗">
+    C09704176_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      何宜芳
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      新聞處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      方瑞唯
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      新聞處
+     </td>
+     <td>
+      代理科長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      岳珮喻
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      新聞處
+     </td>
+     <td>
+      約僱人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      宋金燕
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      新聞處
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   東京都廳，草津溫泉觀光協會，世界遺產日光東照宮
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年08月27日 至 民國97年08月31日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年11月03日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   媒體關係
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本，媒體
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   為提供本縣媒體記者多方了解先進國家在各項建設上的規劃與設計，進而作為日後報導縣政、提供施政建言的參考對照，本縣特於每年辦理媒體記者觀摩考察計畫，除增進媒體之見聞，同時亦促進本縣與縣政記者間之情誼，俾利後續縣政宣導業務之推動。
+   <br/>
+   本年度媒體記者出國考察之計畫，安排前往日本觀摩該國家在觀光、文化層面上的推展規劃，行程包含東京都廳、鬼怒川、草津溫泉區、日光東照宮、川越小江戶等可供觀光經營與文化保存等相關政策借鏡的地點，藉由實地親身體驗各該景點的風貌與特色營造，以達到對於日本在相關政策規劃與執行層面上的了解。
+   <br/>
+  </td>
+ </tr>
+</table>

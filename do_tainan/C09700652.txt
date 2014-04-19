@@ -1,0 +1,227 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   113
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09700652
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   健康促進學校第一屆健康磐石獎得獎學校參訪香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   健康促進學校第一屆健康磐石獎得獎學校參訪香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09700652&amp;fileNo=1" title="另開視窗">
+    C09700652_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      吳淑美
+     </td>
+     <td>
+      臺南市中西區忠義國民小學
+     </td>
+     <td>
+      忠義國小
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林秀珠
+     </td>
+     <td>
+      臺南市中西區忠義國民小學
+     </td>
+     <td>
+      忠義國小
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   香港中文大學，香港保良局方王錦全小學，香港仁濟醫院第二中學，香港元朗公立中學校友會英業小學，香港李徐松聲幼稚園，東華三院馮黃鳳亭中學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年12月01日 至 民國96年12月04日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年03月04日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   健康促進學校，參訪，香港，健康促進學校合作夥伴承諾書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   為鼓勵中、小學積極推動健康促進學校計畫，教育部與行政院衛生署國民健康局除共同頒予績優學校第一屆健康促進學校磐石獎外，並鼓勵績優學校與國外健康促進學校建立實質交流合作。
+   <br/>
+   香港積極推動健康促進學校已多年，其獎勵計畫係依世界衛生組織金、銀、銅獎規劃頒贈，其每年並聘有外國專家參與評審且與WHO聯繫頻繁，又同屬華語體系，雙方學校容易直接對談。
+   <br/>
+   此次參訪活動係因本校推動健康促進學校績優，榮獲教育部及行政院衛生署國民健康局頒贈第一屆健康促進學校健康磐石獎，所以獲推薦與香港健康促進推展優良之學校，互相學習觀摩，建立實質交流，進而積極推動健康促進學校業務。
+  </td>
+ </tr>
+</table>

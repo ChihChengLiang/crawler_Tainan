@@ -1,0 +1,268 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   87
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09703888
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團赴日本國千葉縣市川市參加西太平洋健康城市聯盟(AFHC)第三屆年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團赴日本國千葉縣市川市參加西太平洋健康城市聯盟(AFHC)第三屆年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09703888&amp;fileNo=1" title="另開視窗">
+    C09703888_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      胡淑貞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張皇珍
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市環境保護局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳毓雯
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      行政管理及法務處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      朱棟
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      行政管理及法務處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本國千葉縣市川市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年10月23日 至 民國97年10月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年11月27日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   輔助事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   臺南市政府代表團赴日本國千葉縣市川市參加西太平洋健康城市聯盟(AFHC)第三屆年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   臺南市在許市長的帶領與市府團隊的努力下，近年在各方面的建設都突飛猛進，尤其在健康城市的各項建設、政策，在政府部門與學術單位的合作下，更是府城令人驕傲的成就。所以，當2004年10月在馬來西亞古晉所舉行的第一屆西太平洋健康城市聯盟成立大會時，府城即已派員參加與申請入會，並成為臺灣第一個成功加入此一國際性衛生組織的城市。
+   <br/>
+   2006年第二屆年會在中國蘇州舉行，因中國無理打壓造成本市無法與會，本(2008)年在日本市川市的第三屆年會，府城再度參與，原擬由許市長親自率團與會，後因另有行程安排因素未能成行，由衛生局胡局長領隊率團前往與會。
+   <br/>
+   聯盟會議於10月24日至26日舉行，第一天為參訪行程，第二天為開幕式等相關會議，第三天為會員大會與學術研討會，本市參訪團除第三日下午因返台飛機時間提早離開二小時外，均全程參與。
+   <br/>
+   本次行程顯示府城藉由實力重返國際舞台外，也向國際社會展現府城身為地球村的一員，願意也樂意為國際社會盡一份心力；透過海報展板、DM發送、交流活動，本團隊成功地將府城的文化、美景、美食介紹給國際友人，行銷府城觀光。
+  </td>
+ </tr>
+</table>

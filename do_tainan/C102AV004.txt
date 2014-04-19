@@ -1,0 +1,248 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   186
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV004
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   第五屆「海峽兩岸廈門文化產業博覽會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   第五屆「海峽兩岸廈門文化產業博覽會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV004&amp;fileNo=1" title="另開視窗">
+    C102AV004_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      周雅菁
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      余基吉
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局文化事業科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳信嫻
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局文化事業科
+     </td>
+     <td>
+      約用人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   廈門文化產業博覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參展)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年10月25日 至 民國101年10月30日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年01月25日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化宣傳
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   文化產業，臺南創意城市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   海峽兩岸（廈門）文化產業博覽交易會創辦於2008年，以國務院臺灣事務辦公室、民革中央、中華人民共和國文化部、國家廣播電影電視總局、中華人民共和國新聞出版總署為指導單位；由福建省人民政府、中華文化聯誼會、中華廣播影視交流協會、中國出版工作者協會、亞太文化創意產業協會（臺灣）等單位聯合主辦，廈門市人民政府承辦。
+   <br/>
+   海峽兩岸文博會是全國唯一以“海峽兩岸”命名，並由兩岸共同主辦的綜合性文化產業博覽交易會，以“一脈傳承•創意未來”為主題，以“弘揚中華文化、推動兩岸文化市場融合”為宗旨，以中華文化為紐帶，深化兩岸文化交流與產業對接，著力打造海峽兩岸文化產業合作交流和投資交易的重要品台和會展品牌。
+   <br/>
+   <br/>
+   此次廈門文博會於10月26日至10月29日在廈門國際會議展覽中心舉行，臺灣的文創商品具優勢，在大陸深具潛力，今年預計會有400家廠商參加，合計共有臺灣廠商共計
+   <br/>
+   600個攤位。今年文博會以「凝聚文創智力，開發產業原力」為主題，旨在推動兩岸文化產業交流，以商業及貿易介接強化市場導向。本次展覽中，來自臺灣的參展廠商計有772家，佔總數30.19％，本市則共有16家廠商參與，政府部分除本市外，尚有基隆、宜蘭、臺東、臺中、苗栗等縣市政府參展，第五屆文博會展為共計3,300個，4天期間累積十幾萬參觀人次。
+   <br/>
+  </td>
+ </tr>
+</table>

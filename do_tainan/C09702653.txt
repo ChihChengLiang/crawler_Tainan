@@ -1,0 +1,241 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   69
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702653
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「2008日本平戶市鄭成功誕辰祭」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加「2008日本平戶市鄭成功誕辰祭」出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702653&amp;fileNo=1" title="另開視窗">
+    C09702653_01.doc
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702653&amp;fileNo=2" title="另開視窗">
+    C09702653_02.doc
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702653&amp;fileNo=3" title="另開視窗">
+    C09702653_03.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許耿修
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林惠美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本平戶市觀光協會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年07月12日 至 民國97年07月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年08月18日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際文化交流及合作
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本平戶市為鄭成功出生地，2005年平戶市組團參加我國台南市舉辦之「2005鄭成功文化節」，因鄭成功是平戶市代表性人物，為加深當地文化認同、推展觀光，平戶市代表團從台南安平開台天后宮分靈，迎請鄭成功金身返日奉祀，開啟了開台聖王出生、逝世兩地文化交流，意義深遠。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   鄭成功的誕生地日本平戶市，每年均有例行性的慶典活動，於七月十三日晚上舉行前夜祭宴會，十四日上午舉行「鄭成功誕辰祭」，以紀念並彰顯鄭成功的遺徳；因鄭成功與台南市歷史重要的淵源，本市鄭氏宗親會年年組團參加平戶市「鄭成功誕辰祭」，日本平戶市觀光協會最近幾年亦組團參加本市鄭成功文化節活動，建立友好關係及促進雙方觀光發展。
+   <br/>
+   97年7月12日至7月16日由本府文化觀光處許處長率觀光發展科、台南市鄭
+   <br/>
+   氏宗親會、安平文教基金會組團參加鄭成功誕辰祭活動。
+   <br/>
+   從平戶市民間社團所舉辦之「鄭成功誕辰祭」活動，及平戶城建築物之保存與維護，帶動平戶市之觀光，可看出這個城市文化活動的生命力和活力，居民在維護文化資產的用心，尊重歷史記憶和傳統的延續，是值得我國人民學習與借鏡。
+   <br/>
+  </td>
+ </tr>
+</table>

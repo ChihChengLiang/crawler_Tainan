@@ -1,0 +1,244 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   130
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09602964
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   美國姊妹市聖荷西市慶祝締盟30週年慶、美國姊妹市蒙特麗市敘盟誼42週年參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團赴美國姊妹市聖荷西市慶祝締盟30週年慶
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林詮力
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      建設局
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡毖濡
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞室
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   聖荷西市政府,議會,蒙特麗市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年08月12日 至 民國96年08月17日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國96年11月08日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   財政經濟
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   經濟貿易
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   慶祝臺南市與美國加州聖荷西市(City of San Jose)締結姊妹市誼屆滿三十週年，許市長聖荷西市Chuck Reed市長邀請，於8月12日至14日偕夫人率團赴聖荷西市訪問;8月15日市府訪團結束聖荷西之行，轉赴府城第一個姊妹市加州蒙特瑞市(City of Monterey)參訪；蒙特瑞市與臺南市於1965年締約迄今已屆42年.
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   19頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   為慶祝臺南市與美國加州聖荷西市(City of San Jose)締結姊妹市誼屆滿三十週年，許市長聖荷西市Chuck Reed市長邀請，於8月12日至14日偕夫人率團赴聖荷西市訪問；聖荷西市政府對於許市長到訪予以高度重視與禮遇；Chuck Reed市長率全體議員出席由聖荷西臺南姊妹市委員會薛美英會長主辦之三十週年慶晚會，許市長並應邀赴聖荷西市議會接受Chuck Reed市長宣示聖南兩市友好宣言，Reed市長正式於該市議會公佈8月12-18日為臺灣臺南週，並於市府廣場前懸掛市旗一週以資紀念。
+   <br/>
+   許市長此行訪美除由市府建設局、新聞室派代表隨行，並由南台灣創新園區戴副主任友煉及臺南科技工業區迎輝科技二名董事陪同，盼能推動雙邊經貿交流、並向矽谷地區台商行銷府城，鼓勵台商至臺南科技工業區投資設廠。
+   <br/>
+   8月15日市府訪團結束聖荷西之行，轉赴府城第一個姊妹市加州蒙特瑞市(City of Monterey)參訪；蒙特瑞市與臺南市於1965年締約迄今已屆42年，雙方因空間阻隔及預算限制等因素，幾無互訪，也幾乎淡忘了彼此的存在；許市長此行特藉聖南三十年慶之行，順訪蒙市，為雙方重啟友好交流之門。府城也是蒙特瑞市的第一個姊妹市，市長Mr. Chuck Della Sala全程陪同許市長參訪該市觀光暨體育建設，並頒致蒙南兩市友誼42週年紀念牌，宣示兩市友誼永固，並盼未來兩市在教育、觀光及棒球運動等領域加強交流。
+   <br/>
+  </td>
+ </tr>
+</table>

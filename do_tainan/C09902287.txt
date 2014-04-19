@@ -1,0 +1,316 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   12
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09902287
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   議事業務-出席國際會議及考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   福建地區地方建設觀摩設施及市街、交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09902287&amp;fileNo=1" title="另開視窗">
+    C09902287_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣歸仁鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      張宏志
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃加右
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林沿潮
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林勝雄
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      鄭進吉
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張主明
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許寶桂
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      臺南縣歸仁鄉民代表會
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   廈門台商協會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年07月16日 至 民國99年07月23日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年08月03日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   交通建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   公路
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   地方建設觀摩設施及市街、交通考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   18頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   一、泉州地處福建省東南部，是福建三大中心城市之一，也是福建經濟中心。二、開元寺建於唐武則天垂拱二年(公元686年)，至今已有1300多年的悠久歷史。開元寺的大雄寶殿「百柱殿」有86根大石柱，相傳建殿時有紫雲飄繞蓋地，故又稱紫雲大殿。開元寺最有名的是它的雙塔，東為“鎮國塔”，西為“仁壽塔”，它們高40多公尺，是我國最高的一對石塔。三、漳州-(拜訪廈門台商協會-常務理事黃毓勉，拜訪泰谷眼鏡公司台商-張總經理。四、廈門-街道考察-【環島海濱路】沿途會經過大海、沙灘、彩色路面、青草、綠樹，構成了一條美麗的海濱走廊。
+  </td>
+ </tr>
+</table>

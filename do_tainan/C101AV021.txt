@@ -1,0 +1,266 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   293
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV021
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   101年度日本京都金澤文化交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   101年度日本京都金澤文化交流 出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV021&amp;fileNo=1" title="另開視窗">
+    C101AV021_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      賴清德
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳宗彥
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃名亨
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      主任秘書
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      余金秀
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      助理員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   京都府廳，京都市役所，北國新聞社
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(城市交流活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年09月19日 至 民國101年09月23日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年10月25日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交及國防
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   外交僑務及兩岸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   城市行銷，文化交流，台南，京都，金澤市，石川縣
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   18頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本次出訪日本行程，主要分為兩個部分：拜會京都官方人員及視察金澤臺南週活動。
+   <br/>
+   <br/>
+   拜會京都官方人員：拜會京都府知事、京都市市長及議員，感謝世界歷史都市聯盟理事長和京都市各界為台南加入聯盟的奔走發聲。期盼借鏡京都精神推廣臺南文化觀光，吸引更多遊客前來參訪，更為往後兩市之文化交流開啟新的一頁。
+   <br/>
+   <br/>
+   視察金澤臺南週：金澤市於9月20日至22日舉辦臺南週，同時於北國新聞所屬赤羽展演中心舉辦了八田與一遺物展及臺南金澤工藝交流展。臺南市立民族管絃樂團和秀琴歌劇團也受邀參與金澤臺南週的活動，並與當地藝伎舞蹈團進行交流活動。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

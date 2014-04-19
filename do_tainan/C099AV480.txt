@@ -1,0 +1,304 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   108
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV480
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團受邀赴美國德州休士頓醫療園區暨市政建設參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團受邀赴美國德州休士頓醫療園區暨市政建設參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AV480&amp;fileNo=1" title="另開視窗">
+    C099AV480_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      謝世傑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      秘書長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      胡淑貞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      衛生局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      徐中強
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃淑敏
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳月英
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      衛生局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   美國德州休士頓醫療園區:德州醫學中心、安德森癌症中心、心臟研究中心、赫曼公園(Hermann Park)、健康博物館 (The Health Museum)。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(Ã¥ÂÂÃ¨Â¨Âª)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年06月27日 至 民國99年07月03日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年10月05日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   衛生福利勞動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   衛生及社會安全
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   衛生醫療
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   13頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本市現正進行規劃興建「台南市立安南醫院」，同時並考量未來「台江醫院」之設計與發展，經美國德州同鄉會推薦全球排行第一名休士頓醫療園區，邀請許市長添財賢伉儷於6月27日至7月3日，帶領市府相關同仁參訪醫療園區與健康博物館，以增進市府長官暨同仁對現代化醫療設施及建築規劃之概念與知識。
+   <br/>
+   關於德州醫療園區參訪的學習心得如下：1.醫療園區的管理方式以獨立經營為原則，維護經費則由州政府與區內機構雙方共同負擔。民間投資參與醫學中心開發，亦促成整個醫療園區的經濟繁榮及發展，是我們有目共睹的實證，值得台灣的學習。2.初訪安德森癌症中心及心臟研究中心，我們如置身五星級大飯店，院內設計圖書館、購物中心、交誼廳等以病人為中心的舒適環境；尤其員工態度誠懇、親切，言談中皆以醫院為榮，醫院有效管理、方向正去確，員工向心力強，這是值得我們學習。3.我們見識到台灣醫療研究團隊精英的努力及貢獻，台灣的醫療技術在國際享有名譽。感謝中央研究院院士洪明奇博士、陳珠璜主任的安排及說明，讓我們能更深入了解世界級的醫療機構的經營與管理。4.台南市立安南醫院應該要學習德州醫學中心，以造福社會人群寬大的心量來計設計經營，並且以醫院為中心規劃商業區或停車場等設施，使得醫院更具人性化，創造附加值，並帶動地區繁榮。
+   <br/>
+   美國德州醫學中心及都市建築設計規劃，有許多的優點值得市府學習暨觀摩，市府團隊將此次參訪行程視為未來的工作挑戰，及重要市政願景規劃藍圖。
+   <br/>
+  </td>
+ </tr>
+</table>

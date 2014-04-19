@@ -1,0 +1,251 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   177
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV484
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   奉派赴日本名古屋市進行下水道建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   奉派赴日本名古屋市進行下水道建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AV484&amp;fileNo=1" title="另開視窗">
+    C099AV484_01.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AV484&amp;fileNo=2" title="另開視窗">
+    C099AV484_02.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      鄒譽名
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      公共工程處
+     </td>
+     <td>
+      技正
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃信銓
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      公共工程處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭伯維
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      公共工程處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本名古屋港區國際展示館
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年07月27日 至 民國99年07月31日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年09月30日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   公共工程
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   工程管理規劃評估
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本、下水道展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   47頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本府為建構「健康、安全之城市」並配合中央政策目標，積極辦理台南市污水下水道建設第三期實施計畫(98~104年)，預計埋設污水管線56公里，辦理用戶接管約68,000戶，完成後可有效改善本市用戶接管地區之生活環境品質、河川水質，並提昇國家形象、競爭力及奠定本市觀光產業基礎，截至99年7月已完成污水管線131公里（全市污水管線規劃長度284公里），用戶接管普及率為25.03% ，更於98年達成單年度11.47%的輝煌成績，雖有此成果，公共工程處仍兢兢業業，戮力以赴。
+   <br/>
+   本次參觀第24屆「下水道展’10名古屋」之規模及參展團體多達278個社團，不僅為日本一年一度下水道盛會，並已逐漸發展為國際性下水道博覽會。另外本次亦參觀名古屋市東側之植田水處理中心、抗菌混凝土管之生產工廠、泥濃式曲線推進及泥水式長距離推進工地，對於日本不斷精進於下水道施工、維護管理、修繕之設備及技術，留下深刻的印象。
+   <br/>
+  </td>
+ </tr>
+</table>

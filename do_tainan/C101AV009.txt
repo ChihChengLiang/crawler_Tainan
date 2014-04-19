@@ -1,0 +1,263 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   186
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV009
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2011新加坡世界蘭展參訪暨臺南優質農特產品拓銷活動報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2011新加坡世界蘭展參訪暨臺南優質農特產品拓銷活動報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C101AV009&amp;fileNo=1" title="另開視窗">
+    C101AV009_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      賴清德
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許漢卿
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      農業局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許文耀
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      農業局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林雪英
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      農業局
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   新加坡
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   無
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年11月15日 至 民國100年11月17日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年03月03日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   世界蘭展，新加坡農特產行銷
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   （一）參觀由華裔張炳生及張允中父子經營的新加坡允龍蘭園Woon Leng Nursery，佔地約10公頃之蘭花溫室，以胡蝶蘭及石斛蘭為主，銷售市場除新加坡外，國外市場以中東、歐洲為中心。
+   <br/>
+   （二）爭取22屆WOC主辦國家，共有8個國家爭取，參加申辦說明代表有台南市長賴清德先生、台灣蘭協名譽理事長陳石舜先生、高雄大學陳文輝博士、台灣蘭協理事長高紀清先生，就政府提供新建展場協助、台灣過去參展及育種經驗到台灣對蘭花保育的努力及對世界蘭展相關程序準備，簡報時間於15分鐘內向12名評選委員及理事會委員詳細說明。
+   <br/>
+   （二）在新加坡世界城的Cold Storage超市，辦理台南優質農產品拓銷發表會，現場推出椪柑、柳丁、楊桃、火龍果、葡萄、香菇及西瓜等，以台南產地直送新加坡方式，與新加坡的消費者共同分享新鮮農產品，由賴市長清德、我國駐新加坡代表史亞平、Cold Storage超市董事長謝維特共同剪綵。
+   <br/>
+  </td>
+ </tr>
+</table>

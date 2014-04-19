@@ -1,0 +1,262 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   72
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702752
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市億載國小與新加坡崇福學校「建構e化學習環境暨精進英語教學」交流活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南市億載國小與新加坡崇福學校「建構e化學習環境暨精進英語教學」交流活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09702752&amp;fileNo=1" title="另開視窗">
+    C09702752_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      吳文賢
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市安平區億載國小
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林勇成
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市安平區億載國小
+     </td>
+     <td>
+      主任
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃意評
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市安平區億載國小
+     </td>
+     <td>
+      組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇杏娥
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市安平區億載國小
+     </td>
+     <td>
+      老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   新加坡
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   崇福學校 (Chongfu Primary School)，孺廊小學 (Rulang Primary School)，後港小學 (Hougang Primary School)，蔡厝港小學 (Chua Chu Kang Primary School)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(交流活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年07月20日 至 民國97年07月27日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年08月18日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國民小學及國民中學教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   國小教育，伙伴交流，跨國交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   美國麻省理工學院彼得．聖吉（Peter Senge）倡導學習型組織，揭櫫五項修練，其中的「團隊學習（Team Learning）」概念正是我們推動「建構e化學習環境暨精進英語教學」交流活動憑藉的精神。教育部2008教育目標在「立足台灣，放眼世界」，台南市府同時也推出了「教育雙軸」－「師生國際接軌．建立府城識別」，提供孩子多元的學習管道與各式體驗，學習不再是單單課堂上靜態知識的灌輸，透過動態校際之間的交流與分享，不但能讓孩子認識自我、擴展視野，並讓他們相互了解、欣賞、體驗不同學校、城市、國家文化的特色，進而培養待人接物的態度、提升語言表達能力，建立孩子的自信。此外，透過校際交流與分享，更能凝聚學校團隊力量，激盪發揮腦力創意，達到資源共享與互補的作用。
+  </td>
+ </tr>
+</table>

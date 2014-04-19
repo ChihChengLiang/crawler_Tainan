@@ -1,0 +1,281 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   51
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV002
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2010年參加第四屆健康城市聯盟國際會議暨參訪出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2010年參加第四屆健康城市聯盟國際會議暨參訪出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV002&amp;fileNo=1" title="另開視窗">
+    C100AV002_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      洪正中
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林碧芬
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳必成
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳怡豪
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      建設及產業管理處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      洪怡真
+     </td>
+     <td>
+      臺南市立崇學國民小學
+     </td>
+     <td>
+      臺南市立崇學國民小學
+     </td>
+     <td>
+      老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   韓國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   江南區保健所、江南失智症防治中心、明華社區福利中心、韓國傳統手工藝中心、漢城華僑協會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(出席國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年10月25日 至 民國99年10月29日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年12月13日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   其他政務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   健康城市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   23頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   1986年渥太華憲章提出健康促進策略；西太平洋健康城市聯盟(Alliance For Healthy Cities ,以下簡稱AFHC）於2003年10月於WHO西太平洋馬尼拉辦公室成立，全球健康城市運動就此展開。聯盟的城市運用世界衛生組織向全世界所推動「健康城市」的方式，完成國際健康城市聯盟之目標。健康城市發展的要件需有社區參與、跨部門合作、首長之政治承諾、實證操作能力、分享資訊、經驗交流才可順利達成，目前AFHC含台灣約有114個城市與33個非政府組織單位參與推動，臺灣會員數在8個副會員國家中排名第一。為達經驗交流目的，聯盟每2年舉辦一次健康城市聯盟之會員大會及健康城市聯盟全球會議，第四屆健康城市聯盟會議於韓國首爾江南市召開，透過參加本次國際會議發表論文及參訪行程，認識國際間相關健康城市之組織與機構的代表，互相分享和交流彼此的寶貴經驗，作為台南市推動健康城市之參考。此外也透過參與會議進行台南市城市行銷，促進城市間交流，提昇本市國際能見度。
+  </td>
+ </tr>
+</table>

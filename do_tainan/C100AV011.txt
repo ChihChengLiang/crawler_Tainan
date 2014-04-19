@@ -1,0 +1,225 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   130
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV011
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南縣原住民文化發展協會參加2010年新加坡牛車水慶中秋點燈公演活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南縣原住民文化發展協會參加2010年新加坡牛車水慶中秋點燈公演活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C100AV011&amp;fileNo=1" title="另開視窗">
+    C100AV011_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      蔡宏郎
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南縣政府民政局
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      盧振義
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣政府民政處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   新加坡
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   牛車水俱樂部主席白清富先生，接見納丹總統，參訪科技結合的現代城市(聖淘沙)智慧型建築與空間利用聚舞坊，新加坡代表處史亞平代表，參訪古文明建設的保存與觀光(小印度區)。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年09月10日 至 民國99年09月14日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年03月23日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   民政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   原住民文化，新加坡，洄瀾舞集
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   13頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   這次洄瀾舞集很榮幸受到新加坡納丹總統邀請，參加99年中秋晚會演出的嘉賓，洄瀾舞集的表演被安排在中秋晚會的第一個節目演出，男女舞者身著五顏六色服飾、踏著歡快的樂曲翩翩起舞，瞬間掀開現場活動的氣氛高潮，將台灣原住民文化發揚國外。難能可貴的是，這次舞團在新加坡公演活動的食宿經費，全由新加坡主辦單位負擔，並受新加坡納丹總統及主辦單位白清富主席接見，表演時並受當地民眾及各國旅客的熱列歡迎，佳評如潮，藉此宣揚台灣友善的觀光資源。
+   <br/>
+   洄瀾舞集是由台南縣政府補助，成立於1999年，舞團的理念是沿襲原住民所保留下來之傳統文化及對祖先的感念與祈福之情，透過肢體語言，呈現視覺美感於觀眾面前，團裡的成員大都是來自花蓮、台東、屏東、嘉義...等台南縣市就學、工作的各部落原住民以及熱愛原住民文化的平地漢人。
+   <br/>
+   每年固定發表舞作在國內各地表演，陸續發表表排灣族、魯凱族、泰雅族及阿美族等原住民樂舞系列。也曾受邀到日本、美國、尼泊爾、韓國、土耳其等國家，代表台灣參加當地重大藝文節慶，當起文化外交、宣慰僑胞都獲得國內外人士的肯定。在國內外嶄露頭角的同時有在省思，又該將以何種方式何種內涵舞蹈元素相配合，演出更精緻的新作又不失原住民生活型態，且能延續豐富的民族色彩，讓台灣原住民樂舞能更多采多姿；這幾年開始走入鄰近縣市內外各國小、國中、高中及大專院校，進行原住民樂舞文化的教學，希望能讓更多莘莘學子們了解及學習認知台灣原住民的真正精髓，永續的傳承下去。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,228 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   98
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV479
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   「上海世博會規劃設計與經營管理參訪考察」報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「上海世博會規劃設計與經營管理參訪考察」報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AV479&amp;fileNo=1" title="另開視窗">
+    C099AV479_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      莊德樑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      呂國隆
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   上海世博會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年05月28日 至 民國99年05月31日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年07月27日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   營建
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   空間策略規劃及經營管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   上海，世博，世博會，世界博覽會，規劃，設計，經營，管理，參訪，考察，2010，吳志強
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   36頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本報告所彙整之參觀考察活動內容，係針對上海舉辦之2010世界博覽會之規劃設計與經營管理進行實地考察，並透過與世博規劃團隊之座談，進一步瞭解園區規劃設計之過程與理念。
+   <br/>
+   本次2010年世界博覽會自2010年5月起正式舉辦，為期半年，主題為「Better City, Better Life」，其中諸多內容包括城市未來、城市生命、城市人、各國城市實踐案例…等，與城市規劃專業息息相關，故中華民國都市計畫學會主辦本次參訪考察活動，為都市計畫專業行程，非一般性觀摩參訪，除實地考察園區規劃成果與營運現況外，並邀集上海世博局總規劃師吳志強教授進行座談，講述上海市爭取世博會以及規劃、營運之過程、理念、經驗…，提供都市計畫專業規劃參考。
+   <br/>
+   上海城市規劃和指標性建築的落成都是值得參考和學習的案例。本報告除介紹世博會之意義與影響外，也針對整體規劃理念與營運機制等進行探討，有助於了解世博活動與城市發展之關連性，對於臺灣未來舉辦大型活動之規劃開發提供參考。
+  </td>
+ </tr>
+</table>

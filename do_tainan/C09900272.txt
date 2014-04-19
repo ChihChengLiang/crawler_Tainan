@@ -1,0 +1,266 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   81
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09900272
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參展2009MIPIM ASIA亞洲國際地產投資交易(香港)暨招商出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參展2009 MIPIM ASIA亞洲國際地產投資交易會(香港)暨招商出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09900272&amp;fileNo=1" title="另開視窗">
+    C09900272_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      莊德樑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      莊武雄
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張菁砡
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李琮閔
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      約用人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   香港
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   2009MIPIM ASIA亞洲國際地產投資交易會議
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參展)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年11月16日 至 民國98年11月20日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年01月13日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   營建
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   空間策略規劃及經營管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   國際會議
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   57頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   2009年，MIPIM ASIA透過世界不動產聯合會(FIABCI)，主動邀請中華民國不動產協進會(世界不動產聯合會 臺灣分會)籌組臺灣主題館形式參與展覽，並由中華民國不動產協進會(世界不動產聯合會 臺灣分會)主辦及策劃，邀請臺北市政府、高雄市政府、臺南市政府、臺中市政府、桃園縣政府、大矩聯合建築師事務所、竹間聯合建築師事務所、境向聯合建築師事務所、劉培森建築師事務所、太子建設開發股份有限公司、昇捷建設股份有限公司、長虹建設股份有限公司、元利機構等擔任參展協辦單位，藉由三天的展會時間，發表重大公共工程與民間建設之成果及投資計畫，創造國際人士對台灣之公共建設與民間建築之投資機會，提昇台灣整體之形象與知名度，以及增進與國際不動產之互動交流。
+   <br/>
+   自1989在法國巴黎首度主創辦的MIPIM(Marche International Professional IMmobilier –French，即.國際地產投資交易會)，迄今已經舉辦20年之久，是世界最具代表性的土地開發成功投資交易會。從最初的一千兩百多位參展者，擴展到2009年有一萬八千多位參展者，以及三千五百位專業投資者、零售商，以及跨國企業用戶。隨著亞洲地區經濟高速發展，國際MIPIM展覽規模不斷擴大，“MIPIM ASIA亞洲國際地產投資交易會”於2006年在香港的成功開幕，並成為亞太地區第一個最實際有效的投資交易平台，是亞太地區規模最大最有影響力的綜合性專業房地產展覽會。
+   <br/>
+   2009 全球陷入金融風暴危機，但MIPIM ASIA仍有近600家企業的1500位代表，46個代表國家及地區，又其中有100家參展企業，500位投資者/零售商/酒店集團等，以及120位國際傳媒共襄盛舉。
+  </td>
+ </tr>
+</table>

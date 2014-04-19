@@ -1,0 +1,282 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   145
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV011
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2013臺南市政府日本長崎縣平戶市訪問
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2013臺南市政府平戶訪問團（【台南．平戶市民交流促進協定】簽署暨【鄭成功生誕祭・鄭成功紀念館開館儀式】）
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C102AV011&amp;fileNo=1" title="另開視窗">
+    C102AV011_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      顏純左
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉澤山
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭雪珍
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局文化資源科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      簡伯瑜
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處國際關係科
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      顏奇延
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局文化資源科
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本長崎縣平戶市役所等
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年07月12日 至 民國102年07月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年08月25日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際文化交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本長崎縣平戶市，【台南市民平戶市民交流促進協定】，【鄭成功生誕祭・鄭成功紀念館開館儀式】
+   <br/>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   47頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   受到蘇力颱風之影響，賴清德市長臨時取消赴日行程，坐鎮台南無法親臨赴會，此次「台南市政府日本平戶訪問團」7月12至15日行程，特奉  市長賴清德指派，由顏純左副市長率領包括葉澤山局長在內的文化局及新聞及國際關係處同仁共計5人，為避免颱風影響班機起飛，比原預定行程提前1天，連夜遠赴日本九州長崎縣平戶市參加「台南市民．平戶市民交流促進協定」簽署儀式、「鄭成功生誕祭（389年祭）」及「鄭成功紀念館開館儀式」，獲得日方政府及民間團體熱烈歡迎，並圓滿達成任務。
+   <br/>
+   此外，台南市議會訪問團也由台南市議會議長賴美惠率議員侯澄財、唐碧娥、陳文賢、莊玉珠、楊麗玉、蔡蘇秋金及李退之，共同於7月14日在鄭成功出生地—日本平戶市參加鄭成功生誕祭，並見證台南與平戶市民交流協定簽署，並行銷台南芒果，大受好評。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

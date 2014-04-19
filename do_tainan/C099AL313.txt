@@ -1,0 +1,321 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   10
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AL313
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   99年度都市產業發展與城市再造業務考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   99年度都市產業發展與城市再造業務考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL313&amp;fileNo=1" title="另開視窗">
+    C099AL313_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣仁德鄉公所
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      郭鴻儀
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林育德
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡麗珍
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      謝仁傑
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉俊良
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李建德
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃群堯
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   南京中山陵,國民政府總統府,上海世博
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年06月19日 至 民國99年06月25日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年07月20日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   交通建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   交通及建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   都市產業發展與城市再造展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   56頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   無論古今中外，都市於形成之後，就有管理的問題發生。惟管理是有時代性的。工業革命以前的都市管理注重對市民提供經濟有效的公共服務；廿世紀世界人口都市化以後的都市管理則以解決層出不窮的都市問題為重點。
+   <br/>
+   溯自工業革命發生以後，都市人口激增，都市實質環境，社會形態及市民的生活方式，均起了重大的變化。並由之帶來了許多複雜的問題。例如環境污染及公害問題、貧窮與救濟問題、勞工與失業問題、交通與運輸問題，犯罪問題、環境衛生及疾病問題、房荒問題、娛樂及遊憩問題及政府行政效能問題等。這些複雜的問題如何才能獲得改善或解決。乃是「都市行政學」所要研究的內容。
+   <br/>
+   為了解決都市問題，促進都市健全發展，現代都市管理的加強實施乃應運而生。談到都市事務管理，除了民政、財政、建設、教育、治安、衛生等一般行政之外，也包括了人事行政、都市計畫、都市土地利用、上下水道、公共交通、公園綠地、建築管理、市容景觀、環境衛生、社會安全、市民住宅、公共設施建設、公共事業管理等問題。
+   <br/>
+  </td>
+ </tr>
+</table>

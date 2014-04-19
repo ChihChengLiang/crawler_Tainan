@@ -1,0 +1,246 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   150
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV012
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   「2012年香港旅展暨辦理觀光推廣活動」暨「2012北京國際旅遊博覽會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「2012年香港旅展暨辦理觀光推廣活動」暨「2012北京國際旅遊博覽會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C101AV012&amp;fileNo=1" title="另開視窗">
+    C101AV012_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳俊安
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      局長室
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張淵柏
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      觀光行銷科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王耀進
+     </td>
+     <td>
+      臺南市政府觀光旅遊局
+     </td>
+     <td>
+      觀光行銷科
+     </td>
+     <td>
+      辦事員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府觀光旅遊局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(香港旅展及國際旅遊博覽會)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年06月12日 至 民國101年06月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年08月10日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   2012香港旅展、2012北京旅遊博覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   19頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   根據交通部觀光局統計，去年(2011年)國際觀光旅客來臺總數累計608萬7,484人次，其中港澳地區來臺旅客達81萬7,944人次，較前年(2011年)同期成長2.97%，中國大陸178萬4,185人次，較前年(2011年)同期成長9.41%，其中以「觀光」目的旅客多達363萬3,856人次，顯示世界各國對臺灣觀光旅遊逐漸產生興趣，在中央及地方政府積極推動臺灣觀光形象宣傳及業者商機下，全年港澳及大陸市場仍保持正成長，隨著政府開放大陸民眾來臺旅遊，另配合陸客自由行政策，未來港澳及大陸地區觀光市場極具發展潛力。
+   <br/>
+   香港國際旅展(International Travel Expo,ITE Hong Kong)及北京國際旅遊博覽會(Beijing International Tourism Expo,BITE)分別為香港與北京地區每年定期舉辦之大型國際性觀光旅遊展。本屆香港旅展由交通部觀光局委託臺灣觀光協會組團參加，並規劃6月13日於香港世貿中心舉辦新聞發佈會，6月14日至6月17日為旅展展期，北京旅展則由北京市旅遊發展委員會主辦「2012北京國際旅遊博覽會」，並於2012年6月15日至17日在北京國家會議中心舉辦。
+   <br/>
+   此次香港及北京行程由臺南市政府觀光旅遊局陳俊安局長率隊參加，6月13日參加香港旅展新聞發佈會，6月15日參加北京旅展開幕式及臺灣館記者會，並藉由拜會相關旅行業者、航空業者、官方旅遊單位等行程，彼此交換推廣旅遊心得，瞭解與掌握港澳及大陸整體現況旅遊市場之與變化，希冀透過參與旅展，加強行銷臺南觀光特色，讓當地媒體、旅遊相關業者充分掌握臺南旅遊資訊，作為規劃優質旅遊套裝行程參考，爭取港澳旅客及陸客前來臺南旅遊。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

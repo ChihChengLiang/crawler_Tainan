@@ -1,0 +1,229 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   64
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09701394
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   96年臺南縣鄉鎮市長聯誼會環保業務考察出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   96年臺南縣鄉鎮市長聯誼會環保業務考察出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09701394&amp;fileNo=1" title="另開視窗">
+    C09701394_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      張益隆
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      縣長室
+     </td>
+     <td>
+      縣長室主任
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊明澤
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      民政處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   法國、義大利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   依塞納環保公司,聖保羅山城等
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年12月07日 至 民國96年12月18日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年02月18日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   環境保護
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   環境影響評估
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   循環經濟,歐盟環保行動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   11頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   巴黎、米蘭等大都會，都在為環保節能努力，聖誕樹裝飾改用LED燈泡、推動自行車輕騎計畫、艾菲爾鐵塔熄燈運動及世界上最環保的鋪路物料的研發，在在顯示環保與生活密不可分，浪漫、時尚、流行但也要環保。
+   <br/>
+   位於塞納河畔的依塞納環保公司，其先進的「循環經濟」理念。將垃圾處理移至地下31公尺處，又能通過歐盟各項嚴格標準。透過先進技術將垃圾處理過程所轉化成的熱能、電能及鋪路物料循環再利用。
+   <br/>
+   古老的聖保羅山城，為了維護古績原貌，並發揚其藝術特色，讓藝術品在兩旁商店展現魅力、成功吸引遊客，但杜絕汽車等污染進入。整個山城静謐卻充滿活力，是一座有生命力可以永續存在的古績。
+   <br/>
+  </td>
+ </tr>
+</table>

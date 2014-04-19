@@ -1,0 +1,219 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   112
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09701910
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   考察及觀摩中國大陸地方建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   考察及觀摩中國大陸地方建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09701910&amp;fileNo=1" title="另開視窗">
+    C09701910_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣關廟鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳憲明
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭忠信
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年03月24日 至 民國97年03月31日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年04月02日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   國家發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   地方文化設施
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   考察及觀摩中國大陸地方建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   5頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   此次中國大陸廣西省和北越河內之考察，對其自然景觀的維護、休閒場所之規劃、民俗文物古蹟的保存，具有極深刻的印象。尤其對越南印象最為深刻，越南以農業立國，農業人口佔全國８０％，其主食為稻米、茶葉、漁產、咖啡、腰果為越南主要出口農產品。另自中國大量進口蘋果及梨子，河內市傳統市場供應日常生活用品及蔬果，魚蝦肉類不虞匱乏，價格低廉，進口物品則較昂貴。越南近年來在農業私有化制度鼓勵之下，農業生產不但恢復自給自足，並一躍而為世界第二大稻米出口國。越南政府並對外國投資者提供一系列土地資金稅賦之獎勵優惠措施，以吸引外商投資農業部門。本鄉近年來採取農業多元發展，加強經濟高作物的生產，今後方針，除繼續推廣優良品種，改進耕作技術，降低農業成本，增加農民收益外，並推行農業機械，以促進農村經濟之發展，農產品以綠竹筍、鳳梨最為著名，除此，關廟麵是本鄉農戶進來積極推展其他農業副產品，目前已在市場上有其口碑。加上極具地方特色的藤製品、老廟山西宮、菩提寺。關廟擁有極豐富的文化資產，因此可以利用關廟地方特色，發展有別於其他鄉鎮的文化休閒，吸引縣內甚至其它縣市的觀光人口。
+  </td>
+ </tr>
+</table>

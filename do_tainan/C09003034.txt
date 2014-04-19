@@ -1,0 +1,332 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   12
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09003034
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   加拿大考察及觀摩地方建設.觀光建設出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   加拿大考察及觀摩地方建設.觀光建設出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09003034&amp;fileNo=1" title="另開視窗">
+    C09003034_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣白河鎮民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      鄭清霖
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡淑美
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張政雄
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      賴銀心
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      魏豊順
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃有祥
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳榮達
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林哲雄
+     </td>
+     <td>
+      臺南縣白河鎮民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   加拿大
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國90年06月19日 至 民國90年06月27日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國90年09月03日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   行政管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   輔助事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   考察,地方建設,觀光事業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   7頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   一、任務目的：本職率同代表考察及觀摩加拿大地方建設計畫及其辦理綠化之相關工作，以增進代表了解加拿大各項建設成果，配合本鎮地方建設參考依據。
+   <br/>
+   二、內容過程：出國時間於九十年六月十九日至六月二十七日。參觀溫哥華、艾德蒙頓、科羅幸、班夫、基隆那、惠斯勒、席美那斯、維多利亞等地方各項建設。
+   <br/>
+   三、主要心得：加拿大城市綠化、美化工作做的非常好，國民均能守法規範，並富有公德心，各項文教、市政、交通、工商、觀光等設施，均有全面的規劃設計。其均衡都市的發展，成為都市鄉村化的模範。
+   <br/>
+   四、建議事項：加強美化、綠化工作的宣導，提升鎮民的公德心及守法精神，做好環保維護工作，並加強文教設施及觀光資源的發展，以勾勒未來鎮政建設的藍圖。
+  </td>
+ </tr>
+</table>

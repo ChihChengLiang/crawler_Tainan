@@ -1,0 +1,227 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   225
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09403891
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2005年新加坡世界管樂節音樂交流參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2005年新加坡世界管樂節音樂交流參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09403891&amp;fileNo=1" title="另開視窗">
+    C09403891_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      吳子京
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市立復興國中
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡玫芬
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市立建興國中
+     </td>
+     <td>
+      總務主任
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   新加坡
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   世界管樂協會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(音樂交流參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年07月08日 至 民國94年07月12日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年10月18日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   表演藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   世界管樂節,新加坡,
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   20頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   音樂素有怡情悅性、潛移默化之功，能裨益身心，開發潛能，提昇讀書學習效率。本校管樂團的輝煌表現就是最好的例證，除了曾擔任全國中等學校運動會慶典現場演奏的重責大任，更在今年的台南市音樂比賽及全國音樂比賽中，獲得管樂團體國中優等雙料冠軍，本校樂團師生、同學間發展出深厚的情誼及良好的默契，互助合作、自動研修，演奏技藝精湛，課業成績也相當傑出。平日樂團師生走進台南各社區，回饋鄉里，深受各界肯定。
+   <br/>
+   音樂是人類共通的語言，是心靈最佳的調劑，青春的年華和美妙的樂音，將帶給這個世界更多的活力和喜悅！本次「2005世界管樂節暨音樂交流行」由本校吳校長子京率領管樂團師生，於九十四年六月十九日在台南市社教館舉行「2005夏之頌暨世界管樂節新加坡行前音樂會」，七月八日前往新加坡，進行為期五日的音樂交流盛會，除了讓本校管樂團師生將演練多時之成果與世界各國分享外，更重要之目的在於培養師生開闊的國際觀與更卓越的音樂素養，吸取各國音樂教育經驗，並將此次音樂交流之參訪成果，作為國內日後推動音樂教育的重要參考，期能提高國內音樂教育之素質與水準。
+   <br/>
+  </td>
+ </tr>
+</table>

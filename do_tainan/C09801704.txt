@@ -1,0 +1,304 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   18
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09801704
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   南瀛天文台教育園區98年度考察美國天文台及其相關設施報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   南瀛天文台教育園區出國考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09801704&amp;fileNo=1" title="另開視窗">
+    C09801704_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      蘇煥智
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      縣長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王崑源
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      參議
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      何秋蓮
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府教育處
+     </td>
+     <td>
+      主任
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳瑞仁
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府教育處
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張敏悌
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府教育處
+     </td>
+     <td>
+      組長
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳俊輝
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺灣大學
+     </td>
+     <td>
+      副教授
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   夏威夷天文台
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年04月11日 至 民國98年04月17日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年07月07日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   天文台
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   43頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   國內設立的天文教育館多集中於北部與中部，南部則無較大規模及有系統的天文教育館，因此，本府特選址於臺南縣大內鄉興建「南瀛天文教育園區」，除了協助各學校推展科學教育，提供教師及學子一個優質天文教學及學習環境，更縮短城鄉教育之資源落差，提供南部民眾天文推廣教育的場所；未來更將坐擁地利、挾天候之優勢而成為南部天文研究之重心，期望藉由天文教育園區的成立，開啟國內 對科學教育的熱忱，並帶動南部科技發展與觀光產業。
+   <br/>
+   Imiloa夏威夷天文中心的星象投影設施，是世界上第一個擁有三維立體影像處理能力的設備。新的系統安裝於2008年1月，增加了娛樂體驗，也成為一種讓天文學家端倪天體以及瞭解宇宙如何正在發生變化的工具。
+   <br/>
+   天文台位於洛杉磯的葛瑞菲斯公園（Griffith Park），是洛杉磯的標誌性建築，自從1935年開放以來，已吸引超過五千萬人次前往，天文臺座落於好萊塢的山頂上，海拔約345公尺高，視野相當寬闊。於2002年1月停止向公眾開放，經過耗時近5年、耗資9300萬美元的擴建工程，2006年11月2日重新開放。其中科學展示廳(Hall of Science)內展有許多天文物理的知識及圖片，以實物或模型表現出元素表、月相及隕石等，是了解地球運轉、地心引力及地球知識的最佳學習場所。天文台頂上還有一座加州最大的12吋巨型天文望遠鏡，開放給民眾免費探索群星的奧秘。平均一個晚上可以服務600位參觀者。
+  </td>
+ </tr>
+</table>

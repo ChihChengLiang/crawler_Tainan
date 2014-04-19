@@ -1,0 +1,264 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   139
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV015
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加「世界歷史都市聯盟」世界會議  申請入會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加「世界歷史都市聯盟」世界會議申請入會出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV015&amp;fileNo=1" title="另開視窗">
+    C101AV015_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林欽榮
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      周雅菁
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      梁晉榮
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      技正
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳怡霈
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   越南
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府，臺南市政府文化局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年04月15日 至 民國101年04月19日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年06月29日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   古蹟、歷史建築、聚落
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   世界歷史都市聯盟，臺南市，京都，越南，順化，第13屆年會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   17頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   世界歷史都市聯盟於1994年於京都成立，前身為歷史城市世界會議協會（The World of Conference of Historical Cities Council），目前共有92個會員城市（含清邁、加薩滿都、阿姆斯特丹、科隆…等），來自57個不同的國家。其成立目的除希望對每個歷史城市的發展都能有所貢獻外，亦希望提供各個城市一個長久的對話平台，更長遠的宗旨則是希望能促進永恆的和平發展。
+   <br/>
+   臺南市在十餘年前即透過外交部及民間團體等不同管道接觸世界歷史都市聯盟，表達申請加入聯盟之意願，惟當時之入會申請並未成功。2010年臺南市以文化立都，升格為臺灣直轄市之一，考量時空背景已與十餘年前不同，加上合併後之臺南市文化資產更為多元豐富，文化局再次向世界歷史都市聯盟遞交入會申請文件，盼能與各城市分享古蹟修復技術及行銷策略等資訊，深化臺南作為一歷史都市之內涵。2012年底，本市獲得聯盟發函邀請，以觀察員身份參加2012年4月16日至2012年4月18日於越南順化舉辦之世界歷史聯盟第13屆世界會議。
+   <br/>
+   本市此次由林副市長欽榮代表，率領文化局同仁參加會議，並於4月17日之聯盟理事會議上發表入會簡報，獲得聯盟理事一致肯定，並於會議上以多數決通過本市之入會申請。惟會後因國籍問題遭中國西安市杯葛，要求聯盟需俟其中央政府內部批核後方可正式宣佈本市會籍，故本市之會籍資格未能於理事會當日公開宣布。
+   <br/>
+   目前本市正積極與聯盟秘書長聯繫，並尋求外交部居中協助，期望就國籍問題盡早與聯盟達成共識，並正式宣佈本市會籍，以促進本市與世界各歷史城市之交流合作機會。
+  </td>
+ </tr>
+</table>

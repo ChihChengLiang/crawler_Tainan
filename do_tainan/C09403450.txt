@@ -1,0 +1,207 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   99
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09403450
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   94年度考察埃及、希臘世界文化遺產保存狀況
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   94年度考察埃及、希臘世界文化遺產保存狀況
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09403450&amp;fileNo=1" title="另開視窗">
+    C09403450_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      傅清琪
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      工程助理員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   希臘、埃及
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   希臘文化部
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年04月21日 至 民國94年04月30日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年07月30日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化資產
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   希臘、埃及、世界文化遺產
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   90頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   文化資產保存是世界先進國家共同主張的文化政策，也是當前國內文化保存的重點工作。隨著國人對文化資產保存意識的提升，如何有效的保存文化資產，並減少與地方發展的衝突，遂成為目前文化政策上值得重視的重點之一。修正文化資產保存法於民國94年2月5日總統令公布，對於保存文化資產有了較健全的法令規範，堪稱文化保存工作上的重大貢獻，規範對象包括古蹟、歷史建築、聚落、遺址、文化景觀、傳統藝術、民俗及有關文物、古物、自然地景等。為使臺灣能跟上世界的腳步，甚至可與世界同步，值得引薦其他國家的相關經驗作法，作為國內推動文化資產保存之參考與借鏡。
+   <br/>
+   本次考察由內政部主辦，另有行政院、行政院文化建設委員會、地方文化機關及相關民間團體人員同行共同組成（考察同行人員名單如下頁附表），考察團團長由國立文化資產保存研究中心籌備處張主任瓏擔任；考察日期自94年4月21日起至4月30日止共計10天；考察國家為埃及、希臘等二國。由於埃及與我國並無外交關係，且外交部在埃及並無駐外單位，協助安排拜會有實際困難，是本次考察較為遺憾之處；另希臘雖與我國無正式外交關係，但經外交部、駐希臘代表處努力協調下，協同拜會希臘文化部，使考察活動雖受時間、政治環境與語言條件限制，仍能順利、圓滿、充實。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,345 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   199
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV486
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團受邀赴日本京都長期照護相關業務參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團受邀赴日本京都長期照護相關業務參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AV486&amp;fileNo=1" title="另開視窗">
+    C099AV486_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      謝世傑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      秘書長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      胡淑貞
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許金玲
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      社會處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳宗榮
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      公共工程處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王敏華
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      韓佩軒
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳姿蓉
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      臺南市衛生局
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   京都板橋町家、京都ＹＭＣＡ國際福祉專門學校、洛和別墅大山崎特別老人養護機構、京都綜合館
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年07月28日 至 民國99年08月01日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年10月18日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   醫療保健
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   衛生及社會安全
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   長期照護
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   日本於2000年4月創設介護保險，相較於其他國家，日本在介護保險的推動上，無論是法令、制度及營運上尚稱完備；而我國與日本同屬亞洲國家，國情相似，而日本老人福利制度健全，尤其在老人安養護、長期照護經驗豐富且成效卓著者，其經驗足供世界其他國家借鏡；日本京都是日本具悠久歷史的城市，擁有相當豐富的歷史遺跡，也是日本傳統文化的重鎮之一，與本市之特色相近。
+   <br/>
+   故安排此次參訪日本老人福祉等相關設施目的為：1.吸取此一古都推動長期照護之經驗，作為未來推動之參考。2.透過此參訪行程，學習日本於單元式照顧、小規模多機能型居宅介護設施、照顧人力之訓練其理念及作法，以提供未來台灣推動之參考。3.與國際接軌，提升本市長期照護規劃之品質與水準。
+   <br/>
+   關於參訪學習提出下列幾點建議為未來發展方向：1.應有效提升照顧服務員照顧服務品質。2.照顧服務應朝向多元化、強化與社區關係的連結的方向發展3.提升機構照護品質4.輔具中心社區化，提升民眾對輔具的應用
+   <br/>
+   隨著老人老化速度逐年增加，老人照顧問題勢必成為重要的一環，在高齡化社會裏，如何讓老人維持尊嚴和自主的生活是一項挑戰，也是整個社會包括老人本身、家庭、民間部門和政府的責任。本次參訪獲得許多的經驗與啟發，市府團隊將視為未來長期照護相關工作之規劃方向與挑戰。
+   <br/>
+  </td>
+ </tr>
+</table>

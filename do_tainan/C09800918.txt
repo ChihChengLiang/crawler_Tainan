@@ -1,0 +1,309 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   1922
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09800918
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   樂活人生-日本名古屋成人暨高齡者教育學習參訪之旅
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   樂活人生-日本名古屋成人暨高齡者教育學習參訪之旅
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09800918&amp;fileNo=1" title="另開視窗">
+    C09800918_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      王水文
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      潘秀妲
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王冠智
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      柯景春
+     </td>
+     <td>
+      臺南市中西區進學國民小學
+     </td>
+     <td>
+      臺南市進學國民小學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李添旺
+     </td>
+     <td>
+      臺南市北區開元國民小學
+     </td>
+     <td>
+      臺南市開元國民小學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      官湘玲
+     </td>
+     <td>
+      臺南市南區喜樹國民小學
+     </td>
+     <td>
+      臺南市喜樹國民小學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   名古屋市政府教育委員會生涯學習部考察，名古屋市政資料館，名古屋生涯推進中心，名古屋市高年大學鯱城學園，豐田高年大學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年02月11日 至 民國98年02月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年03月15日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   終身學習
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   樂齡，老人教育，高齡者教育，終身學習，成人教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   71頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   教育部於民國95年公布「邁向高齡社會老人教育政策白皮書」，以終身學習、健康快樂、自主與尊嚴及社會參與為四大政策願景，積極規劃推動老人教育活動。根據調查顯示，有8成的高齡者從未出來學習，資訊不足及高齡學習場所是否足夠是很大的因素。
+   <br/>
+   為落實邁向高齡社會老人教育政策白皮書伍老人教育政策之推動策略之一建構老人終身學習體系，及之八增設老人教育學習場所，教育部「實施設置各鄉鎮市區樂齡學習資源中心計畫」，並整合教育資源，建立社區學習據點，鼓勵高齡者走出家庭到社區學習。
+   <br/>
+   <br/>
+   日本向來是亞洲高齡者學習的天堂，前往日本交流與參訪，除了進行國民外交，也學習日本生涯推進中心的推廣與經營方式及對於高齡者教育培訓的展新措施。臺南市社區大學開辦迄今已屆8年，深感高齡者教育學習係目前高齡化社會之重要課題。目前正著手與臺南市政府社會處長青公寓合作，推展高齡者的活化歷史方案。希望藉由推動高齡者學習，提供高齡者有一個再現風華的場域和機會。
+   <br/>
+   <br/>
+   因此，臺南市政府組成「樂活人生－成人及高齡者教育學習日本名古屋參訪團」，希望透過本次的參訪，參考日本政府積極推展終身學習及運用民間機構推展的機驗，讓臺南府城的成人及高齡學習學習的面向更深化，使府城成為樂活健康的城市。
+   <br/>
+  </td>
+ </tr>
+</table>

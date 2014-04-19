@@ -1,0 +1,268 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   109
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09601437
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加美國第六屆華府龍舟競賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參加美國第六屆華府龍舟競賽報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林淑敏
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭玟君
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      崇明國小
+     </td>
+     <td>
+      英文教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林惠美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光局
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡宏盟
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育局體育保健課
+     </td>
+     <td>
+      約僱人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   其他-比賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(比賽、參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年05月18日 至 民國96年05月25日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國96年06月29日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   美國第六屆華府龍舟競賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   35頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   美國華府龍舟協會與CWL Washington D.C. Chapter Inc.一起舉辦第六屆華府龍舟賽，於2007年5月19日起在美麗的波多馬克河畔舉行，邀請臺南市龍舟隊出席此盛會。
+   <br/>
+   2006年在華府所舉辦的龍舟競賽活動，有45支隊伍1000隊員，從美國、加拿大、與台灣各地前往參賽，在喬治敦波多馬克河畔圍觀此項文化運動盛會的民眾超過5000人，2007年以國際分配邀請的方式，邀請世界各國的好手前來參與。
+   <br/>
+   龍舟賽是本市行之有年於端午節舉行的重大節慶活動，於運河畔舉辦，近幾年避開酷熱天氣，改於夜間進行比賽，獲得參觀民眾熱烈迴響。
+   <br/>
+   美國華盛頓龍舟代表隊於2003年亞洲盃龍舟錦標賽首次來到府城參賽，去（2006）年，獲本市邀請參加府城國際龍舟賽。了解本市龍舟比賽的歷史與獲得冠軍隊伍的實力，因此，邀請本市龍舟隊伍出席此盛會。為了擴展國際交流，
+   <br/>
+   市長答應派隊參與，故由社會組冠軍雞澎隊代表府城參與2007第六屆華府龍舟賽，獲二金一銀成績，並當面邀請華盛頓特區派隊參加2007年府城國際龍舟賽，為文化觀光年再一次成功出擊。
+   <br/>
+   <br/>
+  </td>
+ </tr>
+</table>

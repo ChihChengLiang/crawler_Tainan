@@ -1,0 +1,262 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   136
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV010
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   未來想像與創意人才培育－國民中小教師澳洲教育現場參訪暨交流論壇
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   未來想像與創意人才培育－國民中小教師澳洲教育現場參訪暨交流論壇成果報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV010&amp;fileNo=1" title="另開視窗">
+    C102AV010_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      徐怡華
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市東區勝利國小
+     </td>
+     <td>
+      課程研發組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許淑美
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市東區勝利國小
+     </td>
+     <td>
+      教學組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃雅貴
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市東區勝利國小
+     </td>
+     <td>
+      級任老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李季穎
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市永康區勝利國小
+     </td>
+     <td>
+      教學組長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   澳大利亞
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   墨爾本迪肯大學，墨爾本大學，Wooranna Park School公立小學，St Margaret  School私立完全中小學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年06月01日 至 民國102年06月07日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年07月01日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   未來想像與創意人才
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   22頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   墨爾本，一個多樣、多元且充滿藝術氣息的花園城市，許多古典的維多利亞式建築及近代的哥德式建築，與眾多新式幾何圖案造型現代化大樓，交相輝映，再搭配 400 多座大大小小的公園，形成獨特的城市景像。墨爾本是澳大利亞文化、商業、教育、娛樂、體育及旅遊中心，在服飾、藝術、音樂、電視製作、電影及舞蹈等方面，也具有引領潮流的影響力。能被譽為「澳洲的文化首都」，真的實至名歸；名列世界第一適合人類居住的城市，更是當仁不讓。在這樣的文化氛圍下，產生的教育內涵，就值得我們進一步探究與學習……
+   <br/>
+   在接觸未來想像教育的兩年多來，團隊老師一直在思考，如何讓我們在教育第一線的老師，能走出自己閉門造車的窘境，多方的參考與觀摩增加自己的視野。如何在教學現場利用多元而有創意的教學方式讓孩子們學習未來想像教育。有幸此次能走出自己的國家，前往推行想像及創造力有多年的經驗，且積極做未來城市規畫的澳洲墨爾本參訪及觀察。期許能立足於本土，與真實生活連結，未來建立一個更多元的學習環境。
+   <br/>
+  </td>
+ </tr>
+</table>

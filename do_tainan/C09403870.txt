@@ -1,0 +1,265 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   64
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09403870
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   赴土耳其安卡拉省凱其歐倫市暨丹麥Ribe市締盟報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   赴土耳其安卡拉省凱其歐倫市暨丹麥Ribe市締盟報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09403870&amp;fileNo=1" title="另開視窗">
+    C09403870_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長室
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蔡寬裕
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      呂守誠
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃玉鳳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞室
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   丹麥、土耳其
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   丹麥瑞柏市及土耳其凱其歐倫市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(締盟)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年07月03日 至 民國94年07月10日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年10月19日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交及國防
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   外交僑務及兩岸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   7月3日啟程前往土耳其及丹麥，展開城市外交並將與土耳其凱其歐倫市及丹麥瑞柏市締盟，凱其歐倫市將成為台南市第23個姊妹市；瑞柏市將成為台南市第24個姊妹市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   0頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   凱其歐倫市屬土耳其首都大安卡拉市轄區9縣之一，面積58.66平方公里，人口約65萬擁有世界上最大的氣象學中心及軍事博物館，有許多古老的建築、風光明媚。瑞柏市位於日德蘭半島西岸，人口約2萬，面積35,266公頃係丹麥最古老都市，建城於西元700年，已有1300年之歷史，為丹麥建國初期首都，古蹟保存完整、文化氣息濃厚。
+   <br/>
+   此行除與其締盟外將對兩市在未來經濟產業與文化觀光事業發展一同發展策略，朝健康城市邁進藉由雙方交流彼此資源互通，拓展城市外交視野而邁向國際化，希望藉由此次的締盟參訪尋求城市合作及整合文化、觀光、教育、經貿增進兩國經貿合作。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,287 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   109
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C103AV002
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2013年12月臺南市政府日本訪問團
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2013年12月臺南市政府日本訪問團出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C103AV002&amp;fileNo=1" title="另開視窗">
+    C103AV002_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許和鈞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      趙卿惠
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳宜君
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳瑋琳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      薛孟哲
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   金澤市役所，金澤市議會，石川縣廳，京都市役所，大阪府廳，大阪府議會，滋賀縣廳
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年12月16日 至 民國102年12月19日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國103年01月23日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交及國防
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際合作及交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   金澤，石川，京都，大阪，大阪，滋賀
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   24頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本次出訪可分為○1官方正式回訪拜會○2拓展新友誼關係○3明年度活動外賓邀訪○4臺南市與滋賀簽署備忘錄四個重點。為正式訪問行程，除了持續維持並推展與我友好城市石川縣廳、金澤市、京都市的友好關係外，為推廣行銷臺南，本次亦拜會金澤市議會、滋賀縣廳、大阪府廳及大阪府議會，期待能更多層面地與日本各大都市進行國際交流活動。
+   <br/>
+   <br/>
+   訪問團17日首先拜訪金澤市役所，由金澤市市長山野之義率副市長濱田厚史、參議清水義博、經濟局長八田誠、經濟局營業戰略部部長森田勝等多位市府官員接待，會後隨即拜會金澤市議會及石川縣廳。金澤市議會議長橫越徹表達加強交流的意願。石川縣廳時由觀光戰略推進部長蟹由尚簡報石川縣的觀光、投資等資訊。
+   <br/>
+   <br/>
+   18日拜訪京都市役所，京都市長並邀請臺南市參加京都市明年舉辦的兩場國際會議。之後拜會大阪議會暨大阪府廳，並邀請大阪府前來臺南走訪月津港燈節及2014的國際蘭展。
+   <br/>
+   <br/>
+   19日拜會日本滋賀縣，由滋賀縣知事嘉田由紀子、副知事西嶋栄治、商工勞動部長羽泉博史等人接待。許和鈞副市長與滋賀縣副知事西嶋栄治共同簽署「臺南市及滋賀縣經濟產業交流備忘錄」，確認臺南市與滋賀縣將繼續在環保技術、經濟產業、研究機構及觀光等方面互相提攜合作，並促進雙方經濟發展及各項交流相互繁榮。
+   <br/>
+  </td>
+ </tr>
+</table>

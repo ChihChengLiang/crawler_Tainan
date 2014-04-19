@@ -1,0 +1,309 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   18
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09902306
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   99年度(上海)、廈門殯葬業務、公共造產觀摩
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   99年度(上海)、廈門殯葬業務、公共造產觀摩報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09902306&amp;fileNo=1" title="另開視窗">
+    C09902306_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣仁德鄉公所
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      李文雄
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      民政課
+     </td>
+     <td>
+      村幹事
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林佳伶
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+      民政課
+     </td>
+     <td>
+      村幹事
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      范惠琴
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉鴻銘
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      主任秘書
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李明芳
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林坤益
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉素麗
+     </td>
+     <td>
+      臺南縣仁德鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   華夏公墓，天馬山中華永久墓園
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(觀摩)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年06月19日 至 民國99年06月25日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年07月19日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   民政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   殯葬管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   殯葬管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   22頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   １．仁德鄉在徐鄉長的領導下，推動公墓公園化，鼓勵鄉民遺體火化，倡導民眾以火化後遺骨安置納骨塔堂，由於臺灣地區地狹人稠，墓地有限，更倡導公墓營葬改善健全喪葬管理，吸取國外先進之殯葬設施，為鄉民提供更完善的喪葬服務。
+   <br/>
+   ２．華夏公墓及天馬山中華永久墓園觀摩心得。
+   <br/>
+   ３．華夏公墓及天馬山中華永久墓園觀摩照片。
+   <br/>
+  </td>
+ </tr>
+</table>

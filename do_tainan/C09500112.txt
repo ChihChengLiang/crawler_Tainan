@@ -1,0 +1,212 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   281
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09500112
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加美國2005年度Internet2秋季會員大會暨學術研討會出國心得報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   淺談於國小基礎教育階段運用視訊連線方式進行國際學術文化交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09500112&amp;fileNo=1" title="另開視窗">
+    C09500112_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      呂翠鈴
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市崇明國小
+     </td>
+     <td>
+      教師兼雙語部主任
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   美國費城Fall 2005 Internet2 Member Meeting
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(秋季會員大會暨學術研討會)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年09月17日 至 民國94年09月22日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年12月22日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化藝術數位學習
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   於國小階段運用國際視訊會議連線方式將資訊融入教學之實務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   6頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市崇明國小雙語部師生率先於93年12月參與由美國俄亥俄州立大學所主持的Megaconference V－國際網路視訊會議（共有來自全球363個學術教育單位共同參與），同步連線向世界介紹台灣的雙語教育，引起國際學術單位的注意並積極邀請參加長期合作計畫。
+   <br/>
+   <br/>
+   本校也參加94年5月19日的Megaconference Jr. 國際中小學視訊會議聯盟。Megaconference Jr. 提供世界各地中小學一個絕佳的溝通管道。學生能透過高速網路與世界其他國家的學生同步以視訊會議的方式進行學術或文化交流，學生能在第一時間以全世界共同的語言－英文透過表演、口頭發表、討論的方式來展現國家或地方文化特色，學生有更多的機會展現多元智慧進而促進多元學習。
+   <br/>
+   <br/>
+   利用高速網路及國際視訊會議及其他高科技的結合確實提升學生學習的成果,國家網路中心如何協助國內教育單位提升科技資訊融入教學的能力值得研究。
+   <br/>
+  </td>
+ </tr>
+</table>

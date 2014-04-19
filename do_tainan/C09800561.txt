@@ -1,0 +1,232 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   34
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09800561
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   首屆海峽兩岸文化業博覽會交易會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   首屆海峽兩岸文化業博覽會交易會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09800561&amp;fileNo=1" title="另開視窗">
+    C09800561_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      劉鎧暄
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      余基吉
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化觀光處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   文化產業博覽交易會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(交易會)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年11月25日 至 民國97年12月01日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年02月24日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   兩岸事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   文化產業交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   25頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   二十一世紀是一個講求軟實力的時代，也是一個市場概念超越疆界的時代。海峽兩岸自古系出同宗，一脈相承，政治的隔閡也許分了彼此，然而文化上的相似度卻提供兩岸一個新的契機，得以事半功倍的在軟實力的開發上突破現狀，放眼無遠弗屆的全球市場。
+   <br/>
+   當廈門市文化局提出與台灣文化創意產業協會共同舉辦海峽兩岸文化產業博覽交易會的構想時，該協會看見了一個促進兩岸文化創意事業多元共生的絕佳起跑點，通過展覽會的方式，連結台灣與中國東南沿海的市場，如同建立起一個人口上億的生活經濟區塊，兩岸業界可以相互了解、截長補短、交流並進，對於海峽兩岸的和平發展與經貿往來，將有實質而長遠的助益。
+   <br/>
+   文化創意產業協會願意提出一種有別於著重兩岸政治與經濟差異的策略，以文化生活、美學追求、創意經濟為出發，作為兩岸共榮發展的思想基礎。
+   <br/>
+   文化產業是普世思想的結晶產物，如果兩岸能在文化產業上建立合作的平台，進而走向經濟面實質性的交流，帶來共同的繁榮，這才是最可行、也最必要的兩岸發展方向。
+   <br/>
+   本市的美食小吃產業具有地方各色及文化內涵，尤其是歷史及文化資源，都是具有指標性。故這次受邀參加，行銷程式的文化觀光產業及人文歷史，帶動兩岸的觀光產業交流。
+  </td>
+ </tr>
+</table>

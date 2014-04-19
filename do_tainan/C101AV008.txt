@@ -1,0 +1,259 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   375
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV008
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   日本地方制度與地方立法之實務運作
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   日本地方制度與地方立法之實務運作
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV008&amp;fileNo=1" title="另開視窗">
+    C101AV008_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      謝志明
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      法制處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊璿圓
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      法制處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      徐良維
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      法制處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇俊儒
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      法制處
+     </td>
+     <td>
+      約僱人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   京都府廳，京都市役所，立命館大學法學部，京都大學法學部，京都地方自治總合研究所
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年12月05日 至 民國100年12月09日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年03月02日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   法務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   行政程序
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   地方自治，地方制度，地方分權改革，地方立法，法律先占
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   59頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   當前我國地方自治及地方立法就制度面及實務運作中皆存有不少待改善之課題，諸如因整體地方制度面、地方制度法與其他中央專業法律就自治事項與委辦事項之區分不明確及其他確保實施地方自治的配套機制的不足，致使地方自治團體無法享有自主的立法權。同時就地方立法實務方面，本府於2010年12月25日經臺南縣、市合併升格改制為直轄市後，因地方制度法第87條之2明定：「縣（市）改制或與其他直轄市、縣（市）合併改制為直轄市，原直轄市、縣（市）及鄉（鎮、市）自治法規應由改制後之直轄市政府廢止之；其有繼續適用之必要者，得經改制後之直轄市政府核定公告後，繼續適用2年。」致使本府必須於2年內研擬出完善的自治法規整併方案及承擔繁重的法規審議業務，有鑑於本市相關法制及典章制度亟需擘劃，其中地方制度與地方立法如何規劃、落實及履踐攸關市民權益甚大，亦是本府法制處責無旁貸的任務，而有借鏡日本有關實施地方自治及地方立法實務運作經驗之必要。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,297 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   110
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV005
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2010年中國大陸工商農業文化城鄉建設業務考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2010年中國大陸工商農業文化城鄉建設業務考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C100AV005&amp;fileNo=1" title="另開視窗">
+    C100AV005_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      蘇煥智
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      縣長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳威逹
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林雪英
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      殷世熙
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      經濟發展處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳献明
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      城鄉發展處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉澤山
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南縣政府文化處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   無
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年11月29日 至 民國99年12月07日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年01月06日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業環保
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   愛文芒果，農產品外銷，招商，科技園區，歷史文化，古蹟
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   （一）台南縣的農產品具有品項多、種類繁、產量豐、品質優、物產特別等特色，近年來台南縣推動愛文芒果外銷，由縣府團隊至日本推廣行銷愛文芒果，成果不斐，不僅帶動國外愛文芒果的買氣，更是提升愛文芒果的經濟價值，成功拓展外銷市場。今年更將台南芒果、麻豆文旦、關廟鳳梨…等拓展至大陸地區，協助台灣的農民團體與大陸地區的大型通路業者建立合作管道，為台灣農產品打開銷售通（二）又因應全球變遷及縣市合併，前往天津生態城及福建等地考察當地公共造產事業與文化資產結合之運作情形，本縣已登錄之歷史建築亦有17處之多，對於文化資產保存維護及古蹟、歷史建築修護工作不遺餘力，由於福建省文化、風俗、信仰與台灣息息相關，俟後可為本縣文化創意產業暨文化資產保存工作之參考。（三）並基於縣內整體大環境之發展趨勢與重大建設之投入，產業蓬勃發展所帶動的投資需求，本府致力於建置優質投資環境，與當地台資企業經驗交流並考察天津濱海新區當地工業發展環境，協助本縣開拓工業區發展招商活動。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,245 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   337
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09501753
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2006年「新加坡品質交流研習」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2006年「新加坡品質交流研習」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09501753&amp;fileNo=1" title="另開視窗">
+    C09501753_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      洪正欽
+     </td>
+     <td>
+      臺南市稅捐稽徵處
+     </td>
+     <td>
+      臺南市稅捐稽徵處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳棖福
+     </td>
+     <td>
+      臺南市稅捐稽徵處
+     </td>
+     <td>
+      臺南市稅捐稽徵處
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      殷台生
+     </td>
+     <td>
+      臺南市稅捐稽徵處
+     </td>
+     <td>
+      臺南市稅捐稽徵處
+     </td>
+     <td>
+      股長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   新加坡
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   3M，國立大學醫院，花旗銀行，SPRING Singapore，聯華電子，飛利浦
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年04月16日 至 民國95年04月22日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年07月11日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   行政革新
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   新加坡，品質管理，企業參訪，國家品質獎
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   21頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本處有幸奉臺南市政府核准參加在今（95）年4月16日至22日（計7天）由國家品質獎得獎者聯誼會暨財團法人中衛發展中心舉辦的「2006年新加坡品質交流研習團」活動，可謂收穫匪淺。不僅接觸到設立在新加坡當地的企業與單位包括：3M、國立大學醫院、花旗銀行、SPRING Singapore、聯華電子、飛利浦公司等，瞭解其經營理念與品質管理，還在參觀的過程，感受到新加坡的建設、文化與繁榮。此外，同行者皆為國內績優企業、單位與機關所派出的優秀代表，橫跨企業界、教育界、醫界以及公務界等不同領域，一路上隨時進行意見交流，更拓展了視野。
+   <br/>
+   民間企業最主要的提升品質及創造利潤的管理工具為Six Sigma (六標準差) 及TQM（全面品質管理）。另外，創新精神、持續改善、培養高潛力員工、建立核心價值等，亦是企業成功的不二法門。而公務部門並非以獲取利潤為主要目的，故常有浪費、無效率情形。此外，由於缺乏競爭誘因，故在人才培育方面亦不如民間企業來得重視，而服務態度部分，更常引人詬病。藉由此次參訪，得以汲取他人長處，並導入機關內部，提升競爭力。最後，提出四點建議：一、全面品質管理，提升服務及行政效率，二、配合市府社會福利年，強化市民生活品質，三、發展台南市特色主題，吸引觀光人潮，四、組團前往新加坡觀摩。期能真正達到學習目的。
+   <br/>
+  </td>
+ </tr>
+</table>

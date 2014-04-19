@@ -1,0 +1,211 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   244
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09502238
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   第10屆全球華人電腦教育應用大會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   數學胚騰覺察能力電腦化測驗及學習輔具的發展與應用
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09502238&amp;fileNo=1" title="另開視窗">
+    C09502238_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳亮君
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市立建興國中
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   北京清華大學，
+北京市中學和小學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(開會)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年06月02日 至 民國95年06月05日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年09月12日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   其他
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   胚騰、電腦化測驗、學習輔具、數學學習
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   7頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   近年來對學習數學的新想法崛起，認為學會尋求數與形的規律－胚騰（pattern），是學習數學的主要目的。胚騰在數學學習上扮演角色越形重要，臺灣數學教育在這項議題上卻是較少著墨探討，且缺乏全觀的測驗工具。本研究旨在研發電腦化數學胚騰覺察測驗（MPAT）及其對應的學習輔具，以國小六年級及國中一年級學生共632人為常模樣本，描述國中小學生數學胚騰覺察能力的現況，檢視自編測驗信效度議題的初步資訊。MPAT與關聯變項－工作記憶、空間感、數量形覺察能力、數學能力等亦呈現合理的中度正相關，其值在0.5到0.6左右。MPAT對資優學生的區辨正確率達85％左右。
+   <br/>
+   本研究以試題難度值0.5為截斷點將測驗劃分為兩難度層次，界定學生在各難度層次平均答對率0.6為通過標準，作為學生表現水準分類之依據，即以能力值0.2、1.2為決斷點，將學生歸類於三個表現水準：未達水準一，水準一及水準二。目前國中一年級學生在三個表現水準的比例依序為59.4％、33.7％、6.9％。本研究結果顯示七年級的學生表現顯著優於六年級學生，年級變項對於學生數學胚騰覺察能力表現的變異解釋量約在5％左右。資優學生的表現顯著優於常模學生，能力組別變項的變異解釋量（ ）為29％。男、女學生在數學胚騰覺察能力的表現並無顯著差異。
+   <br/>
+   本研究在實行電腦化數學胚騰學習輔具後，發現實驗組與控制組在後測的平均能力值皆高於前測，以前測為共變數進行變異數分析後，顯示實驗組在電腦化數學胚騰學習輔具介入後，數學胚騰覺察能力明顯優於控制組，且組間 =11％。因此可見對於低表現水準的學生而言，電腦化數學胚騰學習輔具的介入效益值得以更大樣本進行進一步的交叉檢核探討。
+   <br/>
+  </td>
+ </tr>
+</table>

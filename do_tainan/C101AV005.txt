@@ -1,0 +1,224 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   168
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV005
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   奉派赴荷蘭參訪水技術與資源管理產業博覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   奉派赴荷蘭參訪水技術與資源管理產業博覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV005&amp;fileNo=1" title="另開視窗">
+    C101AV005_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      黃文彥
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府水利局
+     </td>
+     <td>
+      總工程司
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃信銓
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府水利局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   荷蘭
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   阿姆斯特丹西污水處理廠，廢棄物處理廠，生質能源廠，ZEEBURG抽水站
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年10月28日 至 民國100年11月05日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年02月05日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   水利
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   污水下水道系統及生活污水管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   荷蘭，阿姆斯特丹，水技術，水資源，水處理，防洪
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   119頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   臺南市在升格為直轄市後面臨了許多水資源的問題，除了淹水面積占全國約三分之一，亟待治理外，雨、污水下水道正逐步推動，加上在颱風雨季來臨前經常遇到缺水乾旱，使得水資源的課題更加嚴峻，適逢2011年Internation Water Week於12月29日至11月4日在荷蘭阿姆斯特丹舉行，因此指派水利局總工程司黃文彥及污水工程科黃信銓科長前往荷蘭阿姆斯特丹，希望透過實地參訪、研討會及各廠家參展的展覽會等活動，吸收阿姆斯特丹的治水經驗及水資源管理，以為臺南市後續市政推動的參考。
+   <br/>
+   考察的結果發現在治水方面，阿姆斯特丹有多層次的防洪觀念，提供市民安全且親水的環境，防洪用的滯洪湖也提供阿姆斯特丹的領用水源，廢棄物經由回收再利用可達90%以上的回收，並可產生熱源及電源，跨部門的合作也整合的十分完整，此外，藉由展覽會發現不論是污水處理或水回收的技術及設備相關均已十分成熟，相關設備可作為臺灣的污水處理及回收廠使用，有賴解決的是部門程序以及回收通路的問題。
+   <br/>
+  </td>
+ </tr>
+</table>

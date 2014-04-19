@@ -1,0 +1,316 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   30
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09802288
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   98年度將台南縣將軍鄉地方觀光、環保及基層建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   98年度將台南縣將軍鄉地方觀光、環保及基層建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09802288&amp;fileNo=1" title="另開視窗">
+    C09802288_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣將軍鄉公所
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳進財
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      鄉長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      周進華
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳文正
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+      民政課
+     </td>
+     <td>
+      民政課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃富農
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      建設課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      徐辜郁媚
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+      主計室
+     </td>
+     <td>
+      主計主任
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      高敏俊
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+      民政課
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李漢良
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+      建設課
+     </td>
+     <td>
+      市場管理員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   廣東省佛山市高明區楊和鎮人民政府、南海區里水鎮人民政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年06月17日 至 民國98年06月23日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年07月23日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   綜合行政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   地方文化設施
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   臺南縣將軍鄉98年度赴大陸地區因公派員出國考察地方觀光、環保暨基層建設活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   6頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   參訪廣東省佛山市高明區楊和鎮及南海區里水鎮之地方觀光、環保、產業、地方自治、及基層建設等工作。
+   <br/>
+   6月18日到達楊和鎮人民政府拜訪，受陳鎮長等熱情接待。楊和鎮位於佛山市高明區腹地，屬區三大組團（中部組團）之一，地處廣（州）海（安）中線與江（門）肇（慶）線的交匯處，拜會完畢前往國通物流城參訪。6月19日出發前往里水鎮參訪，里水鎮位於佛山市南海區東北部，該鎮以工業為主，農業少。聽取簡報後前往該鎮之汙水處理廠參觀，並聽取廠區人員介紹，瞭解到該鎮對於環境保護相當重視，汙水經多道處理後符合一定標準再放流。參訪完畢驅車前往韶關。
+  </td>
+ </tr>
+</table>

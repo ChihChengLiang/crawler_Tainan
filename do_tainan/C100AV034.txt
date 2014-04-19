@@ -1,0 +1,263 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   142
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV034
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   廈門百對新人台南集團結婚活動工作會報
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   廈門百對新人台南集團結婚活動工作會報出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C100AV034&amp;fileNo=1" title="另開視窗">
+    C100AV034_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳宗彥
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府新聞及國際關係處
+     </td>
+     <td>
+      臺南市政府新聞及國際關係處處長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      劉瓊英
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府民政局
+     </td>
+     <td>
+      臺南市政府民政局專門委員
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃玉龍
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府民政局
+     </td>
+     <td>
+      臺南市政府民政局專員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王怡青
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府民政局
+     </td>
+     <td>
+      臺南市政府民政局辦事員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   廈門日報社
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(業務活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年07月28日 至 民國100年07月30日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年10月20日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化宣傳
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   廈門，集團結婚
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   13頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   首日上午一行人從台南出發至桃園國際機場，搭乘班機前往廈門，約莫下午15時即抵達廈門。入宿手續辦理完成後，即由陳處長代表接受媒體採訪，為活動宣傳開啟序幕。
+   <br/>
+   第二天上午，所有合作單位一同至廈門日報社參與工作會報會議，跨及兩岸的各活動窗口面對面進行工作討論及溝通，有效確認工作權責，免除因通訊或通信而造成認知上的落差及誤解。同日下午15時30分，於廈門賓館會議廳召開活動宣傳記者會，吸引大批媒體記者前來採訪。記者會上的宣傳，除了讓媒體對活動有深刻的認識與興趣，以強化報導內涵外，市府亦藉此機會結合大陸媒體資源，強力宣傳臺南文化的特色，行銷臺南觀光文化，期待透過媒體的推波助瀾之下，能吸引觀光客前來臺南從事旅遊；下午17時，廈門市委宣傳部副部長上官軍基於兩岸平等互惠，特於前來廈門賓館拜見陳處長，兩人會中相談甚歡，互贈禮物，為兩岸建立良好的友誼基礎。
+   <br/>
+   第三天上午10時搭乘廈門航空班機返臺，約於上午12時飛抵桃園國際機場，結束行程。
+  </td>
+ </tr>
+</table>

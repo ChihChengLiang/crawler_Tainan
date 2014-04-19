@@ -1,0 +1,284 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   229
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV005
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   101年度藝術與人文領域國際文化交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「101年度藝術與人文領域國際文化交流」出國參訪成果報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV005&amp;fileNo=1" title="另開視窗">
+    C102AV005_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      高斌領
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市中西區立人國小
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      呂郁靜
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市白河區仙草國小
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳昌誠
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市中西區立人國小
+     </td>
+     <td>
+      主任
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張小鳳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市北區文元國小
+     </td>
+     <td>
+      老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      李佳茵
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市鹽水區文昌國小
+     </td>
+     <td>
+      老師
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   京都市教育委員會，京都市學校歷史博物館，京都藝術中心，京都府立圖書館，京都傳統產業交流館
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年12月20日 至 民國101年12月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年03月01日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   藝術與人文
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   15頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   京都府曾經是日本歷史上的都城。以長安為藍本建設了「平安京」，自此京都成為平安時代和室町時代的首都，為當時日本的政權中樞。明治天皇出行東京為止的一千一百年間，大體上皆為日本天皇居住之地，京都市因此擁有相當豐富的歷史遺跡，也是日本傳統文化的重鎮之一，京都府一部分的歷史建築，更在1994年作為「古都京都的文化財」的一部分，被列為世界文化遺產。
+   <br/>
+   <br/>
+   臺南市在台灣與京都府在日本的地位，同樣都是國家古都融合了現代化都會風格的城市，人文薈萃，時尚卻不失典雅；不管是人文風貌的形塑、古都風貌的演變、教育規模的變遷，兩個城市的發展軌跡極為相似；因此，出訪京都府的主要目的是，學習京都府如何在新舊世紀之間保有傳統文化兼備創新的新思維，並將日本京都府在教育措施上的優點與台灣現實教育環境作融入性的探討，以供此行教學現場的老師們做為日後在教學融入與發展之資鑑。
+   <br/>
+   <br/>
+   本次主要行程，其一是：從藝術與人文領域的角度，探究京都府在裁併校後閒置空間如何再利用；其二是：傳產文化、藝術人文與空間再利用的應用內容與形式；其三是：拜訪日本教育當局（京都府教育委員會），了解京都府在藝術人文與傳統文化的教育作為，促進兩個城市文化與教育的交流。
+  </td>
+ </tr>
+</table>

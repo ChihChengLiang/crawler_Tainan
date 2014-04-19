@@ -1,0 +1,227 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   16
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AL311
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2010年臺南農特產推廣行銷活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「2010年臺南農特產推廣行銷活動」北京記者會暨參訪市場通路出境報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AL311&amp;fileNo=1" title="另開視窗">
+    C099AL311_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      郭伊彬
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府農業處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳威逹
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣政府農業處
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   上海江橋市場，曹安市場，西郊市場，上海華潤Ole’超市，上海江楊市場，上海農產批發市場
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年09月10日 至 民國99年09月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年10月15日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業環保
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   北京、上海、農產市場
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   中國大陸擁有13億人口的市場規模，地廣人多，消費市場龐大，隨著大陸經濟的發展，民眾所得日漸提高，大陸居民生活水準亦同步提升，健康、安全意識逐漸增強，因此消費者對優質水果的消費需也求日益提高，雖多數的鄉鎮消費尚低，但沿海城市居民的消費潛力不容小覷。
+   <br/>
+   本次「2010年臺南農特產推廣行銷活動」北京記者會暨參訪市場通路行程，除於北京兩大百貨通路辦理台灣水果行銷活動，引進享負盛名的台南老欉麻豆文旦柚及當季盛產台灣紅龍楊桃、台灣凱特芒果、台灣牛奶菠蘿、台灣蓮霧、台灣牛奶番石榴、台灣紅龍果、台灣西紅柚以及藉由兩岸直航、產地直送，難得一見的台灣大目番荔枝等，九種優選健康、美味又安心的各式鮮果，以頂級台灣水果之姿從台灣產地直送，提供北京民眾味美鮮嚐。並前往上海江橋市場、曹安市場、西郊市場、上海華潤Ole’超市、上海江楊市場、上海農產批發市場進行參訪考察，尋求可行開發之市場。
+   <br/>
+  </td>
+ </tr>
+</table>

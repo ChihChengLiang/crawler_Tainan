@@ -1,0 +1,292 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   130
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09500519
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   尼泊爾史蹟勘考
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   尼泊爾史蹟勘考報告書─從世界文化遺產加德滿都谷地看台南市文化遺產保存與都市發展─
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09500519&amp;fileNo=1" title="另開視窗">
+    C09500519_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      劉鎧暄
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林佳蕙
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      文化局
+     </td>
+     <td>
+      工程助理員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   尼泊爾
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   臺南市政府文化局
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年11月19日 至 民國94年11月26日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國95年02月27日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化傳播
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   文化遺產，都市發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   18頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   尼泊爾
+   <br/>
+   地處內陸為高山所環抱，
+   <br/>
+   一個受制於地理地形影響無法對外發展貿易，
+   <br/>
+   以農牧業為主要經濟來源的山國，
+   <br/>
+   從1951年估計到訪參觀的外國旅客為600人，
+   <br/>
+   發展成今每年超過40萬人到訪的旅遊勝地。
+   <br/>
+   <br/>
+   隨觀光業的發展，
+   <br/>
+   約一億五千萬美金的外匯進帳對該國貢獻亦大，
+   <br/>
+   除境內多處聯合國教科文組織認定之世界文化或自然遺產等觀光景點，
+   <br/>
+   原影響經濟發展因素之一的地形，
+   <br/>
+   順勢而為利用成登山聖地，
+   <br/>
+   並配合規劃有沙朗闊欣賞安納普那群峰的日出、魚尾峰，
+   <br/>
+   波卡拉遊費娃湖的旅遊行程，
+   <br/>
+   成功的轉缺點為優點。
+   <br/>
+   <br/>
+   八日的尼泊爾勘考旅程，
+   <br/>
+   除了當地神比人多，
+   <br/>
+   廟宇建築物風格，與雕刻精美的木工，
+   <br/>
+   再再令人感受，
+   <br/>
+   加德滿都谷地的魅力，
+   <br/>
+   隱於生活環境中，
+   <br/>
+   藉由建築、宗教、人物、活動等共構而成的文化強度，
+   <br/>
+   與自然流露的文化異質性，
+   <br/>
+   促使觀光價值提高，
+   <br/>
+   居民收入隨之增加，
+   <br/>
+   既平衡文化資產保存與都市發展，
+   <br/>
+   又兼顧民眾利益，
+   <br/>
+   並達到文化永續傳承及發展之目的。
+   <br/>
+   <br/>
+   最後，
+   <br/>
+   感謝為我們安排這趟精采旅程，
+   <br/>
+   並費心製作導覽手冊的領隊周芷茹，
+   <br/>
+   以及當地導遊小蘇的解說，
+   <br/>
+   更感謝他們二位在團員們病倒時協助就醫，
+   <br/>
+   且給予悉心照顧。
+   <br/>
+  </td>
+ </tr>
+</table>

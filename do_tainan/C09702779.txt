@@ -1,0 +1,288 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   121
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09702779
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   考察及觀摩大陸地方觀光建設及文化古蹟
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   考察及觀摩大陸地方觀光建設及文化古蹟
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09702779&amp;fileNo=1" title="另開視窗">
+    C09702779_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣關廟鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林秋木
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      副主席
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳義發
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      汪忠政
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許文進
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王素珠
+     </td>
+     <td>
+      臺南縣關廟鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年09月15日 至 民國97年09月22日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年09月24日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   國家發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   地方文化設施
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   此次考察為瞭解海峽兩岸亙動關係及對岸之地方建設與進步發展之景況，以培養宏觀問政理念，提昇為民服務品質及監督鄉政之績效，特辦本次考察，以供本鄉爾後推動各項建設參考與借鏡。
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   4頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   重點發展、拆除舊城，迅速改變鄭州、洛陽的歷史鏈結光鮮建設背後，割裂了許
+   <br/>
+   多歷史記憶和人民情感。為了城市的現代化，大批傳統民居被拆除，其中也不乏
+   <br/>
+   名人故居。建設換來了經濟起飛、市民收入提高、生活品質提昇，但城市裡值得
+   <br/>
+   留戀的角落一個個消失，換來一些讓居民不能認同的新建築，對文化累積而言未
+   <br/>
+   必全然是正面的。過去生動豐富的鄰里小市民生活空間，現在徒留現代化硬體外
+   <br/>
+   觀，減弱了人文遺跡，不免有些可惜。
+   <br/>
+   鑒於兩岸的文化交流，有助於加強彼此認識，厚植華文城市間的合作關係，因此
+   <br/>
+   建議可組織「文化考察團」，赴對方城市參觀拜會，透過面對面的交流，深入了
+   <br/>
+   解彼此的異同，以及日後相互對話的機制。
+   <br/>
+   此次收穫最多的是，受邀前往洛陽市訪視【關林】(關帝廟)文化考察，對其自然景觀的維護、休閒場所之規劃、民俗文物古蹟的保存，具有極深刻的印象。尤其對於由洛陽市人民政府主辦的一年一度的中國洛陽關林國際朝聖大典，以“尋根、聯誼、和諧、發展、創新”為主題，突出國際性和群眾性，突出歷史文化內涵和地方特色，圍繞旅遊強市戰略的實施，把朝聖大典與文化旅遊節相融匯，使觀光旅遊和文化旅遊互補，境內旅遊和國際旅遊接軌，關公文化和經濟文化融合，可促進經濟和旅遊產業發展，做為本鄉發展的重要依據。
+   <br/>
+  </td>
+ </tr>
+</table>

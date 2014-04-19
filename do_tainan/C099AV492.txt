@@ -1,0 +1,250 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   238
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV492
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團赴美國卡本德爾市進行姐妹市交流及市政建設參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團赴美國卡本德爾市進行姐妹市交流及市政建設參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AV492&amp;fileNo=1" title="另開視窗">
+    C099AV492_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇恩恩
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王嘉琳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   卡本德爾市市政府，南伊利諾大學卡本德爾分校，鳳凰城市市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年12月06日 至 民國99年12月12日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年12月27日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   雙邊關係
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   卡本德爾市市政府，南伊利諾大學卡本德爾分校，鳳凰城市市政府，姊妹市，太陽能光電
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   15頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市與卡本德爾市於民國80年8月30日由卡本德爾市市長尼爾迪拉德臺南市市長施治明、議長王建益結盟簽訂姊妹市。近幾年來，卡本德爾市市長Mr. Brad Cole多次到訪，分別為民國94年12月14日至16日來訪、民國97年2月17日至21日再次來訪，並參加成功大學研討會；民國99年6月13日至17日柯爾市長三度率團來訪，並出席龍舟晚會。可說是透過成功大學與南伊利諾州大學學術的關係，拉近了兩座城市政府單位及人民間的交流，柯爾市長與許市長互動極為熱絡，兩地人民情誼也日益深厚。
+   <br/>
+   許添財市長雖卸任在即，但柯爾市長盛情難卻，懇切邀請往訪，許市長遂率團於12月6日啟程前往卡本德爾市進行姊妹市流及市政建設參訪活動。除了拜會卡本德爾市市政府，還受邀前往南伊利諾大學卡本德爾分校參觀午宴，正式訪談交流並與該校師生代表交流，相互請益，藉以深化雙方友好關係。
+   <br/>
+   鳳凰城與臺南的別稱相同，連氣候與經濟發展重點亦多有類似，該市全年日照充足氣候乾燥，年雨量僅8英吋，因此成為諸多大企業的資料庫儲存地，也發展太陽能光電科技與電子業。
+   <br/>
+   此次參訪團主要參訪兩座城市，卡本德爾雖為小城，但因有大學而使其附加價值特高，鳳凰城因氣候之利與主事者的企圖心，目標在2020年超越休士頓成為全美第四大城。透過實地的感受與交流，使訪團成員得以了解各個城市特色。訪團於12日上午9時返達高雄國際機場。
+   <br/>
+  </td>
+ </tr>
+</table>

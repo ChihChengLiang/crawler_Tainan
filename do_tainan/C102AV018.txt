@@ -1,0 +1,245 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   171
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV018
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   日本數位文創園區考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   日本數位文創園區考察參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV018&amp;fileNo=1" title="另開視窗">
+    C102AV018_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      王時思
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      研究發展考核委員會
+     </td>
+     <td>
+      主任委員
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林怡壯
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      研究發展考核委員會資訊中心
+     </td>
+     <td>
+      主任
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      邱文志
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      研究發展考核委員會資訊中心
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   Samurai Startup Island，Cyber Agent Ventures Base Camp，Voyage Venture "BOAT"，Super FabLab and FabLab Kannai.，FabLab Kamakura &amp; IT ventures platform (Kamakon-Vally)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年10月06日 至 民國102年10月09日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年10月22日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   人才培育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本東京，FabLab，Co-Working Space，臺南市政府數位文創園區，臺南市政府研考會，共同工作空間，創作實驗工坊，Fabrication Laboratory
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   35頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本案係因本府為執行102年度台南市政府數位文創園區規劃建置業務需求，特安排東京考察日本共同工作空間(Co-Working Space)與創作實驗工坊(FabLab, Fabrication Laboratory)之成功案例，並了解當地政府與其兩者之間的合作關係。
+   <br/>
+   本次出國參訪四日，行程規劃上以東京為出訪目的地，拜訪之共同工作空間計有於品川區Samurai Startup Island、港區Cyber Agent Venture、涉谷區Voyage Ventures Incubation等3家業者，FabLab則包含日本神奈川縣3家FabLab及1家由當地IT相關公司組成的非營利組織，分別為橫濱市Super FabLab和FabLab Kannai、鎌倉市FabLab Kamakura 和Kamacon Valley，兩日共計拜訪七個參訪對象。
+   <br/>
+   對於政府而言，這二種空間的興起見證了全球工作新時代的來臨，個人或團隊自由結合為夢想努力不是空談，而是現在進行式，在FabLab Kannai，便將Co-Working Space及FabLab這2種空間結合在一起，打破傳統軟體業及硬體業的分別，以解決個人問題不受限制的發想實作，促進創新創業，而橫濱市政府也大力推廣這種理念，無論是個人工作形態或是傳統工業時代的生產流程，皆已發生變革，如何支持這種態樣的空間，推廣FabLab個人製造的理念，讓願意改變的人停留當地，導引當地產業轉化以面對全球化的挑戰，是現今地方政府的工作重點。
+   <br/>
+  </td>
+ </tr>
+</table>

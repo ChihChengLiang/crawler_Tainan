@@ -1,0 +1,206 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   335
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09600246
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2006臺南市/日本仙台市身心障礙者體育運動國際友好交流訪問活動參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2006臺南市/日本仙台市身心障礙者體育運動國際友好交流訪問活動參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09600246&amp;fileNo=1" title="另開視窗">
+    C09600246_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林純真
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育局
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本仙台市西多賀工作學院，萩之鄉福壽苑體育館，太白障害者福利中心，仙台市福利廣場
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(交流訪問活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國95年11月26日 至 民國95年11月30日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國96年01月15日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   身心障礙者體育運動交流，運動設施，仙台市訪問活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   15頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   運動素有怡情悅性、潛移默化之功，能裨益身心，開發潛能，提昇團隊合作學習默契。本市特殊體育委員會自成立以來，優異之運動精神及競賽成果表現即是最佳例證。在95年的全國特殊體育運動競賽中，在團體組獲第二名獎項，本市特殊體育團隊之所屬團圓間，亦發展出深厚的情誼及良好的默契，互助合作，運動競技成績精湛。平日特殊體育團隊成員，亦走進台南各社區，回饋地方，深受各界肯定。
+   <br/>
+   運動是是身心最佳的調劑，也帶給這個世界更多的活力和喜悅！本市特殊體育團隊於95年11月26日，由理事長黃德成先生擔任領隊、市長夫人洪淑貞女士擔任榮譽團長，前往日本仙台市交流訪問，進行為期五日的運動交流盛會。本活動重要之目的：在於培養身心障礙團體暨所屬成員間，開闊的國際觀與更卓越的身心障礙相關運動設施與運動競技素養，吸取其他地區身心障礙運動與競技經驗，並將此次運動交流之參訪成果，作為國內日後推動身心障礙者運動設施與競技運動意義之參考，期能提高國內身心障礙者運動相關事項之素質與水平。
+  </td>
+ </tr>
+</table>

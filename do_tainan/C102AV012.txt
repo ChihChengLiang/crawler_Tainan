@@ -1,0 +1,227 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   113
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV012
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市訪問團訪問日本姐妹市仙台市、宮城縣出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市訪問團訪問日本姐妹市仙台市、宮城縣出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV012&amp;fileNo=1" title="另開視窗">
+    C102AV012_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許和鈞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      簡伯瑜
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   仙台市役所，仙台市議會，宮城縣廳，宮城縣議會，東北學院榴岡高校，南浦生淨水廠
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年05月16日 至 民國102年05月19日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年08月16日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際合作及交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   仙台市，宮城縣，青葉祭
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   14頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本案係應姐妹市日本仙台市市長奧山惠美子之邀請，前往仙台參加「青葉祭」，並參訪仙台、宮城縣。2011年日本發生311東北大震災後，臺南市民對於姐妹市仙台市紛紛表達關心之意，4月間，賴市長親赴仙台致贈市民愛心捐款1億700多萬日圓，獲得仙台市之感謝及很大迴響。雙方除持續積極促進兩市間實質交流外，更進行每年一次的官方公式訪問。2012年，仙台市副市長伊藤敬幹來訪，並致上仙台市長親筆信函，邀請本市我們參加隔年的仙台青葉祭，彼此加深了解與交流活動。
+   <br/>
+   本次由副市長許和鈞率團參加，透過參訪互動增進姐妹市友好關係。因仙台市隸屬宮城縣，亦訪問宮城縣廳、宮城縣議會及宮城縣日華親善議員連盟會長，進一步將臺南與日本城市之間的交往，拓展到更高的層級。
+   <br/>
+   日本東北大地震已屆滿2年，為持續傳達對於姐妹市仙台的關心，此行除拜會行程外，亦深入了解仙台市災後復興狀況，將相關災後復興現況資訊帶回。本團除了以各種方式傳達對姐妹市市民的關心，也透過參訪了解仙台市和宮城縣對於防災、救災和災後重建的步驟與計畫。
+   <br/>
+   仙台市自日本戰國時代大名(諸侯)伊達政宗於西元1600年建城，迄今不過400多年歷史，卻發展成人口超過百萬的東北第一大城，城區規劃相當完善，並將建城者伊達政宗塑造成城市的代表與文化特色，此行亦參訪仙台相關文化建設，將可作為本市推動相關文化觀光建設時之參考。
+   <br/>
+  </td>
+ </tr>
+</table>

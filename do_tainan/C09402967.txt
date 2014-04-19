@@ -1,0 +1,238 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   53
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09402967
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   鄉民代表赴北歐四國(丹麥.挪威.芬蘭.瑞典)考察及觀摩地方觀光建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   鄉民代表赴北歐四國(丹麥.挪威.芬蘭.瑞典)考察及觀摩地方觀光建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09402967&amp;fileNo=1" title="另開視窗">
+    C09402967_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣龍崎鄉民代表會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳石森
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      主席
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      曾朝義
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      代表
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林蔚毓
+     </td>
+     <td>
+      臺南縣龍崎鄉民代表會
+     </td>
+     <td>
+     </td>
+     <td>
+      組員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   丹麥、芬蘭、挪威、瑞典
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年06月11日 至 民國94年06月22日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年08月08日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   行政管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   輔助事務
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   北歐
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   17頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   時值邁向國際化、全球化趨勢下，身居地球村之一員，不宜固守及侷限於自身所處的環境範圍，所謂「他山之石足以攻錯」，實有必要開放胸襟、拓展視野、吸收新知及學習他人的長處。北歐各國素以福利制度與先進工業聞名於世。在英國經濟學人「資訊周刊」所評鑑全球111國的居住品質指數中，前十名最適合居住的國家北歐四國即佔三國（挪威、瑞典、丹麥），當中的環境及制度定有值得觀摩與學習的地方；同時擁有瑰麗的大自然風光和豐富人文特色是一塊全球遊客夢寐以求的淨土，故計劃前往北歐四國觀摩地方環境與建設，希藉以刺激新的思維與觀念。
+   <br/>
+   北歐地理與氣候與台灣雖差異甚大，但對此異國文化，仍有許多足為我們學習，尤其是當地人工作時間短，但是卻能創造出悠閒的人間樂土，更是值得探討、效法。同時其社會福利為世界聞名的高所得社會福利國家；尊重人權，崇尚法治，尤為人所稱道。同時北歐保留許多典雅的舊建築，除展現其傳統文化外，也是其重要的觀光資源。另外，乾淨的環境，不急功近利破壞環保的心態，反而留增添更多資源，並提供居民更好生活品質，這都是值得我們學習的。
+  </td>
+ </tr>
+</table>

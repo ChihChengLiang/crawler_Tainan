@@ -1,0 +1,224 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   215
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV020
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   奉派赴日本神戶參訪下水道展覽會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   奉派赴日本神戶參訪下水道展覽會出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV020&amp;fileNo=1" title="另開視窗">
+    C101AV020_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      黃信銓
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      水利局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      石國宏
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      水利局
+     </td>
+     <td>
+      副工程司
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日本神戶地區
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年07月24日 至 民國101年07月28日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年10月25日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   公共工程
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   污水下水道系統及生活污水管理
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本，神戶，水技術，水資源，污水處理，市政建設
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   64頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   臺南市在升格為直轄市後面臨了污水下水道推動與各區系統整併的新課題，除了原推動施工之原台南市轄下七區較明確，其他區域推動污水下水道之實施計畫目前正積極研議中。而已完成污水下水道建設地區亦開始面臨如何有效維護管理的課問題，適逢2012年公益社團法人日本下水道協會假日本神戶國際展示場舉辦Sewage works exhibition，因此水利局污水新建工程科黃信銓科長及石國宏副工程司奉派前往日本神戶參訪，希望透過實地參訪、研討會及各廠家參展的展覽會等活動，吸收日本神戶地區的下水道建設維護經驗及水資源管理，作為臺南市後續市政推動的參考。
+   <br/>
+   考察的結果發現在污水下水道推動建設方面，日本神戶有先進的污水下水道系統維護管理觀念，並能提供市民安全衛生的環境。預防因震災等因素造成污水下水道系統運作喪失作用，更將各區域污水處理廠透過管線串接，以維持全區正常運作及維護管理的便利性。另水資源回收中心產生之廢棄物經由回收再利用技術可達90%以上的回收，並可產生熱源及電源，相關跨部門的合作也整合的十分完整。因此，本次藉由展覽會了解日本神戶無論是污水處理或水回收的技術及設備相關均已十分成熟完整，相關設備均可作為臺灣的污水處理及回收廠使用借鏡。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,312 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   21
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09902266
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南縣將軍鄉99年度赴大陸地區因公派員出國考察文化、古蹟保存、建設、觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南縣將軍鄉99年度赴大陸地區因公派員出國考察文化、古蹟保存、建設、觀光出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09902266&amp;fileNo=1" title="另開視窗">
+    C09902266_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣將軍鄉公所
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      陳進財
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      鄉長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      周進華
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      秘書
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳文正
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      民政課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蕭寶貴
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      財政課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃富農
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      建設課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳益敦
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      農業課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      高敏俊
+     </td>
+     <td>
+      臺南縣將軍鄉公所
+     </td>
+     <td>
+     </td>
+     <td>
+      民政課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   廣東省佛山市高明區楊和鎮人民政府，安徽省黃山市屯溪區奕棋鎮人民政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年06月08日 至 民國99年06月14日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年07月30日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   休閒觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   古蹟、歷史建築、聚落
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   中國大陸，廣東省佛山市高明區楊和鎮人民政府，安徽省黃山市屯溪區奕棋鎮人民政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   11頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   縣市合併為直轄市在即，本鄉鄉長用心經營地方的用心不減，依然思考著如何保存文化古蹟、觀光和建設，此次應中國大陸廣東省佛山市高明區楊和鎮、安徽省黃山市屯溪區奕棋鎮等人民政府邀請，前往考察觀摩。而中國大陸近來經濟進步之快與保存文物發展觀光之功，值得學習，擷人之長，補己之短，為此趟觀摩重點。
+   <br/>
+   本次參訪以農業建設、古蹟、觀光勝地及古老村鎮為主，此行仿佛進入過往的時空與人間仙境，讓團員大開眼界。本次參訪，中國大陸對保護文化古蹟及發展觀光經濟的用心讓團員感同身受，臺南縣(市)本是臺灣最早開發的歷史文化古都，維護古蹟原貌及文化保存為合併為直轄市的重點施政，團員將以觀摩心得共同建設大臺南文化古都。
+   <br/>
+  </td>
+ </tr>
+</table>

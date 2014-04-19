@@ -1,0 +1,223 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   328
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV018
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   建築的能源效率：德國綠建築參訪之旅
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   建築的能源效率：德國綠建築參訪之旅
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C101AV018&amp;fileNo=1" title="另開視窗">
+    C101AV018_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      林欽榮
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林文信
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      經濟發展局
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   德國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   德國聯邦建築、交通及都市發展部，德國批發聯合會，馬克斯普朗克研究中心，科芬能源服務公司，Elb訓練學校及其節能展示中心，德國復興信貸銀行，ziehen中學，達姆施塔特工業大學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年09月08日 至 民國101年09月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年10月08日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   能源
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   節約能源
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   建築，能源，效率
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   44頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   面對全球氣候變遷及化石能源耗竭的危機，如何降低能源消費，實現二氧化碳減量目標成為各國重要的施政方針。德國為因應氣候變遷，二氧化碳減量的趨勢，已訂定2020年溫室氣體的排放量相較於1990年降低40％的目標。
+   <br/>
+   此行發現，德國在推動建築節能及推廣再生能源應用相當積極，如建築能源護照、區域供熱系統、熱電併聯系統運用等均令人讚嘆。但德國因位處溫帶氣候，住宅能源消費以供熱為主，電力僅占10%，而臺灣則位處亞熱帶，住宅能源需求除照明外，以夏季冷凍空調之電力需求為主，兩國氣候特性懸殊，可應用之節能技術及措施不盡相同，不宜貿然引用。但如能考慮臺灣(或臺南)的地方特性，篩選出適當推動措施(如節能展示中心)及導入適合地區特色的建築節能技術(如太陽能熱水器、熱泵熱水器、太陽光電系統)與設計(如成大魔法屋利用煙囪效應將屋內的熱能排出等)，將有助於將臺南建設成為國內低碳城市典範。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,299 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   403
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV010
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   赴歐都市設計案例考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   赴歐都市設計案例考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV010&amp;fileNo=1" title="另開視窗">
+    C101AV010_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      洪傳祥
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市設計審議委員會
+     </td>
+     <td>
+      委員
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      莊德樑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展局
+     </td>
+     <td>
+      主任秘書
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      柯明賢
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都市發展局
+     </td>
+     <td>
+      專門委員
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      劉守禮
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都發局都市開發科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      魏榮宗
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都發局都市設計科
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳盈穎
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都發局都市設計科
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   德國、荷蘭
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   德國國會大廈，德國國會議員辦公室，德國總理府，德國鴻堡大學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年12月10日 至 民國100年12月18日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年03月03日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   營建
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   都市計畫
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   都市設計
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   84頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   歐洲都市設計的發展與運用已經有近千年的歷史，為深入了解歐洲先進城市都市設計理念與成功案利，因而實地考察歐洲荷蘭與德國先進城市舊聚落、歷史港區、水岸景觀、廣場開放空間、農村聚落及歷史古城風華再現等都市設計案例，以供本市都市設計整體規劃及都市設計審議之參考。
+   <br/>
+   考察之心得與建議可歸納為：由環境永續著手的開發規劃、文化創意誘發新都市風格、外來巧思打造新興都會、文化景觀保存與再生、都市更新與風貌營造、建築群與開放空間整合設計、都市軸線規劃設計、車站站區規劃設計、以人為本的交通系統、親水空間的整合設計、街道公用設備的整合設計及廣告招牌與街道風貌的整合等數個面向，藉由深入分析荷蘭與德國先進城市成功案例之理念與做法，進而參酌本地發展現況與地方民情，因地制宜提出具體建議與作法，以供打造本市成為世界一流卓越城市之參考。
+  </td>
+ </tr>
+</table>

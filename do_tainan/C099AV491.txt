@@ -1,0 +1,267 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   162
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV491
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市政府代表團赴日本日光市市政建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府代表團赴日本日光市市政建設考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AV491&amp;fileNo=1" title="另開視窗">
+    C099AV491_01.doc
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C099AV491&amp;fileNo=2" title="另開視窗">
+    C099AV491_02.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      吳宗榮
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      公共工程處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林暉月
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      行政管理及法務處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王水文
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      教育處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林志穎
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      公共工程處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   日光市政府，日光市議會，日光市美術館，世界遺產「日光神社寺廟」，鬼怒楯岩大吊橋，瀬戸合峡吊橋，湯之鄉湯西川觀光中心，東武World Square，「霧降高原」六方澤橋樑
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年10月24日 至 民國99年10月27日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年12月16日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   公共工程
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   推動制度
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   促參業務，市政建設，橋樑工程
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   35頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市與日光市同為世界聞名的文化觀光都市，因此，為增進市府長官暨同仁對於促參業務綜合規劃作業概念與知識，強化民眾生活品質，並提升國家競爭力，期以全面提昇服務品質、增進施政效能，因此至日本栃木縣日光市實地考察當地市政建設促參案例及促參業務考察。此行日光市役所特安排許市長參訪團參觀與台南市車站同樣擁有百年歷史的日光市車站及列入世界遺產的「日光神社寺廟」，實地參觀東照宮雕刻與建築的精湛技藝與風格，做為借鏡與學習。而日光市兩個著名促參案例「小杉放菴記念日光美術館」及「湯之鄉湯西川觀光中心」也進行實地的造訪與考察，日光市政府認為讓民有利可圖而不與民爭利，除減少政府一般性財政支出，也可促進民間參與公共事業，增加就業機會，培養專業人才，因此大力推動促參。也到了日光市的「東武世界廣場」及「六方澤橋樑工程」，參觀1:25的比例的微縮景觀以及精湛的工藝創作品、豐富多采的自然景觀與42處世界遺產的微型景觀，最主要的是要把世界綺麗風光及自然景色盡收眼底。
+  </td>
+ </tr>
+</table>

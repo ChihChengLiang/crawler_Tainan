@@ -1,0 +1,205 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   109
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV017
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   臺南市訪問團赴日行銷臺南芒果
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市訪問團赴日行銷臺南芒果
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV017&amp;fileNo=1" title="另開視窗">
+    C102AV017_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許和鈞
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      副市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   大阪府議會
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(行銷)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年07月02日 至 民國102年07月06日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年09月24日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   外交發展
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際合作及交流
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   芒果、臺南、大阪
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本次出訪由本市副市長許和鈞，陪同臺南市議會郭信良副議長率領之臺南市訪問團前往日本關西、近畿地方的大阪府、中國地方的島根縣、鳥取縣，除了推展臺南芒果行銷活動外並進行文化觀光建設之考察。
+   <br/>
+   臺南愛文芒果質優價美，深受日本顧客喜愛，除家庭自食外，也是日本人送禮的主要選擇之一。近兩年透過本府芒果國際行銷推展，臺南芒果在日本已小有知名度。2012年賴清德市長率團前往日本國會眾議院、東京都議會、青森、北海道等地，推銷臺南芒果，使得當年銷日芒果價格獲得大幅提升，有效提昇農業市場與農民收益。今年農業局與臺南市農會辦理第一屆「臺南國際芒果節」，吸引大量國外業者前來洽詢，幫助芒果行銷國際，也推出日本地區網路下單、宅配到家的服務。臺南市議會積極協助農民生計，特別由郭副議長率團辦理本案出訪日本近畿、中國等地方，本府由許副市長陪同訪問團，希望將臺南芒果行銷推進至日本各地。
+   <br/>
+   本次行程除行銷芒果外，亦前往臺灣旅客較少參訪之中國地區的島根縣和鳥取縣進行文化觀光考察。受二次大戰戰亂影響較少的兩個縣，保存有許多日本傳統文化，目前積極建設成為臺灣文化古都的臺南，有許多可以借鏡參考的地方。
+  </td>
+ </tr>
+</table>

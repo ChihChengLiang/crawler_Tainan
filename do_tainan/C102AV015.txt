@@ -1,0 +1,232 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   83
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV015
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   兩岸宗教文化交流活動－第四屆廣澤尊王文化旅遊節
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   兩岸宗教文化交流活動－第四屆廣澤尊王文化旅遊節出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C102AV015&amp;fileNo=1" title="另開視窗">
+    C102AV015_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      戴鳳隆
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      副局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      謝松益
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      專員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   泉州詩山鳳山寺
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(文化交流)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年09月11日 至 民國102年09月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年10月01日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   民政
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   其他
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   兩岸宗教文化交流活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   18頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   首日（9/11）下午四點於安平港由民政局陳局長宗彥主持宗教文化交流安平－廈門首航儀式，晚上8點30分各宮廟神轎與神尊一行人至安平港撘乘中遠之星，約晚上12點左右起航前往廈門。
+   <br/>
+   第二天（9/12）上午約9點30分中遠之星抵達廈門東渡碼頭，為活動開啟序幕。下午下林玉聖宮及台灣隨行各宮廟神轎及神尊一行人進行廈門踩街活動，下午四點於泉州閩台緣博物館舉行駐駕歡迎儀式，晚上泉州市副市長陳榮洲於泉州酒店舉行歡迎晚宴，民政局戴副局長代表臺南市政府介紹臺南觀光及宗教文化，並代表市府互贈禮物。
+   <br/>
+   第三天（9/13）上午9時進行南安溪美踩街活動，下午2時進行詩山踩街活動，晚上南安市委書記及市長特於南安酒店舉行歡迎晚宴，戴副局長代表市府互贈禮物，交換宗教文化交流意見。
+   <br/>
+   第四天（9/14）上午9時30分於詩山鳳山寺文化廣場舉行廣澤尊王文化旅
+   <br/>
+   遊活動開幕式及祭典儀式，下午團隊回泉州。
+   <br/>
+   第五天（9/15）上午前往安溪縣金谷鎮進行踩街活動，並至太王陵舉行封瑩祭祖儀式，晚上10時於廈門東渡碼頭搭乘中遠之星返臺，於9/16日上午9時抵達台南安平港，結束這趟宗教文化交流行程。
+   <br/>
+  </td>
+ </tr>
+</table>

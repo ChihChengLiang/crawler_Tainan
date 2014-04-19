@@ -1,0 +1,247 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   228
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C099AV488
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參訪日本地震防災相關措施及阪神地震紀念館(人與未來防災中心)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   參訪日本地震防災相關措施及阪神地震紀念館(人與未來防災中心)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C099AV488&amp;fileNo=1" title="另開視窗">
+    C099AV488_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      吳明芳
+     </td>
+     <td>
+      臺南市消防局
+     </td>
+     <td>
+      臺南市消防局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊文正
+     </td>
+     <td>
+      臺南市消防局
+     </td>
+     <td>
+      臺南市消防局
+     </td>
+     <td>
+      小隊長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳青翰
+     </td>
+     <td>
+      臺南市消防局
+     </td>
+     <td>
+      臺南市消防局
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   京都、神戶市消防局及防災館，人與未來防災中心
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年10月07日 至 民國99年10月11日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國99年11月03日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   消防
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   災害防救體系
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   古蹟防災，防災教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   0頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   臺灣地區處於地震頻繁的環太平洋地震帶，本市則位於臺灣南部，且距新化地震斷層僅十餘公里，近年來由於經濟快速發展，人口集中的結果，本轄建物密度急遽升高，根據地震學者專家之研究指出，嘉南地區未來發生強震的機會頗大，且本市依地震危害度分析結果屬於強震區。
+   <br/>
+   日本位於太平洋海板塊、歐亞板塊、與菲律賓海板塊的交會區，為全球地震最頻繁的國家之一，於1995年的阪神大地震造成重大災情，驚覺防災工作之不足，故近年來日本積極從事相關震災預防措施，足為我國借鏡。
+   <br/>
+   本局於2010年10月7日起至10月11日止，進行為期5天赴日參訪防災及消防等業務，訪問大阪市、神戶市兩處之消防局與防災教育館，及「人與防災未來中心」，並參訪當地古蹟之消防、防災措施，藉以提升本市之防災能力，作為本局防災教育館及日後大臺南文化古蹟防災措施相關軟、硬體擴充之規劃參考。
+  </td>
+ </tr>
+</table>

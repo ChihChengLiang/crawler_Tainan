@@ -1,0 +1,295 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   143
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09701889
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2008年臺南縣愛文芒果日、韓拓銷活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2008年臺南縣愛文芒果日、韓拓銷活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09701889&amp;fileNo=1" title="另開視窗">
+    C09701889_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      郭伊彬
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳威達
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      楊博名
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張淑娥
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      縣長室
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本、韓國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   池榮青果株式會社台場台灣物產館，
+京王聖蹟櫻之丘旗艦店台南產愛文芒果試食宣傳販賣會，
+YAMATO（黑貓宅急便）東京總社，
+夕張市農業協同組合，
+札幌車站台南產愛文芒果試食會，
+拜會北海道知事高橋春美女仕，
+參訪真原貿易株式會社（GINWON TRADING CO., LTD，
+GS SQUARE富川店地下超市「台灣台南愛文芒果試食宣傳販賣會」
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國97年07月07日 至 民國97年07月13日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年07月24日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業環保
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   芒果拓銷
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   50頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   （一）研習範圍：
+   <br/>
+   今年拓銷團團員除台南縣政府農業處相關同仁外，尚包含貿易商、農產品相關業者及農民、農會、產銷班、平面及電子媒體記者等共計19人。今年除了東京的拓銷外，並首次將觸角延伸至北海道及韓國首爾，除了解日本通路市場狀況外，並進一步直接與消費者接觸，以其將縣內愛文芒果真正推銷至國外市場。
+   <br/>
+   （二）內容重點：
+   <br/>
+   a.參觀池榮青果株式會社台場台灣物產館
+   <br/>
+   b.京王聖蹟櫻之丘旗艦店「台南產愛文芒果試食宣傳販賣會」
+   <br/>
+   c.拜會YAMATO（黑貓宅急便）東京總社
+   <br/>
+   d.參訪夕張市農業協同組合
+   <br/>
+   e.札幌車站「台南產愛文芒果試食會」
+   <br/>
+   f.拜會北海道知事高橋春美女仕
+   <br/>
+   g.參訪真原貿易株式會社（GINWON TRADING CO., LTD）
+   <br/>
+   h.GS SQUARE富川店地下超市「台灣台南愛文芒果試食宣傳販賣會」
+   <br/>
+   <br/>
+   （三）主要心得：
+   <br/>
+   臺南縣是農業大縣，尤其芒果更是四大旗艦商品之一，每當芒果季來臨時，南化及玉井到處可見到白茫茫的一片，農民穿梭期間採收忙碌的景象，政府單位也會辦理各種活動來加以促銷，增加農民之收入。臺南縣政府已經連續五年至日本做芒果促銷推廣活動，今年除了至東京做推銷外，更至北海道拓銷愛文芒果及參訪當地的洋香瓜網室生產環境及相關集貨設備，如此不只在行銷活動上有所斬獲外，更是加深在生產面上有有更深的認識。藉由此次的拓銷行程十足加深了本身的視野，也讓往後的工作上能夠更加以不同角度來思考及辦理。
+   <br/>
+  </td>
+ </tr>
+</table>

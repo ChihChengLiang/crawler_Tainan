@@ -1,0 +1,290 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   272
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09403356
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   聯合國2005年世界環境日暨聖荷西姊妹市參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   聯合國2005年世界環境日暨聖荷西姊妹市參訪報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C09403356&amp;fileNo=1" title="另開視窗">
+    C09403356_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      許添財
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      市長室
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      洪正中
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      主任秘書室
+     </td>
+     <td>
+      主任秘書
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      謝世傑
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市環境保護局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳宇停
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      工務局
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃玉鳳
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞室
+     </td>
+     <td>
+      課員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   舊金山市政府，聖荷西市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(城市交流)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年05月31日 至 民國94年06月07日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年09月08日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   環境保護
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   環境資源
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   世界環境日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   29頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   一、1972年，聯合國大會通過決議設立「世界環境日」。每年由不同城市主辦「世界環境日」的慶祝活動，在6月5日所在的一週進行國際性的展示和宣傳。聯合國希望通過「世界環境日」來加強人們的環保意識，提升政府關注以及號召公眾行動。今年為聯合國成立60週年，舊金山以聯合國的發源地舉辦「世界環境日」，意義更大。
+   <br/>
+   <br/>
+   二、面對中共不斷以各種手段打壓台灣在國際之能見度，此次 市長受邀參加舊金山市所主辦的聯合國2005年世界環境日大會，除了是對台南市環境保護成績上的肯定，更可藉此行爭取我城市外交之發展空間，促進與其他國際城市間的經貿、文化、科技上之交流，讓台灣成功站上國際舞台。
+   <br/>
+   <br/>
+   三、台南市近來的城市綠建築的成績是有目共睹的，除受國內各項專業的肯定，多項建築作品均受頒「綠建築標章」及「園冶獎」的肯定，亦受到國際專業的注目，此次市長受邀參加世界綠建築協會年會並發表演說，除了分享台南市在綠建築上的成績與榮耀，更進一步邀請大會明年在台灣台南召開年會。除了走向國際，更要將國際帶到台南。
+   <br/>
+   <br/>
+   四、藉由此次舊金山市所主辦的聯合國2005年世界環境日大會之「綠色城市博覽會」(green cities expo)設攤參展，以精心設計的展示看板與文宣，成功的發表台南市的綠色城市成績，將綠色台南展示給全世界，行銷府城，以吸引BOT的投資與觀光。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,338 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   174
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C102AV016
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   亞太棒球訓練中心－美國參訪
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   臺南市政府「亞太棒球訓練中心-美國參訪」出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C102AV016&amp;fileNo=1" title="另開視窗">
+    C102AV016_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      賴清德
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      市長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳宗彥
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      民政局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇錦雀
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      體育處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王藝霖
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      體育處
+     </td>
+     <td>
+      組員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      余金秀
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      新聞及國際關係處
+     </td>
+     <td>
+      助理員
+     </td>
+     <td>
+      委任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林宗成
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      中華民國棒球協會
+     </td>
+     <td>
+      秘書長
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      葉志仙
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      輔仁大學
+     </td>
+     <td>
+      教授
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      黃國州
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+     </td>
+     <td>
+      棒球文字工作者
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   美國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   Camelback Ranch Baseball Spring Training Center，Salt River Fields Baseball Spring Training Center，Chase Field，Camden Yards
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(參訪)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國102年05月20日 至 民國102年05月25日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國102年08月22日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   運動設施發展政策規劃與推動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   亞太棒球訓練中心，棒球場
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   49頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   棒球運動在臺灣發展的歷史已久，更被視為我國的「國球」。臺南市是臺灣各級棒球運動的發展搖籃，從早期的巨人少棒隊到近期揚名美國棒球大聯盟的臺灣之光，王建民及郭泓志選手，都是出身臺南的棒球巨星，甚至在1990年臺灣職業棒球開打以後，以臺南為基地的統一獅隊，也在職業棒球發展史上占舉足輕重的地位，顯見棒球運動在臺南市民心中的重要性。
+   <br/>
+   所謂「工欲善其用，必先利其器」，發展棒球運動除積極培訓棒球選手外，優質的硬體設備亦不可缺少。按臺灣各縣市雖然已興建不少棒球場，然而多屬單一功能的棒球比賽場館，並無複合式棒球訓練中心的設施。考量棒球是戶外運動，而臺南市地處臺灣南部，屬偏熱帶型氣候，全年日照數，較全國平均日照數多出，顯見臺南市在天候方面的確具有發展棒球運動的優勢，此外，臺南民眾對於棒球運動的熱情及臺南市發展棒球運動的淵源，因此，賴清德市長指示臺南市應該興建一座複合式的棒球訓練中心，俟棒球訓練中心興建完成後，除能提升臺灣發展棒球運動的硬體環境外，也可利用天氣及環境的優勢，吸引日、韓等棒球隊移地訓練，提升臺灣棒球運動選手競技水準，並得藉由棒球達成行銷臺灣的目標。
+   <br/>
+   由於國內未有複合式棒球訓練中心的場地設施，因此特別到美國亞利桑那州(Arizona)參訪洛杉磯道奇隊及亞歷桑納響尾蛇隊春訓中心基地與馬里蘭州(Maryland)巴爾的摩金鶯隊的主場地，擷取國外經驗，作為興建臺南市亞太國際棒球訓練中心的參酌。
+   <br/>
+  </td>
+ </tr>
+</table>

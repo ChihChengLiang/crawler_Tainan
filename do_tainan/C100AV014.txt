@@ -1,0 +1,224 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   170
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C100AV014
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市美食工藝產業補助計畫
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南市美食工藝產業補助計畫-日本名古屋觀摩
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C100AV014&amp;fileNo=1" title="另開視窗">
+    C100AV014_01.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      余基吉
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府文化觀光處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳育融
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府文化觀光處
+     </td>
+     <td>
+      約用人員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   熱田神宫.麒麟啤酒工廠.高山祭典之森.白川鄉合掌村聚落.湯國之森傳統工藝村.近江町市場.東茶屋.食品工廠見學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國99年12月04日 至 民國99年12月08日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國100年05月06日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   文化藝術
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   美食.工藝.產業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   16頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   本次觀摩行程為計畫規定之工作事項，但在行程排訂方面，考量參加者有傳統工藝產業業者、台南市觀光產業協會、99年府城十大伴手禮業者、台南市政府文化觀光處等，特以名古屋與週遭之飛驒山脈、高山市為參訪地區，從中挑選適合成員背景之觀摩景點。在傳統工藝產業方面以高山祭典之森、湯之森博物館、常滑陶瓷散步道為主要參觀點，美食業者方面則以麒麟啤酒工廠、キューピー食品工場見學。然而，雖有針對不同產業進行參訪點規劃，但在每一個點不分產業，許多業者皆有所得，也針對所見所聞寫成分享心得文章。
+   <br/>
+   日本在文化的保存方面與商品的創意設計方面，皆展現巧思，連街道景觀營造也令人驚喜，此行藉由觀摩學習國外案例，瞭解並汲取國外推展經驗，學習創新經營模式，開啟不同的創意思考方向，藉以提昇國內地方特色產業之國際競爭力，並可供未來政策上推動之參考。
+   <br/>
+  </td>
+ </tr>
+</table>

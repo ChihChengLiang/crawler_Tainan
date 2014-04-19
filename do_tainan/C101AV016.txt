@@ -1,0 +1,247 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   238
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV016
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2012年「產業文化資產再利用行動研習」日本海外研習考察
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2012年「產業文化資產再利用行動研習」日本海外研習考察報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C101AV016&amp;fileNo=1" title="另開視窗">
+    C101AV016_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      楊珮瑤
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府文化局
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      莊小逸
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府文化局總爺藝文中心
+     </td>
+     <td>
+      科員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭芊吟
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      臺南市政府文化局
+     </td>
+     <td>
+      約僱人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   則武之森，豐田產業技術紀念館，3Asahi名古屋啤酒工場，醋之里，八丁味噌の鄉，INAX Museums，野外博物館明治村，高山市町之博物館，三町古街，高山市街，飛驒古川町，白川鄉合掌造聚落，イチビキ(株)第1工場
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國101年06月22日 至 民國101年06月27日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年08月10日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育文化
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   文化及觀光
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本，產業文化資產，再利用
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   31頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   原行政院文化建設委員會文化資產總管理處籌備處(現文化部文資局)推動產業文化資產再生計畫自2006年迄今業已六年，今年為加強產業文化資產再利用單位之營運管理及承辦人力資源之培訓，特規劃本次研習活動。
+   <br/>
+   <br/>
+   本次海外研習課程，參訪日本中部地區著名之產業文化資產再利用案例，以及地方小型手作坊、地方產業工廠精緻產業轉型案例，以參觀與座談方式，希冀激發對產業文化資產活用與再利用之永續經營之新理念、新方向, 並藉由親身觀摩、體驗，直接進行感官思想之轉化，以促進臺灣產業文化資產活化再利用之發展，提升文化服務品質，增進營運績效,達到行動研習之效果。
+   <br/>
+   <br/>
+   本研習共參訪11處(產業)文化資產，參觀面向豐富，從飲食、生活用品、汽車等產業，到社區居民保留共識具代表性的合掌村、高山社區等，都可以強烈感受日本全民對文化資產保存的認同與價值定位，也激發自身在業務辦理過程應有的社會責任與文化熱誠，惟所參訪對象因著社會中的文化性不同，多由民間自主發起與國內多數由公部門資源支持與經營現象的差異，有著不一樣的限制，承辦人員的熱誠或許能被激發，不過該如何將全民共有的文化財、共同體感受傳達出去，讓全民對文化資產的保留採取正面且積極的態度，或許仍是需要持續努力的目標，不過仍相信的是對於文化資產的價值認定一定有其正面價值存在，而這存在仍是需要時間逐步的被全民於生活中感受。
+   <br/>
+  </td>
+ </tr>
+</table>

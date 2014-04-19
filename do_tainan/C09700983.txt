@@ -1,0 +1,230 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   68
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09700983
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2007年法國pollutec環保展出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2007年法國Pollutec環保展 (Pollutec 2007)出國報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09700983&amp;fileNo=1" title="另開視窗">
+    C09700983_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      鄭永揚
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣環保局
+     </td>
+     <td>
+      技佐
+     </td>
+     <td>
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      侯俊彥
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      臺南縣環保局
+     </td>
+     <td>
+      副處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   法國
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   1、Pollutec 2007國際環保展
+2、VEOLIA公司工業廢棄物部門
+3、巴黎市政廳下水道工程處
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   考察
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國96年11月24日 至 民國96年12月06日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國97年02月27日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   環境保護
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   環境資源
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   環保展出國報告書
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   34頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   1、Pollutec 2007國際環保展:本次參展主要目的在讓參觀這次展覽的公司及廠商，能夠了解台灣環保科技園區的各項訊息（如區位、地價、優惠措施等），雖未期望能獲得立即性招商成果，但希望藉由持續性之交流及聯繫，進而發掘各國潛在性投資廠商。
+   <br/>
+   2、VEOLIA公司工業廢棄物部門:本次參訪之Veolia集團為法國當地著名之跨國環保集團，在全世界已逐漸重視亞洲市場的同時，其表達相當程度拓展亞洲市場之企圖心，若能結合公部門力量，加強宣導台灣地區民主程度高、金融自由、政府效率好、人力資源豐沛、企業靈活性高、及位於亞洲區域市場中心點等優勢，相信應可加深投資的信心，由另一角度觀之，若環保科技園區能吸引爭取此類旗艦型環保產業進駐，不僅能提高台灣能見度，並能相對提升國內環保產業技術水準，惟後續工作仍有賴賡續維持溝通聯繫，並持續提供相關園區資訊及提供必要協助（如提供國內環保產業資訊），始能有具體成果。
+   <br/>
+   3、巴黎市政廳下水道工程處:本次參訪過程除既定之行程外，亦抽空感受巴黎市之生活環境，便捷的公共運輸系統（地下鐵、輕軌電車、公車及便利的腳踏車租借政策）、大眾交通工具各項貼心的設計（如可供多人之三叉扶手、電扶梯途中的緊急按鈕）、對行人路權的尊重，友善的生活及遊憩空間，完善之下水道系統、潔淨的塞納河，及幾乎看不到裸露地表是此行最深的感受，顯示法國在城鄉規劃及環境保育上成效卓著，值得未來參考。
+   <br/>
+  </td>
+ </tr>
+</table>

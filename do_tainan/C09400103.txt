@@ -1,0 +1,270 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   103
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09400103
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   「健康城市聯合會議」報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   「健康城市聯合會議」報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09400103&amp;fileNo=1" title="另開視窗">
+    C09400103_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      洪正中
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      主任秘書室
+     </td>
+     <td>
+      主任秘書
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      蘇俊仁
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      衛生局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      許金鈴
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      社會局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳家慶
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      都發局
+     </td>
+     <td>
+      課長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   馬來西亞
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國93年10月11日 至 民國93年10月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年01月10日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   傳染病防治
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   醫療與公共衛生
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   健康城市,馬來西亞,古晉市
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   20頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   健康城市聯盟（AFHC）是由位於西太平洋區的國家官方單位、民間團體、私人機構、學術單位及城市結盟而成，這些機構都是致力於推動健康城市相關研究及活動。本次參加AFHC於馬來西亞古晉舉行之「健康城市聯合會議」之目的，乃為吸取AFHC會員及其他參加者的健康城市經驗與理念、意見、運用網路、資源的經驗與知識，以及如何加入國際健康城市間的結盟，並發揮其行動的能量的技巧。
+   <br/>
+   <br/>
+   我們可以看到古晉如何利用國際研討會，用心的宣傳、推廣(promoate)自己的城市，包括議程上多方介紹當地的努力與進步、安排到當地實地參訪、大會資料最後附上詳細的古晉旅遊觀光介紹…等等，甚至安排隨行人員全成陪同與會者，除了隨時能夠了解與會者的問題、滿足與會者的需要外，與會者也可以藉機向他們詢問各種有關古晉在推動健康城市或是衛生政策方面的各種議題，也讓與會者對古晉有更深的了解。
+   <br/>
+   <br/>
+   本次大會有幾點值得效仿之處：(1)秘書處貼心安排當地接待人員，於行前幫忙參與人員確認飯店，在會議期間也全程陪同，形成參與人與大會的溝通橋樑；(2)其他時間，依與會團員的需求安排多種活動，使外賓對古晉市更加的了解與認識等；(3)節目策劃部分，除包含開幕、閉幕兩項重要的儀式外，亦於活動中增加一些感性的影片及音樂喚起大家對於此議題之重視。
+   <br/>
+   <br/>
+   因本府目前非屬西太平洋區健康城市聯盟之會員城市，且中國大陸上海及蘇州已為會員城市，預期將阻撓本府以城市名義參加會員，建議協助籌組第三部門組織申請加入西太平洋健康城市聯盟會員，以讓本府發展健康城市得與國際接軌。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,251 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   214
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C101AV003
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   參加2011聯合國氣候變遷綱要公約國際會議及地方環境行動國際委員會周邊會議
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2011聯合國氣候變遷綱要公約（UNFCCC）國際會議及地方環境行動國際委員會(ICLEI)周邊會議
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV003&amp;fileNo=1" title="另開視窗">
+    C101AV003_01.pdf
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式pdf" border="0" src="../images/FileType/icon_pdf.gif"/>
+   <a href="show_file.jsp?sysId=C101AV003&amp;fileNo=2" title="另開視窗">
+    C101AV003_02.pdf
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      張皇珍
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      環境保護局
+     </td>
+     <td>
+      局長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      邱瑞基
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      環境保護局
+     </td>
+     <td>
+      專員
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      王柏人
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      環境保護局
+     </td>
+     <td>
+      約聘
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   南非
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   德班市政廳及國際會議中心
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(國際會議)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國100年12月01日 至 民國100年12月08日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國101年01月13日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   環境保護
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   國際
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   ICLEI，COP17，德班
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   30頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   臺南市政府環境保護局(以下簡稱本局)奉派於12月初前往南非德班(Durban)參加「2011聯合國氣候變遷綱要公約（United Nations Framework Convention on Climate Change, UNFCCC）國際會議及地方環境行動國際委員會(ICLEI)周邊會議」，本次會議由局長張皇珍率同仁前往參加並交流、學習全球氣候變遷對環境影響之處理與因應行動。
+   <br/>
+   臺南市為臺灣南部地區低碳示範城市唯一代表，市長賴清德於100年8月5日召開「低碳城市 首選臺南」記者會中，宣布民國101年為臺南市低碳元年，是為了解國際趨勢，俾使本市溫室氣體減量策略與國際接軌，提昇本市在國際上之能見度，期望藉由參與聯合國國際會議(UNFCCC)來學習並了解全球溫室氣體減量的政策與措施。
+   <br/>
+   本市針對UNFCCC秘書處10月26日公布德班會議233場次、220個展覽攤位及ICLEI德班氣候調適公約會議中，擇定有關調適、減緩及水患/資源等議題，在會議中學習國際管理、能源和世界各地可使用的新能源、永續管理及生態循環城市等進行瞭解及經驗交流，一方面學習其他國際城市環保業務，並提昇府都國際知名度，與世界接軌。
+   <br/>
+   本次會議為聯合國COP17/CMP7和ICLEI舉辦「德班各地方政府公約-適應氣候變遷公約會議」，本市、台北市與高雄市代表團皆有派員出席。而ICLEI會議目前是全球最大的城市聯盟組織，已經有1,220個城市70個國家加入，今〈100〉年度臺南市亦參與會議，除了瞭解國際趨勢的最新動態，亦於會場設置攤位行銷臺南，會中宣導本市低碳策略與減碳的目標。此次由張局長率團前往，希望能夠致力於二氧化碳減量的工作上。
+  </td>
+ </tr>
+</table>

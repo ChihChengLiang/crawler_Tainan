@@ -1,0 +1,240 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   137
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09404062
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市東光國小雅韻國樂團兩岸音樂交流演出報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南市東光國小雅韻國樂團兩岸音樂交流演出報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09404062&amp;fileNo=1" title="另開視窗">
+    C09404062_01.doc
+   </a>
+   <br/>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09404062&amp;fileNo=2" title="另開視窗">
+    C09404062_02.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      鄭福海
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市東光國民小學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      江崇偉
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      台南市東光國民小學
+     </td>
+     <td>
+      學務主任
+     </td>
+     <td>
+      教師
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   中國大陸
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   江蘇省民族樂團
+南京市南昌路小學
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(音樂交流演出)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國94年07月09日 至 民國94年07月15日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國94年10月14日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   教育及體育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   傳統音樂、民族音樂、國樂
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   12頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   台南市東光國小雅韻國樂團應大陸「江蘇省演藝集團」邀請，與江蘇省民族樂團及南京市南昌路小學，分別合作演出兩場音樂會，將台灣本土傳統音樂介紹給大陸的職業樂團及小學生，順利達成兩岸文化藝術交流目的。
+   <br/>
+   此行赴大陸表演重點包含以下：
+   <br/>
+   1.以台灣作曲家作品為主要展演內容，具體呈現台灣當代音樂風貌之外，藉此展現台灣傳統音樂發展的獨特性。
+   <br/>
+   2.與江蘇省民族樂團首席團員及南京藝術學院副院長朱昌耀先生同台演出，增進小學生的演出經驗，學習職業演奏家之演出技巧。
+   <br/>
+   3.與南京市南昌路小學協演，可彰顯與對岸互動的對等文化交流模式，開啟兩岸文化交流的新局面。
+   <br/>
+   全文依1.目的2.過程3.心得4.建議等四部分分述如報告。
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,304 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   422
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09802484
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   2009年臺南縣愛文芒果日本拓銷活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   2009年臺南縣愛文芒果日本拓銷活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09802484&amp;fileNo=1" title="另開視窗">
+    C09802484_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南縣政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://www.tainan.gov.tw/cht/index/index.aspx" target="_blank">
+    http://www.tainan.gov.tw/cht/index/index.aspx
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      蘇煥智
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+     </td>
+     <td>
+      縣長
+     </td>
+     <td>
+      政務官
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      張淑娥
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      縣長室
+     </td>
+     <td>
+      約聘人員
+     </td>
+     <td>
+      聘、雇
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      郭伊彬
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      處長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      吳威達
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      科長
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      朱健明
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      林雪英
+     </td>
+     <td>
+      臺南縣政府
+     </td>
+     <td>
+      農業處
+     </td>
+     <td>
+      技士
+     </td>
+     <td>
+      薦任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+   阪急百貨西宮分店及大和運輸(YHC) 、石川-東急飯店、北海道三越百貨等地辦販促活動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他(農產品促銷活動)（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國98年06月11日 至 民國98年06月16日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國98年09月11日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   農業
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   農產運銷
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   日本、愛文芒果
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   22頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   紅艷的愛文芒果是台南縣最重要的水果之一，也是台灣四大外銷旗鑑農產品之一，台南縣的玉井鄉和南化鄉是全台聞名的芒果產地，尤其是愛文芒果，讓台南縣成為台灣芒果之鄉。
+   <br/>
+   它甜美的風味總會讓人流連忘返，而這樣的美味每年總會吸引許多日本人的親睞，因此每年外銷日本的數量總是逐年的成長。
+   <br/>
+   雖然愛文芒果本身具備了非常好的販售魅力，但過去台灣人的包裝手法及行銷技術都較為薄弱，因此販售通路總是局限於傳統市場或賣場，無法與日本當地的精緻農產品並列，為突破這樣的瓶頸，本府團隊赴日進行推廣活動，選定今年有販售台灣愛文芒果的阪急百貨公司西宮分店及大和運輸(YHC) 、石川-東急飯店、北海道三越百貨等地辦販促活動等相關通路，於百貨賣場辦理試吃推廣活動，並廣邀日本媒體，增加台灣芒果的曝光，藉此推薦台灣愛文的迷人風味，一舉踏入頂級果物之列。
+   <br/>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,237 @@
+<table border="0" cellpadding="0" cellspacing="0" class="report_DATAtable" summary="資料表格">
+ <tr>
+  <th scope="row" width="25%">
+   點閱次數：
+  </th>
+  <td>
+   43
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" width="25%">
+   系統識別號：
+  </th>
+  <td>
+   C09302354
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫名稱 ：
+  </th>
+  <td>
+   台南市立建興國民中學棒球隊前往日本交流比賽成果報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告名稱：
+  </th>
+  <td>
+   台南市立建興國民中學棒球隊前往日本交流比賽成果報告
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   電子全文檔 ：
+  </th>
+  <td>
+   <img align="absmiddle" alt="檔案格式doc" border="0" src="../images/FileType/icon_doc.gif"/>
+   <a href="show_file.jsp?sysId=C09302354&amp;fileNo=1" title="另開視窗">
+    C09302354_01.doc
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   附件檔：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計畫主辦機關：
+  </th>
+  <td>
+   臺南市政府
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   計劃主辦機關網站首頁：
+  </th>
+  <td>
+   <a href="http://" target="_blank">
+    http://
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國人員：
+  </th>
+  <td>
+   <table border="0" cellpadding="0" cellspacing="0" class="simple_form2" summary="表格資料">
+    <caption align="left">
+     出國人員名單
+    </caption>
+    <tr align="center">
+     <th nowrap="" scope="col">
+      姓名
+     </th>
+     <th nowrap="" scope="col">
+      服務機關
+     </th>
+     <th nowrap="" scope="col">
+      服務單位
+     </th>
+     <th nowrap="" scope="col">
+      職稱
+     </th>
+     <th nowrap="" scope="col">
+      官職等
+     </th>
+    </tr>
+    <tr>
+     <td>
+      劉丁洲
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      建興國民中學
+     </td>
+     <td>
+      校長
+     </td>
+     <td>
+      簡任(派)
+     </td>
+     <td>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      陳美燕
+     </td>
+     <td>
+      臺南市政府
+     </td>
+     <td>
+      建興國民中學
+     </td>
+     <td>
+      庶務助理
+     </td>
+     <td>
+      其他
+     </td>
+     <td>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   前往地區：
+  </th>
+  <td>
+   日本
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   參訪機關：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   出國類別：
+  </th>
+  <td>
+   其他（其他類別之出國報告係依各機關自訂管理方式處理）
+  </td>
+ </tr>
+ <tr>
+  <th>
+   出國期間：
+  </th>
+  <td>
+   民國93年04月02日 至 民國93年04月08日
+  </td>
+ </tr>
+ <tr>
+  <th>
+   備註：
+  </th>
+  <td>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告日期：
+  </th>
+  <td>
+   民國93年07月08日
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   主題分類：
+  </th>
+  <td>
+   教育
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   施政分類：
+  </th>
+  <td>
+   全民運動規劃與推動
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   關鍵詞：
+  </th>
+  <td>
+   友好訪問交流比賽
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告書頁數：
+  </th>
+  <td>
+   10頁
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   報告內容摘要：
+  </th>
+  <td>
+   1、日本浜松青少棒聯盟，東京調布青少棒聯盟十多年來，每年皆蒞臨台南市與本校棒球隊進行友好訪問交流比賽，雙方建立深厚的國際友誼。
+   <br/>
+   2、2003年12月19日日本浜松市長北協保之先生邀請本校前往該市訪問比賽，經我國台北駐日經濟文化代表處橫濱分處協助，於今年4月2日出發
+   <br/>
+   3、4月3日上、下午與浜松可美中學及開成中學各比賽一場分別以6－4，3－0本校獲勝，4月3日晚參加浜松天竜中學，遠州日華親善協會所辦理之歡迎餐會。4月4日與天竜中學友誼賽勝負各一場；4月3日、4日兩晚本校選手home stay於日本選手家庭，體驗日本家庭生活文化。
+   <br/>
+   4、4月3日、4月4日於浜松訪問比賽期間，旅居名古屋、靜岡縣浜松市等地之華僑同胞，或全家大小蒞臨球場加油打氣，或致送餐飲，熱情感人。
+   <br/>
+   5、4月5日拜訪浜松市政府，由市長北協保之親自接見，校長代表台南市許市長致贈紀念品及轉達加強雙方城市交流意願；訪問團並參訪浜松市航空博物館、祭祀會館等地，並上富士山四合目勝，夜宿河口湖畔飯店。
+   <br/>
+   6、4月6日參觀日本先進科技磁浮列車試驗，下午與東京調布青少棒聯隊友誼賽，以8－1落敗。晚間立法委員錢林慧君博士抵達飯店勉勵隊職選手。
+   <br/>
+   7、4月7日帶領選手搭乘地鐵，感受東京生活脈動，並前往東京狄士奈樂園
+   <br/>
+   8、4月8日參觀上野動物園，下午搭機回台，返抵學校已深夜12點。
+  </td>
+ </tr>
+</table>
